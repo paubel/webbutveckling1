@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulär knapphändelse</title>
+    <style>
+
+    </style>
+</head>
+
+<body>
+
+
+    <form action="https://httpbin.org/post" method="post">
+        <h2>Kodspråk jag kan</h2>
+        <button type="button">Ändra bakgrundsfärg</button>
+        <div> <label> <input type="checkbox" name="html" value="html">HTML </label></div>
+
+        <div> <label> <input type="checkbox" name="css" value="css">CSS </label></div>
+
+        <div> <label> <input type="checkbox" name="javascript" value="javascript">JavaScript </label></div>
+        <br>
+        <button type="submit">Skicka</button>
+
+    </form>
+    <script>
+        /* Du behöver inte förstå koden nedan den är här för att visa ett exempel på hur en knapp kan ge användaren möjlighet till att iteragera med webbsidan */
+        const button = document.querySelector("button");
+        const body = document.querySelector("body");
+        const colors = ["lightblue", "yellow", "pink", "orange", "aqua", "white", "lightgreen", "lightyellow", "lightpink", "lightpurple", "lightorange", "lightaqua", "lightwhite"];
+
+
+
+        body.style.backgroundColor = "violet";
+        button.addEventListener("click", changeBackground);
+
+        function changeBackground() {
+            const colorIndex = parseInt(Math.random() * colors.length);
+            body.style.backgroundColor = colors[colorIndex];
+        }
+    </script>
+
+
+
+
+</body>
+
+</html>

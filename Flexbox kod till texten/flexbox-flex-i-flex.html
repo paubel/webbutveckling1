@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox</title>
+    <style>
+        .container {
+            display: flex;
+        }
+
+        .item {
+            background-color: lightblue;
+            width: 100px;
+            height: 100px;
+            margin: 5px;
+        }
+
+        .two {
+            display: flex;
+            flex-direction: column;
+            background-color: lightgreen;
+        }
+
+        .two-item {
+            background-color: lightpink;
+            border: 1px solid green;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="item one">Nivå 1</div>
+        <div class="item two">
+            Nivå 1 med två barn
+            <div class="two-item a">Nivå 2</div>
+            <div class="two-item  b">Nivå 2</div>
+        </div>
+        <div class="item three">Nivå 1</div>
+    </div>
+</body>
+
+</html>

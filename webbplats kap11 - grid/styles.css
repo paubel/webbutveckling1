@@ -1,0 +1,59 @@
+body {
+  background-color: #000;
+  color: #b3e3f8;
+  font-family: Bahnschrift, "DIN Alternate", "Franklin Gothic Medium",
+    "Nimbus Sans Narrow", sans-serif-condensed, sans-serif;
+  font-weight: normal;
+}
+
+.container {
+  margin: 10px 5vw;
+}
+
+.two-columns {
+  display: flex;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+p {
+  font-family: Avenir, Montserrat, Corbel, "URW Gothic", source-sans-pro,
+    sans-serif;
+  font-weight: normal;
+}
+
+img {
+  display: inline;
+  width: 20vw;
+}
+
+a {
+  color: #3bbaf0;
+}
+
+/*Gallery start*/
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-auto-rows: 200px;
+  gap: 10px;
+  padding: 10px;
+}
+
+.gallery-item {
+  width: 100%;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+/*Gallery end*/

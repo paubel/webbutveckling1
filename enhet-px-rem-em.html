@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boxmodellen</title>
+    <style>
+        html {
+            /*  font-size: 16px; */
+        }
+
+        .parent {
+            background-color: lightgray;
+            font-size: 16px;
+            /* Ändra till 8px och jämför vad som händer med */
+        }
+
+        .relative-em {
+            background-color: aqua;
+            font-size: 1em;
+            border: blue solid 1em;
+        }
+
+        .relative-rem {
+            background-color: lightcoral;
+            font-size: 1rem;
+            border: darkred solid 1rem;
+        }
+
+        .absolute-px {
+            background-color: greenyellow;
+            font-size: 16px;
+            border: green solid 16px;
+        }
+
+        .relative-em span {
+            /*  Ändra till 2em */
+            font-size: 1em;
+        }
+
+        .relative-rem span {
+            /*  Ändra till 2em */
+            font-size: 1rem;
+        }
+    </style>
+</head>
+
+<body class="parent">
+    <article class="relative-em">
+        <p></p>Relativ med <span>em</span></p>
+    </article>
+    <article class="relative-rem">
+        <p>Relativ med <span>rem</span> </p>
+    </article>
+
+    <article class="absolute-px">
+        <p>Absolut med px</p>
+    </article>
+</body>
+
+</html>
