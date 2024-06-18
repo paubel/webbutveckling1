@@ -23,7 +23,7 @@ jobs:
         run: |
           git config --global user.email "paul.belfrage@gmail.com"
           git config --global user.name "paubel"
-          git clone https://${{ env.ORG_NAME }}:${{ secrets.WEBB_2025 }}@github.com/${{ env.ORG_NAME }}/destination-repo.git
+          git clone https://${{ env.ORG_NAME }}:${{ secrets.WEBB_2025 }}@github.com/${{ env.ORG_NAME }}/webbutveckling1.git
           cd webbutveckling1
           git remote add ${{ env.ORIGINAL_REPO_NAME }} https://${{ env.ORG_NAME }}:${{ secrets.WEBB_2025 }}@github.com/${{ env.ORG_NAME }}/${{ env.ORIGINAL_REPO_NAME }}.git
           git remote update
