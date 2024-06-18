@@ -1,35 +1,26 @@
-# @format
-# https://medium.com/@saad-awais/sync-one-repository-with-another-using-github-actions-1f349eed5173
-
-name: Sync Repos
+#https://github.com/repo-sync/repo-sync
+name: Repo Sync
 
 on:
-  push:
-    branches:
-      - main
-  # You can add more triggers, such as scheduled events
-  # schedule:
-  #   - cron: '0 0 * * *'
+  schedule: 
+  - cron: "*/15 * * * *" # every 15 minutes. set to whatever interval you like
 
 jobs:
-  sync:
+  repo-sync:
+    name: Repo Sync
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout source repository
-        uses: actions/checkout@v2
-
-      - name: Push to destination repository
-        run: |
-          git config --global user.email "paul.belfrage@gmail.com"
-          git config --global user.name "paubel"
-          git clone https://${{ env.ORG_NAME }}:${{ secrets.WEBB_2025 }}@github.com/${{ env.ORG_NAME }}/webbutveckling1.git
-          cd webbutveckling1
-          git remote add ${{ env.ORIGINAL_REPO_NAME }} https://${{ env.ORG_NAME }}:${{ secrets.WEBB_2025 }}@github.com/${{ env.ORG_NAME }}/${{ env.ORIGINAL_REPO_NAME }}.git
-          git remote update
-          git merge ${{ env.ORIGINAL_REPO_NAME }}/main
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.WEBB_2025 }}
-          ORIGINAL_REPO_NAME: ${{ github.event.repository.name }}
-          ORG_NAME: Your workspace name
+    - uses: actions/checkout@v3
+    - uses: repo-sync/github-sync@v2
+      name: Sync repo to branch
+      with:
+        source_repo: ${{ secrets.SOURCE_REPO }}
+        source_branch: main
+        destination_branch: ${{ secrets.INTERMEDIATE_BRANCH }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+    - uses: repo-sync/pull-request@v2
+      name: Create pull request
+      with:
+        source_branch: ${{ secrets.INTERMEDIATE_BRANCH }}
+        destination_branch: main
+        github_token: ${{ secrets.GITHUB_TOKEN }}
