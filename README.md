@@ -1,7 +1,3 @@
-# TEST 6
-
-<!--  -->
-
 # Läromedlets Innehåll
 
 ## 1. Om läromedlets uppbyggnad
