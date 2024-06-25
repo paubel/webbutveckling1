@@ -16,6 +16,9 @@ jobs:
       - name: Checkout source repository
         uses: actions/checkout@v3
 
+      #   - name: Set up Node.js
+      #    uses: actions/setup-node@v2 # Adjust this line as per your actual Node.js setup step
+
       - name: Push to destination repository
         run: |
           git config --global user.email "paul.belfrage@skola.malmo.se"
@@ -24,7 +27,7 @@ jobs:
           cd webbutveckling1
           git remote add source-repo https://${{ secrets.PAT }}@github.com/paul-pauliskolan/webbutveckling1.git
           git remote update
-          git merge source-repo/main --allow-unrelated-histories
-          git push origin main
+          git merge source-repo/master --allow-unrelated-histories
+          git push origin master
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
