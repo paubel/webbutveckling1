@@ -24,7 +24,7 @@ jobs:
           cd webbutveckling1
           git remote add source-repo https://${{ secrets.PAT }}@github.com/paul-pauliskolan/webbutveckling1.git
           git remote update
-          git merge source-repo/main
+          git merge source-repo/main --allow-unrelated-histories
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
