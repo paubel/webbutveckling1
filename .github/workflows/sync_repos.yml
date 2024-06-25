@@ -2,7 +2,7 @@ name: Sync Repos
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
           cd webbutveckling1
           git remote add source-repo https://${{ secrets.PAT }}@github.com/paul-pauliskolan/webbutveckling1.git
           git fetch source-repo
-          git merge source-repo/master --allow-unrelated-histories
-          git push origin master
+          git merge source-repo/main --allow-unrelated-histories
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
