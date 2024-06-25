@@ -1,5 +1,4 @@
 # @format
-# https://medium.com/@saad-awais/sync-one-repository-with-another-using-github-actions-1f349eed5173
 
 name: Sync Repos
 
@@ -7,9 +6,6 @@ on:
   push:
     branches:
       - main
-  # You can add more triggers, such as scheduled events
-  # schedule:
-  #   - cron: '0 0 * * *'
 
 jobs:
   sync:
@@ -21,15 +17,13 @@ jobs:
 
       - name: Push to destination repository
         run: |
-          git config --global user.email "paul.belfrage@gmail.com"
-          git config --global user.name "paubel"
-          git clone https://${{ env.ORG_NAME }}:${{ secrets.WEBB_2025 }}@github.com/${{ env.ORG_NAME }}/webbutveckling1.git
+          git config --global user.email "paul.belfrage@skola.malmo.se"
+          git config --global user.name "paul-pauliskolan"
+          git clone https://${{ secrets.PAT }}@github.com/paubel/webbutveckling1.git
           cd webbutveckling1
-          git remote add ${{ env.ORIGINAL_REPO_NAME }} https://${{ env.ORG_NAME }}:${{ secrets.WEBB_2025 }}@github.com/${{ env.ORG_NAME }}/${{ env.ORIGINAL_REPO_NAME }}.git
+          git remote add source-repo https://${{ secrets.PAT }}@github.com/paul-pauliskolan/webbutveckling1.git
           git remote update
-          git merge ${{ env.ORIGINAL_REPO_NAME }}/main
+          git merge source-repo/main
           git push origin main
         env:
-          GITHUB_TOKEN: ${{ secrets.WEBB_2025 }}
-          ORIGINAL_REPO_NAME: ${{ github.event.repository.name }}
-          ORG_NAME: Your workspace name
+          GITHUB_TOKEN: ${{ secrets.PAT }}
