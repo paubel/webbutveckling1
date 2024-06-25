@@ -1,0 +1,58 @@
+The error you're encountering suggests that the GitHub Personal Access Token (PAT) you're using doesn't have the necessary permissions to push to the repository `paubel/webbutveckling1.git`. Here are a few steps to troubleshoot and resolve this issue:
+
+1. Check your PAT permissions:
+   Make sure the PAT you're using has the necessary permissions to push to the repository. It should have at least `repo` scope for private repositories or `public_repo` for public repositories.
+
+2. Verify the PAT:
+   Double-check that the PAT is correctly stored in your repository secrets and that you're referencing it correctly in your workflow file.
+
+3. Repository permissions:
+   Ensure that the GitHub account associated with the PAT has write access to the `paubel/webbutveckling1` repository.
+
+4. Branch name:
+   Your workflow is set up to push to the `master` branch, but your workflow triggers on pushes to `main`. Make sure you're using the correct branch names consistently.
+
+Here's an updated version of your workflow that addresses some of these issues:
+
+```yaml
+name: Sync Repos
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Push to destination repository
+        run: |
+          git config --global user.email "paul.belfrage@skola.malmo.se"
+          git config --global user.name "paul-pauliskolan"
+          git clone https://${{ secrets.PAT }}@github.com/paubel/webbutveckling1.git
+          cd webbutveckling1
+          git remote add source-repo https://${{ secrets.PAT }}@github.com/paul-pauliskolan/webbutveckling1.git
+          git fetch source-repo
+          git merge source-repo/main --allow-unrelated-histories
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+```
+
+Key changes:
+- Added `fetch-depth: 0` to the checkout action to fetch all history.
+- Changed `master` to `main` in the git commands to match your trigger branch.
+- Used `git fetch` instead of `git remote update` for clarity.
+
+If you're still encountering issues after these changes, you may want to:
+1. Regenerate your PAT and update it in your repository secrets.
+2. Double-check that the account associated with the PAT has the necessary permissions on both repositories.
+3. Verify that the repository names and URLs are correct.
+
+Would you like me to explain any part of these changes or suggestions in more detail?

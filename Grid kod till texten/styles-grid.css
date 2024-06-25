@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+/* .container {
+  background-color: lightsalmon;
+  border: 3px solid darkmagenta;
+} */
+
+.item {
+  border: 2px solid darkgreen;
+  background-color: lightgreen;
+}

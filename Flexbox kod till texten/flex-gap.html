@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox - flex</title>
+    <link rel="stylesheet" href="
+    styles.css">
+    <style>
+        .container {
+            display: flex;
+            background-color: greenyellow;
+            flex-wrap: wrap;
+            /* avstånd horisontellt */
+            column-gap: 20px;
+            row-gap: 10px;
+            /*   gap: 10px 20px; */
+        }
+
+        .item {
+            width: 90px;
+            background-color: lightblue;
+            border: 2px solid darkblue;
+            width: 100px;
+            height: 100px;
+            margin: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="item a">Adam<br>Adamsson</div>
+        <div class="item b">Bertil</div>
+        <div class="item c">Cecilia<br> Cesson</div>
+        <div class="item d">Dahlia</div>
+        <div class="item e">Erik</div>
+        <div class="item f">Freja</div>
+
+
+    </div>
+
+</body>
+
+</html>

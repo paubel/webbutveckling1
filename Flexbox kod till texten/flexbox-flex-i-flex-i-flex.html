@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlexLorem</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        main {
+            background-color: lightgreen;
+            padding: 5px;
+            border: 3px solid darkgreen;
+        }
+
+        .section-blue {
+            background-color: lightblue;
+            border: 3px solid darkblue;
+            display: flex;
+            gap: 5px;
+        }
+
+        .article-coral {
+            display: flex;
+            background-color: coral;
+            gap: 5px;
+            margin: 5px;
+            border: 3px solid orangered;
+            flex: 1;
+        }
+
+        .p-pink {
+            background-color: pink;
+            border: 3px solid red;
+            gap: 5px;
+            margin: 5px;
+            flex: 1;
+        }
+
+        .article-purple {
+            background-color: lightpink;
+            border: 3px solid darkmagenta;
+            gap: 5px;
+            margin: 5px;
+            flex: 2;
+        }
+
+        .article-orange {
+            background-color: orange;
+            border: 3px solid darkgoldenrod;
+            padding: 5px;
+            margin: 5px;
+            flex: 1;
+        }
+
+        .section-middle {
+            display: flex;
+
+
+        }
+
+        .section-middle-left {
+            display: flex;
+            background-color: orange;
+            border: 3px solid darkgoldenrod;
+            padding: 5px;
+            margin: 5px 0;
+            flex: 1;
+
+        }
+
+        .section-middle-right {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+
+        }
+
+        .article-orange-right {
+
+            background-color: orange;
+            border: 3px solid darkgoldenrod;
+            padding: 5px;
+            margin: 5px;
+
+
+
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <section class="section-blue">
+            <article class="article-coral">Lorem</article>
+            <article class="article-coral">
+                <p class="p-pink">Lorem</p>
+                <p class="p-pink">Lorem</p>
+            </article>
+            <article class="article-coral">Lorem</article>
+        </section>
+        <section class="section-pink"></section>
+        <section class="section-middle">
+            <article class="section-middle-left">Lorem</article>
+            <section class="section-middle-right">
+                <article class="article-orange-right">Lorem</article>
+                <article class="article-orange-right">Lorem</article>
+            </section>
+        </section>
+        <section class="section-blue">
+            <article class="article-purple">Lorem</article>
+            <article class="article-orange">Lorem</article>
+            <article class="article-orange">Lorem</article>
+            <article class="article-purple">Lorem</article>
+        </section>
+    </main>
+</body>
+
+</html>

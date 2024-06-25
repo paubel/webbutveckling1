@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid</title>
+    <link rel="stylesheet" href="styles-grid.css">
+    <style>
+        .container-fill {
+            display: grid;
+
+            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+        }
+
+        .container-fit {
+            display: grid;
+
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+        }
+    </style>
+</head>
+
+<body>
+    <div>auto-fill</div>
+    <div class="container-fill">
+        <div class="item a">Adam Adamsson</div>
+        <div class="item b">Bertil</div>
+        <div class="item c">Cecilia</div>
+        <div class="item d">Dahlia</div>
+    </div>
+    <br>
+    <div>auto-fit</div>
+    <div class="container-fit">
+        <div class="item a">Adam Adamsson</div>
+        <div class="item b">Bertil</div>
+        <div class="item c">Cecilia</div>
+        <div class="item d">Dahlia</div>
+    </div>
+
+</body>
+
+</html>

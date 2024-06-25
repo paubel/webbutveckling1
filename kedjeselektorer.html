@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kedjeselektorer</title>
+    <style>
+        .foo.bar {
+            color: green;
+        }
+
+        .foo#baz {
+            color: blue;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <div class="foo bar">Denna text är grön</div>
+        <p class="foo" id="baz">
+            Denna text är blå.
+        </p>
+        <p id="baz">Denna text blir inte blå</p>
+        <p class="bar">Denna text blir inte grön</p>
+    </div>
+</body>
+
+</html>

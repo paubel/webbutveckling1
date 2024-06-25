@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox - flex</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .container {
+            display: flex;
+            gap: 10px;
+            background-color: lightgreen;
+            border: 3px solid darkgreen;
+        }
+
+        .item {
+            height: 100px;
+            border: 2px solid blue;
+            background-color: lightblue;
+
+            flex: 0 1 auto;
+            /* Detta ger samma resultat som att inte skriva ut flex: 0 1 auto; */
+            /*     flex-grow: 0;
+            flex-shrink: 1;
+            flex-basis: auto; */
+
+        }
+
+        .a {}
+
+        .b {}
+
+        .c {}
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="item a">Adam</div>
+        <div class="item b ">Bertil</div>
+        <div class="item c">Cecilia</div>
+        <!--   <div class="item d">Dahlia</div> -->
+    </div>
+</body>
+
+</html>

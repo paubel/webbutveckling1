@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox - flex</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        .container {
+            display: flex;
+            /*   flex-direction: row; */
+            /* flex-direction: column; */
+        }
+
+        .item {
+            height: 10vh;
+            width: 20vw;
+            border: 2px solid blue;
+            background-color: lightblue;
+            flex: 0 1 250px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="item a">Adam</div>
+        <div class="item b ">Bertil</div>
+        <div class="item c">Cecilia</div>
+        <div class="item d">Dahlia</div>
+    </div>
+</body>
+
+</html>

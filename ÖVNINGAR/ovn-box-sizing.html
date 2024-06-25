@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .parent {
+            border: 7px solid blue;
+            padding: 5px;
+            width: 100px;
+        }
+
+        .child-border-box {
+            box-sizing: border-box;
+            border: 10px solid green;
+            width: 100px;
+        }
+
+        .child-content-box {
+
+            box-sizing: content-box;
+            border: 10px solid red;
+            width: 100px;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div>
+        <div class="parent">Parent
+            <div class="child-border-box">Child border-box</div>
+        </div>
+    </div>
+    <div>
+        <div class="parent">Parent container
+            <div class="child-content-box">Child content-box</div>
+        </div>
+    </div>
+
+</body>
+
+</html>

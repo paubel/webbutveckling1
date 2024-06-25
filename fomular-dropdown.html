@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulär rullgardinsmeny (dropdown menu)</title>
+    <style>
+
+    </style>
+</head>
+
+<body>
+
+
+    <form action="https://httpbin.org/post" method="post">
+        <select name="color">
+            <option value="black">Black</option>
+            <option value="white">White</option>
+            <option value="blue">Blue</option>
+            <option value="green">Green</option>
+            <option value="yellow">Yellow</option>
+            <option value="red">Röd</option>
+        </select>
+
+        <select name="planet">
+            <optgroup label="Gas giants">
+                <option value="Jupiter">Jupiter</option>
+                <option value="Saturn">Saturn</option>
+                <option value="Uranus">Uranus</option>
+                <option value="Neptune">Neptune</option>
+            </optgroup>
+            <optgroup label="Rocky planets">
+                <option value="Mercury">Mercury</option>
+                <option value="Venus">Venus</option>
+                <option value="Earth">Earth</option>
+                <option value="Mars">Mars</option>
+            </optgroup>
+        </select>
+        <button type="submit">Skicka</button>
+    </form>
+
+
+</body>
+
+</html>
