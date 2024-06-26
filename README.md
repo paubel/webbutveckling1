@@ -1,8 +1,12 @@
-# Läromedlets Innehåll
+# Läromedlets innehåll
+
+[Länk till denna sida](https://paubel.github.io/webbutveckling1/)
 
 ## 1. Om läromedlets uppbyggnad
 
 En bra uppsättning filmer där jag gå igenom grunderna i hur man gör moderna webbsidor. Filmerna tar upp liknade saker som i boken men är inte övningar i boken. [Länk till filmerna](https://www.youtube.com/watch?v=BCqcBps5jOM&list=PLNadygDF_9TFqwOOsb3FHVsoBQkyjw6tn&ab_channel=PaulBelfrage)
+
+Nedan är listan på filmerna
 
 1. Installera VS Code del 1 - nerladdning av VS Code - installation
 2. Installera VS Code del 2 - skapa en fil
@@ -38,7 +42,19 @@ En bra uppsättning filmer där jag gå igenom grunderna i hur man gör moderna 
 
 ## 2. Installation av Visual studio Code och Hello world med HTML och CSS
 
+[Länk till film som visar installation av VS Code - del 1-6.](https://www.youtube.com/watch?v=BCqcBps5jOM&list=PLNadygDF_9TFqwOOsb3FHVsoBQkyjw6tn&ab_channel=PaulBelfrage) Tänk på att du inte behöver lägga till alla extentions som visas i filmerna. Det jag rekomenderar är
+
+- Live Server av Ritwick Dey
+- W3C Web Validator av Celian Riboulet
+
+[Länk till Visual Studio Code](https://code.visualstudio.com)
+
 ## 3. En kort historik om webben
+
+[W3C](https://www.w3.org/about/history/)
+[ADSL](https://en.wikipedia.org/wiki/ADSL)
+[surfa på webben](https://it-ord.idg.se/ord/surfning/)
+[Uppkoppling till internet 1969 - 2003](https://docs.google.com/spreadsheets/d/1fgWcUDBK9RMW_CsseeGX5QM30r9RBjWctUvfnvhnwZo/edit?usp=sharing)
 
 ## 4. Tekniken bakom webben
 
@@ -46,11 +62,21 @@ En bra uppsättning filmer där jag gå igenom grunderna i hur man gör moderna 
 
 ### 4.2 Webbens betydelse och funktion - Webben som plattform och dess samhällspåverkan.
 
+[Tom Scotts genomgång om varför val på webben är en dålig idé på YouTube.](https://www.youtube.com/watch?v=LkH2r-sNjQs&ab_channel=TomScott)
+
+[Estland var tidigt ute med digitala val och 2023 lades över häften av rösterna digitalt](https://en.wikipedia.org/wiki/Electronic_voting_in_Estonia)
+
 ### 4.3 Protokoll
 
 #### 4.3.1 HTTP och HTTPS
 
 #### 4.3.2 HTTP-statuskoder
+
+[Det finns flera olika statuskoder för olika situationer på developer.mozilla.org kan du läsa om alla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+ÖVNING [https://www.google.com/test](https://www.google.com/test)[]
+
+[HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 4.4 IP-adress
 4.5 Klient server
