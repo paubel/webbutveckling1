@@ -16,7 +16,7 @@ jobs:
 
       - name: Push to destination repository
         run: |
-          git config --global user.email "paul.belfrage@skola.malmo.se"
+          git config --global user.email "${{ secrets.EMAIL }}"
           git config --global user.name "paul-pauliskolan"
           git clone https://${{ secrets.PAT }}@github.com/paubel/webbutveckling1.git
           cd webbutveckling1
