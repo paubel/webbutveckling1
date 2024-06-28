@@ -215,4 +215,56 @@ Andra saker som jag visar i filmerna ovan är
 
 [css-tricks.com/almanac](https://css-tricks.com/almanac/)
 [developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-Everywhere on the way to now looking on the meter. Yeah, both hang on the smooth seam and you always Monday. OK. I told him 8. They are in and nailing on. right. So harder than. No, I told you. I told him later. Yes let's go over here. I'm gonna be there.
+
+### 10.2.1 Color och background-color
+
+[namngivna färger](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
+
+[CSS Legal Color Values ](https://www.w3schools.com/cssref/css_colors_legal.php)
+[Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
+
+### 10.2.2 Typografi och fonter
+
+[mer om fonter här](https://docs.google.com/document/d/1-cd8Pz6rN5zWkN8U08wpzmiRgwi494pqwqzpsCeBck0/edit#heading=h.1ujiay74txh)
+
+### 10.2.3 Google fonts
+
+[Google Fonts](https://fonts.google.com/)
+[några exempel som på hur GDPR har påverkat](https://docs.google.com/document/d/1-cd8Pz6rN5zWkN8U08wpzmiRgwi494pqwqzpsCeBck0/edit#heading=h.rzpwh8v17s6p)
+
+### 10.2.4 Modern Font Stacks
+
+[modernfontstacks.com](https://modernfontstacks.com/)
+
+### 10.6.1 box-sizing: content-box
+
+[MDN box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+
+[sin sida](https://www.joshwcomeau.com/css/custom-css-reset/#one-box-sizing-model-2)
+
+[Universalselektor](https://docs.google.com/document/d/1-cd8Pz6rN5zWkN8U08wpzmiRgwi494pqwqzpsCeBck0/edit#heading=h.8tx3a1k38j8m)
+
+[::before här](https://developer.mozilla.org/en-US/docs/Web/CSS/::before)
+[::after här](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)
+
+### 10.6.3 img { display: block; }
+
+[www.joshwcomeau.com/css/custom-css-reset/](https://www.joshwcomeau.com/css/custom-css-reset/)
+[andy-bell.co.uk/a-more-modern-css-reset/](https://andy-bell.co.uk/a-more-modern-css-reset/)
+[github.com/Andy-set-studio/modern-css-reset](https://github.com/Andy-set-studio/modern-css-reset)
+
+[modernfontstacks.com](https://modernfontstacks.com/)
+
+### 10.7.3 Klasselektorer
+
+[BEM](https://getbem.com/introduction/)
+
+### 10.7.8 Ordningen av selektorer
+
+[CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.php)
+
+ÖVNING [modernfontstacks.com](https://modernfontstacks.com/)
+
+# 11 Flexbox och grid
+
+[Flexbox kunde användas i många webbläsare 2014 och Grid 2017](https://apptitude.ch/en/development/web-layout-part-2-flexbox-and-grid/#:~:text=Two%20of%20them%20have%20radically,started%20to%20support%20in%202017.)
