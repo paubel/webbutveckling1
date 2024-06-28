@@ -52,8 +52,11 @@ Spellistans innehåll
 # 3. En kort historik om webben
 
 [W3C](https://www.w3.org/about/history/)
+
 [ADSL](https://en.wikipedia.org/wiki/ADSL)
+
 [surfa på webben](https://it-ord.idg.se/ord/surfning/)
+
 [Uppkoppling till internet 1969 - 2003](https://docs.google.com/spreadsheets/d/1fgWcUDBK9RMW_CsseeGX5QM30r9RBjWctUvfnvhnwZo/edit?usp=sharing)
 
 # 4. Tekniken bakom webben
@@ -527,9 +530,7 @@ TODO: inspektorn
 
 ## 28.1 GitHub
 
-Hur man läger upp en webbplats på GitHub och publicerar den på internet
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0q5jhjU4QJU?si=it35ExhsWg0Q54UJ" frameborder="0" allowfullscreen></iframe>
+YouTube [Hur man läger upp en webbplats på GitHub och publicerar den på internet](https://www.youtube.com/watch?v=0q5jhjU4QJU&ab_channel=PaulBelfrage)
 
 # 29 Översikt av alternativa metoder för att skapa och redigera webbsidor.
 
