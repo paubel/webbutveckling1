@@ -276,3 +276,197 @@ Andra saker som jag visar i filmerna ovan är
 ### 11.2.14 Blanda px med fr
 
 ![Blanda px med fr ](grid-px-fr.gif)
+
+### 11.2.16 Minmax()
+
+[Det finns vissa risker att använd enheten ch som man bör var medveten om](https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/)
+
+## 12.1 Absoluta enheter
+
+### 12.1.1 px
+
+[www.w3.org/Style/Examples/007/units.en.html](www.w3.org/Style/Examples/007/units.en.html)
+
+# 13 Mer om CSS
+
+## 13.1 Kaskad och specificitet
+
+[Amelia Wittenbergers blogg](https://2019.wattenberger.com/blog/css-cascade)
+
+[Mer om layers på MDN](developer.mozilla.org/en-US/docs/Web/CSS/@layer)
+
+[specificity.keegan.st](https://specificity.keegan.st/)
+
+[2019.wattenberger.com/blog/css-cascade](2019.wattenberger.com/blog/css-cascade)
+
+# 14 Responsiv design - mobilanpassning
+
+[Statscounter](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/worldwide/#monthly-200901-202306)
+
+### 14.2.1 CSS referenser
+
+[flukeout.github.io](https://flukeout.github.io/)
+
+# 15 JavaScript - Orientering om javascript och DOM (dokumentobjektsmodellen)
+
+## 15.1 En kort historik om JavaScript
+
+[thehistoryoftheweb.com/the-10-day-programming-language-is-a-myth/](https://thehistoryoftheweb.com/the-10-day-programming-language-is-a-myth/)
+
+## 15.2 Några orienterande exempel på JavaScript
+
+[https://javascript.info/](javascript.info)
+[https://www.w3schools.com/js/](www.w3schools.com/js)
+[https://developer.mozilla.org/en-US/docs/Learn/JavaScript](developer.mozilla.org/en-US/docs/Learn/JavaScript)
+
+[https://www.w3schools.com](www.w3schools.com)
+[scrimba.com/learn/learnjavascript](https://scrimba.com/learn/learnjavascript)
+
+# 16 Fonter
+
+## 16.1 Web safe fonts
+
+[Google Fonts](https://fonts.google.com/)
+
+# 17 Färglära, färgschema, RGB och kontraster
+
+[Wikipedia: BenRG](https://en.wikipedia.org/wiki/Cone_cell#/media/File:Cone-fundamentals-with-srgb-spectrum.svg)
+
+## 17.1 Färgscheman - vilka färger passar ihop
+
+[László Németh, CC0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/9/97/RGB_color_wheel_pixel_30.svg)
+
+[www.canva.com/colors/color-wheel/](https://www.canva.com/colors/color-wheel/)
+
+[http://www.realtimecolors.com](www.realtimecolors.com)
+[https://coolors.co/](coolors.co)
+[https://paletton.com/](paletton.com)
+[https://www.canva.com/colors/color-palette-generator/](www.canva.com/colors/color-palette-generator/)
+
+# 18 Ange färger i CSS
+
+[https://www.w3schools.com/colors/colors_rgb.asp](www.w3schools.com/colors/colors_rgb.asp)
+
+## 18.1 Fördjupning i att ange färger
+
+[odepen.io/paubel/full/jOQRyRe](https://codepen.io/paubel/full/jOQRyRe)
+
+[evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
+
+[oklch.com/#62.795536061455145,0.286,29.2338851923426,100](https://oklch.com/#62.795536061455145,0.286,29.2338851923426,100)
+
+[www.joshwcomeau.com/css/color-formats/ ](https://www.joshwcomeau.com/css/color-formats/)
+
+# 19 Planering och specifikation av struktur och design
+
+## 19.1 Usability (Användbarhet)
+
+[The State Of Usability In 2023](https://www.smashingmagazine.com/2023/01/usability-2023/)
+
+## 19.7 Minska belastningen på korttidsminnet
+
+[world's shortest UI/UX design course](https://www.youtube.com/watch?v=wIuVvCuiJhU&ab_channel=Juxtopposed)
+
+# 21 Validering och testning
+
+TODO: inspektorn
+
+## 21.3 Interoperabilitet genom standarder och testning på olika användaragenter
+
+[Usage share of web browsers](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#Summary_tables)
+
+[Safari eftersom den senaste fungerade versionen för Winwows kom 2012](https://www.intowindows.com/how-to-install-safari-browser-on-windows-10/)
+
+[gs.statcounter.com/browser-market-share#monthly-200901-202406](https://gs.statcounter.com/browser-market-share#monthly-200901-202406)
+
+[Saucelabs ](https://saucelabs.com/)
+
+[User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/dbclpoekepcmadpkeaelmhiheolhjflj)
+
+[finns samma tiilägg](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived/)
+
+[stackoverflow.com](https://stackoverflow.com/)
+[code.visualstudio.com/download](https://code.visualstudio.com/download)
+
+# 22 Tillgänglighet
+
+[lagen om tillgänglighet till digital offentlig service](https://webbriktlinjer.se/lagkrav/webbdirektivet/)
+
+[WCAG 2.1 riktlinjerna](https://webbriktlinjer.se/wcag/)
+
+[några andra riktlinjer man ska uppfylla](https://webbriktlinjer.se/lagkrav/webbdirektivet/krav-en-301549-utover-wcag-2-1-aa/)
+
+[Webbriktlinjer](https://www.digg.se/webbriktlinjer/alla-webbriktlinjer)
+
+[webaim.org/standards/wcag/checklist](https://webaim.org/standards/wcag/checklist)
+
+[Krav i EN 301549 utöver WCAG 2.1](https://webbriktlinjer.se/lagkrav/folj-standarder-tillganglighet/)
+
+## 22.1 De fyra principerna
+
+[accessmonitor.acessibilidade.gov.pt](https://accessmonitor.acessibilidade.gov.pt/)
+
+## 22.2 Färgblindhet
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chromostereopsis)
+
+[webaim.org](https://webaim.org/resources/contrastchecker/)
+
+## 23.2 Verktyg för bildbehandling
+
+### 23.2.1 Squoosh
+
+[squoosh.app](https://squoosh.app/)  
+[squoosh-desktop.vercel.app](https://squoosh-desktop.vercel.app/)
+
+### 23.2.2 Photopea
+
+[www.photopea.com](https://www.photopea.com/)
+
+### 23.2.3 Pixlr
+
+[pixlr.com/se/](https://pixlr.com/se/)
+
+### 23.2.4 TinyPNG
+
+[tinypng.com](https://tinypng.com/)
+
+### 23.2.5 Ezgif
+
+[ezgif.com](https://ezgif.com/)
+
+### 23.2.6 Draw.io
+
+[app.diagrams.net](https://app.diagrams.net/)
+
+### 23.2.7 Google Teckningar
+
+[Google Teckningar](https://docs.google.com/drawings/create?usp=apps_start&hl=sv)
+
+### 23.2.8 Gimp
+
+[www.gimp.org](https://www.gimp.org/)
+
+### 23.2.9 Photoshop
+
+[Photoshop](https://www.adobe.com/products/photoshop.html)
+
+# 24 Komprimera bildfilen
+
+## 24.1 Bildformat
+
+[https://w3techs.com/technologies/history_overview/image_format/all/y](w3techs.com/technologies/history_overview/image_format/all/y)
+
+### 24.1.4 WebP
+
+[caniuse.com](https://caniuse.com/webp)
+
+### 24.1.5 AVIF
+
+[Alliance for Open Media.](https://en.wikipedia.org/wiki/Alliance_for_Open_Media)
+
+[Alliance for Open Media](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/#avif)
+
+[Using Modern Image Formats: AVIF And WebP](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/#avif)
+
+[ caniuse.com](https://caniuse.com/avif)
