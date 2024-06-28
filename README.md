@@ -1,6 +1,4 @@
-<!---
-<title>Webbutveckling 1 av Paul Belfrage</title>
--->
+# Webbutveckling 1 av Paul Belfrage
 
 # 1. Om läromedlets uppbyggnad
 
