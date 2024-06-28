@@ -1,3 +1,7 @@
+<!---
+<title>Webbutveckling 1 av Paul Belfrage</title>
+-->
+
 [Länk till denna sida](https://paubel.github.io/webbutveckling1/)
 
 # 1. Om läromedlets uppbyggnad
@@ -268,3 +272,7 @@ Andra saker som jag visar i filmerna ovan är
 # 11 Flexbox och grid
 
 [Flexbox kunde användas i många webbläsare 2014 och Grid 2017](https://apptitude.ch/en/development/web-layout-part-2-flexbox-and-grid/#:~:text=Two%20of%20them%20have%20radically,started%20to%20support%20in%202017.)
+
+### 11.1.3 Gap och flex-wrap: wrap
+
+[An Interactive Guide to Flexbox av Josh W Comeau](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
