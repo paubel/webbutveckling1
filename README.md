@@ -470,3 +470,80 @@ TODO: inspektorn
 [Using Modern Image Formats: AVIF And WebP](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/#avif)
 
 [ caniuse.com](https://caniuse.com/avif)
+
+### 24.1.6 SVG
+
+[W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
+
+[W3Cs webbplats](https://www.w3.org/Icons/SVG/)
+
+[svg-logo-v.svg](https://www.w3.org/Icons/SVG/svg-logo-v.svg)
+
+[testa på w3Schools](https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_myfirst)
+
+ÖVNING [squoosh.app](https://squoosh.app/)
+
+[https://openverse.org/search/image?q=landscape](https://openverse.org/search/image?q=landscape)
+
+# 25 Ljud, video och kartor på webben
+
+[pixabay.com/music/](pixabay.com/music/)
+
+[Audacity](https://www.audacityteam.org/download/)
+
+## 25.1 Ljudformat
+
+[MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
+
+### 25.2.2 MP4
+
+[NASA Image and Video Library](https://images.nasa.gov/)
+
+[SYNTHESIS: NASA DATA VISUALIZATIONS IN ULTRA-HD.](https://svs.gsfc.nasa.gov/12034)
+
+[developer.mozilla.org/en-US/docs/Web/HTML/Element/video](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+
+[www.w3schools.com/tags/tryit.asp?filename=tryhtml5_video](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_video)
+
+# 26 Etiska överväganden
+
+## 26.1 Nya HTML och CSS funktioner
+
+[caniuse.com](https://caniuse.com/)
+
+[progressiv förbättring](https://webbriktlinjer.se/riktlinjer/93-gor-inte-webbplatsen-beroende-av-javascript/#:~:text=F%C3%B6lj%20principen%20om%20progressiv%20f%C3%B6rb%C3%A4ttring,p%C3%A5%20om%20du%20anv%C3%A4nder%20Javascript.)
+
+## 26.6 Bildernas innehåll
+
+[lawline.se/answers/kan-en-tidning-publicera-en-bild-pa-mig-utan-min-tillatelse ](https://lawline.se/answers/kan-en-tidning-publicera-en-bild-pa-mig-utan-min-tillatelse)
+
+[Inadvertent Algorithmic Cruelty](https://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/)
+
+[www.smashingmagazine.com/2018/03/using-ethics-in-web-design/ ](https://www.smashingmagazine.com/2018/03/using-ethics-in-web-design/)
+
+# 28 Publicera webbplatser
+
+## 28.1 GitHub
+
+Hur man läger upp en webbplats på GitHub och publicerar den på internet
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0q5jhjU4QJU?si=it35ExhsWg0Q54UJ" frameborder="0" allowfullscreen></iframe>
+
+# 29 Översikt av alternativa metoder för att skapa och redigera webbsidor.
+
+## 29.3 Ramverk
+
+[survey.stackoverflow.co](https://survey.stackoverflow.co/)
+
+[wordpress.com](https://wordpress.com/)
+[wordpress.org](https://wordpress.org/)
+[www.wix.com](https://www.wix.com/)
+[www.squarespace.com](https://www.squarespace.com/)
+[www.adobe.com/products/dreamweaver.html](https://www.adobe.com/products/dreamweaver.html)
+[pinegrow.com](https://pinegrow.com/)
+[getbootstrap.com](https://getbootstrap.com/)
+[tailwindcss.com](https://tailwindcss.com/)
+[astro.build](https://astro.build/)
+[react.dev](https://react.dev/)
+[angular.io](https://angular.io/)
+[vuejs.org](https://vuejs.org/)
