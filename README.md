@@ -2,9 +2,9 @@
 
 # 1. Om läromedlets uppbyggnad
 
-En bra uppsättning filmer där jag gå igenom grunderna i hur man gör moderna webbsidor. Filmerna tar upp liknade saker som i boken men är inte övningar i boken. [Länk till filmerna](https://www.youtube.com/watch?v=BCqcBps5jOM&list=PLNadygDF_9TFqwOOsb3FHVsoBQkyjw6tn&ab_channel=PaulBelfrage)
+En bra uppsättning filmer där jag gå igenom grunderna i hur man gör moderna webbsidor. Filmerna tar upp liknade saker som i boken men är inte övningar i boken. [Länk till spellistan](https://www.youtube.com/watch?v=BCqcBps5jOM&list=PLNadygDF_9TFqwOOsb3FHVsoBQkyjw6tn&ab_channel=PaulBelfrage)
 
-Nedan är listan på filmerna
+Spellistans innehåll
 
 1. Installera VS Code del 1 - nerladdning av VS Code - installation
 2. Installera VS Code del 2 - skapa en fil
@@ -36,7 +36,7 @@ Nedan är listan på filmerna
 
 ## 1.1 Om hur engelska är ett måste för att behärska webben
 
-## 1.2 Länkar till andra webbplatser
+## 1.2 Kompanionsida
 
 # 2. Installation av Visual studio Code och Hello world med HTML och CSS
 
