@@ -274,3 +274,7 @@ Andra saker som jag visar i filmerna ovan är
 ### 11.1.3 Gap och flex-wrap: wrap
 
 [An Interactive Guide to Flexbox av Josh W Comeau](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+
+### 11.2.14 Blanda px med fr
+
+![Blanda px med fr ](grid-px-fr.gif)
