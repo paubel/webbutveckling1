@@ -52,8 +52,11 @@ Spellistans innehåll
 # 3. En kort historik om webben
 
 [W3C](https://www.w3.org/about/history/)
+
 [ADSL](https://en.wikipedia.org/wiki/ADSL)
+
 [surfa på webben](https://it-ord.idg.se/ord/surfning/)
+
 [Uppkoppling till internet 1969 - 2003](https://docs.google.com/spreadsheets/d/1fgWcUDBK9RMW_CsseeGX5QM30r9RBjWctUvfnvhnwZo/edit?usp=sharing)
 
 # 4. Tekniken bakom webben
