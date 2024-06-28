@@ -1,7 +1,3 @@
-<!---
-<title>Webbutveckling 1 av Paul Belfrage</title>
--->
-
 [Länk till denna sida](https://paubel.github.io/webbutveckling1/)
 
 # 1. Om läromedlets uppbyggnad
