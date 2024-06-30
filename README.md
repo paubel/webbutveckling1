@@ -173,9 +173,9 @@ Andra saker som jag visar i filmerna ovan är
 
 ÖVNING 6.7 - Astronomiska föreningen Orionalliansen
 
-[webbplats kap6 - html startfiler](./webbplats%20kap6%20-%20html%20startfiler.zip)
+[webbplats kap6 - html startfiler (ZIP-fil)](./webbplats%20kap6%20-%20html%20startfiler.zip)
 
-[webbplats kap6 - html lösningsförslag](./webbplats%20kap6%20-%20html%20lösningsförslag.zip)
+[webbplats kap6 - html lösningsförslag (ZIP-fil)](./webbplats%20kap6%20-%20html%20lösningsförslag.zip)
 
 ## 7.1 `<form>`, action och method
 
