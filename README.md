@@ -77,13 +77,13 @@ Spellistans innehåll
 
 [Det finns flera olika statuskoder för olika situationer på developer.mozilla.org kan du läsa om alla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
-ÖVNING [https://www.google.com/test](https://www.google.com/test)
+ÖVNING 4.2 [https://www.google.com/test](https://www.google.com/test)
 
 [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 ## 4.4 IP-adress
 
-ÖVNING [www.nslookup.io](https://www.nslookup.io/)
+ÖVNING 4.3 [www.nslookup.io](https://www.nslookup.io/)
 
 ## 4.5 Klient server
 
@@ -170,6 +170,12 @@ Andra saker som jag visar i filmerna ovan är
 
 [validator.w3.org - Validering av HTML-kod](https://validator.w3.org/)
 [jigsaw.w3.org/css-validator/ - Validering av CSS-kod](https://jigsaw.w3.org/css-validator/)
+
+ÖVNING 6.7 - Astronomiska föreningen Orionalliansen
+
+[webbplats kap6 - html startfiler](./webbplats%20kap6%20-%20html%20startfiler/)
+
+[webbplats kap6 - html lösningsförslag](./webbplats%20kap6%20-%20html%20lösningsförslag/)
 
 ## 7.1 `<form>`, action och method
 
