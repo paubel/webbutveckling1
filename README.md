@@ -179,7 +179,7 @@ Andra saker som jag visar i filmerna ovan är
 
 ### 6.7.17 Listor
 
-[ listor.html ](./listor.html)
+[listor.html ](./listor.html){:download="listor.html"}
 
 ÖVNING 6.9 Astronomiska föreningen Orionalliansen - formulär
 
