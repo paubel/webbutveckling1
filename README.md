@@ -234,6 +234,20 @@ Andra saker som jag visar i filmerna ovan är
 
 [formular-textarea.html](./formular-textarea.html){:download="formular-textarea.html"} Högerklicka välj "ladda ner länk"
 
+## 7.13 Valelement i formulär
+
+### 7.13.1 Rullgardinsmeny
+
+[fomular-dropdown.html](./fomular-dropdown.html){:download="fomular-dropdown.html"} Högerklicka välj "ladda ner länk"
+
+### 7.13.2 Radioknappar
+
+[fomular-radio.html](./fomular-radio.html){:download="fomular-radio.html"} Högerklicka välj "ladda ner länk"
+
+### 7.13.3 Kryssrutor
+
+[fomular-kryssrutor.html](./fomular-kryssrutor.html){:download="fomular-kryssrutor.html"} Högerklicka välj "ladda ner länk"
+
 ÖVNING 7.8 ...
 
 ## 7.15 Organisera formelement
