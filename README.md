@@ -248,11 +248,23 @@ Andra saker som jag visar i filmerna ovan är
 
 [fomular-kryssrutor.html](./fomular-kryssrutor.html){:download="fomular-kryssrutor.html"} Högerklicka välj "ladda ner länk"
 
-ÖVNING 7.8 ...
+### 7.13.4 Knappar
 
-## 7.15 Organisera formelement
+[fomular-kryssrutor.html](./fomular-kryssrutor.html){:download="fomular-kryssrutor.html"} Högerklicka välj "ladda ner länk"
+
+## 7.14 Organisera formelement
+
+[fomular-fieldset.html](./fomular-fieldset.html){:download="fomular-fieldset.html"} Högerklicka välj "ladda ner länk"
+
+## 7.14 Organisera formelement
 
 [MDN - Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms#form_styling_guides)
+
+## 7.15 Validera formulär
+
+[fomular-validering.html](./fomular-validering.html){:download="fomular-validering.html"} Högerklicka välj "ladda ner länk"
+
+ÖVNING 7.4 [ovn-formlar.html.html](./ovn-formlar.html.html){:download="ovn-formlar.html"} Högerklicka välj "ladda ner länk"
 
 ## 9.1 HTML referenser
 
