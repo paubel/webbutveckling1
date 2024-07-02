@@ -191,11 +191,19 @@ Andra saker som jag visar i filmerna ovan är
 
 [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 
+## 7.3 `<label for=”...”> och <input id=”...”>`
+
+[formular.html](./formular.html){:download="formular.html"} Högerklicka välj "ladda ner länk"
+
 ## 7.4 Alternativ till for och id: lägga `<input>` nästlad i `<label>`
+
+[formular.html](./formular.html){:download="formular.html"} Högerklicka välj "ladda ner länk"
 
 [WEBAIM Creating Accessible Forms](https://webaim.org/techniques/forms/controls)
 
 ## 7.5 `<input placeholder=”...”>`
+
+[formular.html](./formular.html){:download="formular.html"} Högerklicka välj "ladda ner länk"
 
 [CSS tricks rekommenderar](https://css-tricks.com/html-inputs-and-labels-a-love-story/)
 
@@ -210,7 +218,23 @@ Andra saker som jag visar i filmerna ovan är
 
 [CodePen: Skicka data från formulär med JS till klienten](https://codepen.io/paubel/pen/OJrLmVO)
 
-ÖVNING 7.8
+## 7.9 `<input type=”email”>`
+
+[formular-email.html](./formular-email.html){:download="formular-email.html"} Högerklicka välj "ladda ner länk"
+
+## 7.10 `<input type=”password”>`
+
+[formular-password.html](./formular-password.html){:download="formular-password.html"} Högerklicka välj "ladda ner länk"
+
+## 7.11 `<input type=”date”>`
+
+[formular-date.html](./formular-date.html){:download="formular-date.html"} Högerklicka välj "ladda ner länk"
+
+## 7.12 `<textarea>`
+
+[formular-textarea.html](./formular-textarea.html){:download="formular-textarea.html"} Högerklicka välj "ladda ner länk"
+
+ÖVNING 7.8 ...
 
 ## 7.15 Organisera formelement
 
