@@ -264,7 +264,14 @@ Andra saker som jag visar i filmerna ovan är
 
 [fomular-validering.html](./fomular-validering.html){:download="fomular-validering.html"} Högerklicka välj "ladda ner länk"
 
-ÖVNING 7.4 [ovn-formlar.html.html](./ovn-formlar.html.html){:download="ovn-formlar.html"} Högerklicka välj "ladda ner länk"
+ÖVNING 7.4 [/ÖVNINGAR/ovn-formlar.html](./ÖVNINGAR/ovn-formlar.html){:download="/ÖVNINGAR/ovn-formlar.html)"} Högerklicka välj "ladda ner länk"
+
+ÖVNING 7.5 Astronomiska föreningen Orionalliansen
+[webbplats kap7 - formulär (ZIP-fil)](./webbplats%20kap7%20-%20formulär.zip)
+
+# 8 Semantisk HTML
+
+ÖVNING 8.1
 
 ## 9.1 HTML referenser
 
