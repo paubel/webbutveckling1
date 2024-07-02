@@ -179,13 +179,15 @@ Andra saker som jag visar i filmerna ovan är
 
 ### 6.7.17 Listor
 
-[listor.html ](./listor.html){:download="listor.html"}
+[listor.html](./listor.html){:download="listor.html"} Högerklicka välj "ladda ner länk"
 
 ÖVNING 6.9 Astronomiska föreningen Orionalliansen - formulär
 
 [webbplats kap6 - html lösningsförslag (ZIP-fil)](./webbplats%20kap6%20-%20html%20lösningsförslag.zip)
 
 ## 7.1 `<form>`, action och method
+
+[formular.html](./formular.html){:download="formular.html"} Högerklicka välj "ladda ner länk"
 
 [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 
