@@ -177,6 +177,14 @@ Andra saker som jag visar i filmerna ovan är
 
 [webbplats kap6 - html lösningsförslag (ZIP-fil)](./webbplats%20kap6%20-%20html%20lösningsförslag.zip)
 
+### 6.7.17 Listor
+
+[ listor.html ](./listor.html)
+
+ÖVNING 6.9 Astronomiska föreningen Orionalliansen - formulär
+
+[webbplats kap6 - html lösningsförslag (ZIP-fil)](./webbplats%20kap6%20-%20html%20lösningsförslag.zip)
+
 ## 7.1 `<form>`, action och method
 
 [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
@@ -199,6 +207,8 @@ Andra saker som jag visar i filmerna ovan är
 ## 7.8 `<input type="number"> och <button type="submit">`
 
 [CodePen: Skicka data från formulär med JS till klienten](https://codepen.io/paubel/pen/OJrLmVO)
+
+ÖVNING 7.8
 
 ## 7.15 Organisera formelement
 
