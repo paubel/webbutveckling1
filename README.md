@@ -150,6 +150,8 @@ Andra saker som jag visar i filmerna ovan är
 
 [MDN Mozillas webbplats](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
+[recension utan CSS (ZIP-fil)](./recension%20utan%20CSS.zip)
+
 ### 6.7.1 `<!DOCTYPE html>`
 
 [quirks-läge](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)
@@ -293,6 +295,21 @@ Andra saker som jag visar i filmerna ovan är
 # 10 CSS
 
 [Amelia Wittenberger](https://2019.wattenberger.com/blog/css-cascade)
+
+[recension utan CSS (ZIP-fil)](./recension%20utan%20CSS.zip)
+
+## 10.1 Tre sätt att lägga till CSS-deklarationer.
+
+### 10.1.1 Extern fil
+
+ÖVNING 10.1
+[recension utan CSS (ZIP-fil)](./recension%20utan%20CSS.zip)
+[recension med CSS (ZIP-fil)](./recension%20med%20CSS.zip)
+
+### 10.1.3 Direkt i ett HTML-element
+
+ÖVNING 10.2
+[/ÖVNINGAR/ovn-tre-satt-att-ange-css.html](./ÖVNINGAR/ovn-tre-satt-att-ange-css.html){:download="ovn-tre-satt-att-ange-css.html"} Högerklicka välj "ladda ner länk"
 
 ## 10.2 Egenskaper du kommer använda ofta i CSS
 
