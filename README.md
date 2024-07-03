@@ -256,22 +256,25 @@ Andra saker som jag visar i filmerna ovan är
 
 [fomular-fieldset.html](./fomular-fieldset.html){:download="fomular-fieldset.html"} Högerklicka välj "ladda ner länk"
 
-## 7.14 Organisera formelement
-
 [MDN - Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms#form_styling_guides)
 
 ## 7.15 Validera formulär
 
 [fomular-validering.html](./fomular-validering.html){:download="fomular-validering.html"} Högerklicka välj "ladda ner länk"
 
-test 1 ÖVNING 7.4 [/ÖVNINGAR/ovn-formlar.html](./ÖVNINGAR/ovn-formlar.html){:download="ovn-formlar.html"} Högerklicka välj "ladda ner länk"
+ÖVNING 7.4 [/ÖVNINGAR/ovn-formlar.html](./ÖVNINGAR/ovn-formlar.html){:download="ovn-formlar.html"} Högerklicka välj "ladda ner länk"
 
 ÖVNING 7.5 Astronomiska föreningen Orionalliansen
 [webbplats kap7 - formulär (ZIP-fil)](./webbplats%20kap7%20-%20formulär.zip)
 
 # 8 Semantisk HTML
 
-ÖVNING 8.1
+ÖVNING 8.1 [/ÖVNINGAR/ovn-layout-icke-semantiska-element.html](./ÖVNINGAR/ovn-layout-icke-semantiska-element.html){:download="ovn-layout-icke-semantiska-element.html"} Högerklicka välj "ladda ner länk"
+
+ÖVNING 8.2 Astronomiska föreningen Orionalliansen
+[webbplats kap7 - formulär (ZIP-fil)](./webbplats%20kap7%20-%20formulär.zip)
+
+[webbplats kap8 - sementiska elemen (ZIP-fil)](./webbplats%20kap8%20-%20sementiska%20element.zip)
 
 ## 9.1 HTML referenser
 
