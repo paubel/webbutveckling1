@@ -318,6 +318,8 @@ Andra saker som jag visar i filmerna ovan är
 
 ### 10.2.1 Color och background-color
 
+[textfarg-bakgrundsfarg.html](./textfarg-bakgrundsfarg.html){:download="textfarg-bakgrundsfarg.html"} Högerklicka välj "ladda ner länk"
+
 [namngivna färger](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
 
 [CSS Legal Color Values ](https://www.w3schools.com/cssref/css_colors_legal.php)
