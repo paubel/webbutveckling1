@@ -325,6 +325,8 @@ Andra saker som jag visar i filmerna ovan är
 [CSS Legal Color Values ](https://www.w3schools.com/cssref/css_colors_legal.php)
 [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 
+ÖVNING 10.3 [/ÖVNINGAR/ovn-color-och-background-color.html](./ÖVNINGAR/ovn-color-och-background-color.htmll){:download="ovn-color-och-background-color.html"} Högerklicka välj "ladda ner länk"
+
 ### 10.2.2 Typografi och fonter
 
 [mer om fonter här](https://docs.google.com/document/d/1-cd8Pz6rN5zWkN8U08wpzmiRgwi494pqwqzpsCeBck0/edit#heading=h.1ujiay74txh)
@@ -334,9 +336,45 @@ Andra saker som jag visar i filmerna ovan är
 [Google Fonts](https://fonts.google.com/)
 [några exempel som på hur GDPR har påverkat](https://docs.google.com/document/d/1-cd8Pz6rN5zWkN8U08wpzmiRgwi494pqwqzpsCeBck0/edit#heading=h.rzpwh8v17s6p)
 
+[typografi.html](./typografi.html){:download="typografi.html"} Högerklicka välj "ladda ner länk"
+
 ### 10.2.4 Modern Font Stacks
 
 [modernfontstacks.com](https://modernfontstacks.com/)
+
+[modern-font-stacks.html](./modern-font-stacks.html){:download="modern-font-stacks.html"} Högerklicka välj "ladda ner länk"
+
+### 10.2.6 Justerad text
+
+ÖVNING 10.5
+
+[/ÖVNINGAR/ovn-justerad-text.html](./ÖVNINGAR/ovn-justerad-text.html){:download="ovn-justerad-text.html"} Högerklicka välj "ladda ner länk"
+
+### 10.2.7 Bildbredd och bildhöjd
+
+[bild-bredd-hojd.html](./bild-bredd-hojd.html){:download="bild-bredd-hojd.html"} Högerklicka välj "ladda ner länk"
+
+[modern-font-stacks.html](./modern-font-stacks.html){:download="modern-font-stacks.html"} Högerklicka välj "ladda ner länk"
+
+### 10.2.8 object-fit
+
+ÖVNING 10.6 [/ÖVNINGAR/ovn-bildbredd-bildhojd.html](./ÖVNINGAR/ovn-bildbredd-bildhojd.html){:download="ovn-bildbredd-bildhojd.html"} Högerklicka välj "ladda ner länk"
+
+## 10.3 Boxmodellen
+
+[boxmodellen.html](./boxmodellen.html){:download="boxmodellen.html"} Högerklicka välj "ladda ner länk"
+
+ÖVNING 10.7 [/ÖVNINGAR/ovn-boxmodellen.html](./ÖVNINGAR/ovn-boxmodellen.html){:download="ovn-boxmodellen.html"} Högerklicka välj "ladda ner länk"
+
+## 10.4 Block och inline
+
+ÖVNING 10.8 [/ÖVNINGAR/ovn-block-inline.html](./ÖVNINGAR/ovn-block-inline.html){:download="ovn-block-inline.html"} Högerklicka välj "ladda ner länk"
+
+## 10.5 `<div> och <span>`
+
+[div-span.html](./div-span.html){:download="div-span.html"} Högerklicka välj "ladda ner länk"
+
+ÖVNING 10.9 [/ÖVNINGAR/ovn-div-spanhtml](./ÖVNINGAR/ovn-div-span.html){:download="ovn-div-span.html"} Högerklicka välj "ladda ner länk"
 
 ### 10.6.1 box-sizing: content-box
 
@@ -348,6 +386,8 @@ Andra saker som jag visar i filmerna ovan är
 
 [::before här](https://developer.mozilla.org/en-US/docs/Web/CSS/::before)
 [::after här](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)
+
+ÖVNING 10.10 [/ÖVNINGAR/ovn-box-sizing.html](./ÖVNINGAR/ovn-box-sizing.html){:download="ovn-box-sizing.html"} Högerklicka välj "ladda ner länk"
 
 ### 10.6.3 img { display: block; }
 
