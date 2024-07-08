@@ -558,7 +558,7 @@ Andra saker som jag visar i filmerna ovan är
 
 ## 12.3 Pseudoklasser
 
-[enhet-procent.html](./enhet-procent.html){:download="enhet-procent.html} Högerklicka välj "ladda ner länk"
+[pseudo-klass (ZIP-fil)](./pseudo-klass/pseudo-klass.zip)
 
 # 13 Mer om CSS
 
