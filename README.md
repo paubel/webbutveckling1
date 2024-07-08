@@ -558,7 +558,7 @@ Andra saker som jag visar i filmerna ovan är
 
 ## 12.3 Pseudoklasser
 
-[pseudo-klass (ZIP-fil)](./pseudo-klass/pseudo-klass.zip)
+[pseudo-klass (ZIP-fil)](./pseudo-klass.zip)
 
 # 13 Mer om CSS
 
