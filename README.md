@@ -389,6 +389,10 @@ Andra saker som jag visar i filmerna ovan är
 
 ÖVNING 10.10 [/ÖVNINGAR/ovn-box-sizing.html](./ÖVNINGAR/ovn-box-sizing.html){:download="ovn-box-sizing.html"} Högerklicka välj "ladda ner länk"
 
+### 10.6.2 margin: 0
+
+ÖVNING 10.11 [/ÖVNINGAR/ovn-margin-0.html](./ÖVNINGAR/ovn-margin-0.html){:download="ovn-margin-0.html"} Högerklicka välj "ladda ner länk"
+
 ### 10.6.3 img { display: block; }
 
 [www.joshwcomeau.com/css/custom-css-reset/](https://www.joshwcomeau.com/css/custom-css-reset/)
@@ -397,17 +401,63 @@ Andra saker som jag visar i filmerna ovan är
 
 [modernfontstacks.com](https://modernfontstacks.com/)
 
+### 10.7.1 Universal selector - Universalselektor
+
+[universalselektor.html](./universalselektor.html){:download="universalselektor.html"} Högerklicka välj "ladda ner länk"
+
+ÖVNING 10.12 [/ÖVNINGAR/ovn-universalselektor.html](./ÖVNINGAR/ovn-universalselektor.html){:download="ovn-universalselektor.html"} Högerklicka välj "ladda ner länk"
+
+### 10.7.2 Typselektorer (elementselektor)
+
+[typselektorer.html](./typselektorer.html){:download="typselektorer.html"} Högerklicka välj "ladda ner länk"
+
+ÖVNING 10.13 [/ÖVNINGAR/ovn-typselektorer.html](./ÖVNINGAR/ovn-typselektorer.html){:download="ovn-typselektorer.html"} Högerklicka välj "ladda ner länk"
+
 ### 10.7.3 Klasselektorer
 
+[klassselektorer.html](./klassselektorer.html){:download="klassselektorer.html"} Högerklicka välj "ladda ner länk"
+
 [BEM](https://getbem.com/introduction/)
+
+### 10.7.4 ID-selektorer och lite JavaScript
+
+[idselektorer.html](./idselektorer.html){:download="idselektorer.html"} Högerklicka välj "ladda ner länk"
+
+ÖVNING 10.14 [/ÖVNINGAR/ovn-klasselektorer.html](./ÖVNINGAR/ovn-klasselektorer.html){:download="ovn-klasselektorer.html"} Högerklicka välj "ladda ner länk"
+
+ÖVNING 10.15 [/ÖVNINGAR/ovn-id-selektorer.html](./ÖVNINGAR/ovn-id-selektorer.html){:download="ovn-id-selektorer.html"} Högerklicka välj "ladda ner länk"
+
+### 10.7.5 Grouping selector - Gruppselektor
+
+[gruppselektorer.html](./gruppselektorer.html){:download="gruppselektorer.html"} Högerklicka välj "ladda ner länk"
+
+### 10.7.6 Kedjeselektorer
+
+[kedjeselektorer.html](./kedjeselektorer.html){:download="kedjeselektorer.html"} Högerklicka välj "ladda ner länk"
+
+### 10.7.7 Härstammande kombinator
+
+[harstammandeselektorer.html](./harstammandeselektorer.html){:download="harstammandeselektorer.html"} Högerklicka välj "ladda ner länk"
 
 ### 10.7.8 Ordningen av selektorer
 
 [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.php)
 
+### 10.7.9 Sammanfattning av olika selektorer
+
+ÖVNING 10.16 Astronomiska föreningen Orionalliansen
+
+[webbplats kap8 - sementiska element (ZIP-fil)](./webbplats%20kap8%20-%20sementiska%20element.zip)
+
 ÖVNING [modernfontstacks.com](https://modernfontstacks.com/)
 
 # 11 Flexbox och grid
+
+## 11.1 Flex
+
+[flexbox.html](./flexbox.html){:download="flexbox.html"} Högerklicka välj "ladda ner länk"
+
+flexbox.html
 
 [Flexbox kunde användas i många webbläsare 2014 och Grid 2017](https://apptitude.ch/en/development/web-layout-part-2-flexbox-and-grid/#:~:text=Two%20of%20them%20have%20radically,started%20to%20support%20in%202017.)
 
