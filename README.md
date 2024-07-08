@@ -453,17 +453,50 @@ Andra saker som jag visar i filmerna ovan är
 
 # 11 Flexbox och grid
 
+[Flexbox kunde användas i många webbläsare 2014 och Grid 2017](https://apptitude.ch/en/development/web-layout-part-2-flexbox-and-grid/#:~:text=Two%20of%20them%20have%20radically,started%20to%20support%20in%202017.)
+
 ## 11.1 Flex
 
 [flexbox.html](./flexbox.html){:download="flexbox.html"} Högerklicka välj "ladda ner länk"
 
-flexbox.html
+[flexbox-flex-i-flex.html](./flexbox-flex-i-flex.html){:download="flexbox-flex-i-flex.html"} Högerklicka välj "ladda ner länk"
 
-[Flexbox kunde användas i många webbläsare 2014 och Grid 2017](https://apptitude.ch/en/development/web-layout-part-2-flexbox-and-grid/#:~:text=Two%20of%20them%20have%20radically,started%20to%20support%20in%202017.)
+[flexbox-flex-i-flex-i-flex.html](./flexbox-flex-i-flex-i-flex.html){:download="flexbox-flex-i-flex-i-flex.html"} Högerklicka välj "ladda ner länk"
+
+### 11.1.1 Flex
+
+[flexbox-flex.html](./flexbox-flex.html){:download=" flexbox-flex.html"} Högerklicka välj "ladda ner länk"
+
+### 11.1.2 flex-direction och axlar
+
+[flexbox-direction.html](./flexbox-direction.html){:download=" flexbox-direction.html"} Högerklicka välj "ladda ner länk"
 
 ### 11.1.3 Gap och flex-wrap: wrap
 
+[lex-gap.html](./flex-gap.html){:download=" lex-gap.html"} Högerklicka välj "ladda ner länk"
+
 [An Interactive Guide to Flexbox av Josh W Comeau](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+
+ÖVNING 11.1 Astronomiska föreningen Orionalliansen
+[webbplats kap10 - css (ZIP-fil)](./webbplats%20kap10%20-%20css.zip)
+
+[webbplats kap11 - flexbox och meny (ZIP-fil)](./webbplats%20kap11%20-%20flexbox%20och%20meny.zip)
+
+## 11.2 Grid
+
+[grid-display.html](./grid-display.html){:download="grid-display.html"} Högerklicka välj "ladda ner länk"
+
+### 11.2.2 Grid template rows
+
+[grid-columns-rows.html](./grid-columns-rows.html){:download="grid-columns-rows.html"} Högerklicka välj "ladda ner länk"
+
+### 11.2.3 Gap
+
+[grid-gap.html](./grid-gap.html){:download="grid-gap.html"} Högerklicka välj "ladda ner länk"
+
+### 11.2.9 Grid column och Grid row
+
+[grid-positionering-grid-column-row.html](./grid-positionering-grid-column-row.html){:download="grid-positionering-grid-column-row.html"} Högerklicka välj "ladda ner länk"
 
 ### 11.2.14 Blanda px med fr
 
