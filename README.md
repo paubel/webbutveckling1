@@ -498,19 +498,67 @@ Andra saker som jag visar i filmerna ovan är
 
 [grid-positionering-grid-column-row.html](./grid-positionering-grid-column-row.html){:download="grid-positionering-grid-column-row.html"} Högerklicka välj "ladda ner länk"
 
+### 11.2.12 Repeat
+
+[grid-repeat.html](./grid-repeat.html){:download="grid-repeat.html"} Högerklicka välj "ladda ner länk"
+
+### 11.2.13 bråkdelsenheten: fr i grid
+
+[grid-px-och-fr.html](./grid-px-och-fr.html){:download="grid-px-och-fr.html"} Högerklicka välj "ladda ner länk"
+
 ### 11.2.14 Blanda px med fr
 
 ![Blanda px med fr ](grid-px-fr.gif)
 
-### 11.2.16 Minmax()
+### 11.2.15 min() och max()
+
+[grid-max-min.html](./grid-max-min.html){:download="grid-max-min.html} Högerklicka välj "ladda ner länk"
+
+### 11.2.16 minmax()
+
+[grid-minmax.html](./grid-minmax.html){:download="grid-minmax.html} Högerklicka välj "ladda ner länk"
 
 [Det finns vissa risker att använd enheten ch som man bör var medveten om](https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/)
+
+### 11.2.17 clamp()
+
+[grid-clamp.html](./grid-clamp.html){:download="grid-clamp.html} Högerklicka välj "ladda ner länk"
+
+### 11.2.18 auto-fit och auto-fill
+
+[grid-auto-fit-auto-fill.html](./grid-auto-fit-auto-fill.html){:download="grid-auto-fit-auto-fill.html} Högerklicka välj "ladda ner länk"
+
+ÖVNING 11.8 Astronomiska föreningen Orionalliansen
+
+[webbplats kap11 - flexbox och meny (ZIP-fil)](./webbplats%20kap11%20-%20flexbox%20och%20meny.zip)
+
+[webbplats kap11 - grid (ZIP-fil)](./webbplats%20kap11%20-%20grid.zip)
+
+# 12 CSS Enheter
 
 ## 12.1 Absoluta enheter
 
 ### 12.1.1 px
 
 [www.w3.org/Style/Examples/007/units.en.html](www.w3.org/Style/Examples/007/units.en.html)
+
+## 12.2 Relativa enheter
+
+### 12.2.1 em och rem
+
+[enhet-px-rem-em.html](./enhet-px-rem-em.html){:download="enhet-px-rem-em.html} Högerklicka välj "ladda ner länk"
+
+### 12.2.2 vh och vw
+
+[enhet-vw-vh.html](./enhet-vw-vh.html){:download="enhet-vw-vh.html} Högerklicka välj "ladda ner länk"
+
+### 12.2.3 %
+
+[enhet-procent.html](./enhet-procent.html){:download="enhet-procent.html} Högerklicka välj "ladda ner länk"
+
+## 12.3 Pseudoklasser
+
+[enhet-procent.html](./enhet-procent.html){:download="enhet-procent.html} Högerklicka välj "ladda ner länk"
 
 # 13 Mer om CSS
 
