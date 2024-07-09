@@ -719,12 +719,11 @@ TODO: inspektorn
 
 ÖVNING 23.1
 [hart-zoom.svg](./hart-zoom.svg){:download="hart-zoom.svg} Högerklicka välj "ladda ner länk"
-
 [hart-zoom.png](./hart-zoom.png){:download="hart-zoom.png} Högerklicka välj "ladda ner länk"
 
 ÖVNING 23.2
-[lila och röd blomma stor bild.jpg](./lila%20och%20röd%20blomma%20stor%20bild.jpg){:download="lila och röd blomma stor bild.jpg} Högerklicka välj "ladda ner länk"
 
+[lila och röd blomma stor bild.jpg](./lila%20och%20röd%20blomma%20stor%20bild.jpg){:download="lila och röd blomma stor bild.jpg} Högerklicka välj "ladda ner länk"
 [lila och röd blomma liten bild.jpg](./lila%20och%20röd%20blomma%20liten%20bild.jpg){:download="lila och röd blomma liten bild.jpg} Högerklicka välj "ladda ner länk"
 
 ## 23.2 Verktyg för bildbehandling
@@ -796,7 +795,7 @@ TODO: inspektorn
 
 [testa på w3Schools](https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_myfirst)
 
-ÖVNING [squoosh.app](https://squoosh.app/)
+ÖVNING 24.1 [squoosh.app](https://squoosh.app/)
 
 [https://openverse.org/search/image?q=landscape](https://openverse.org/search/image?q=landscape)
 
@@ -810,14 +809,16 @@ TODO: inspektorn
 
 [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
 
+ÖVNING 25.1
+
 ### 25.2.2 MP4
 
 [NASA Image and Video Library](https://images.nasa.gov/)
 
 [SYNTHESIS: NASA DATA VISUALIZATIONS IN ULTRA-HD.](https://svs.gsfc.nasa.gov/12034)
 
+ÖVNING 25.2
 [developer.mozilla.org/en-US/docs/Web/HTML/Element/video](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
-
 [www.w3schools.com/tags/tryit.asp?filename=tryhtml5_video](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_video)
 
 # 26 Etiska överväganden
@@ -860,3 +861,7 @@ YouTube [Hur man läger upp en webbplats på GitHub och publicerar den på inter
 [react.dev](https://react.dev/)
 [angular.io](https://angular.io/)
 [vuejs.org](https://vuejs.org/)
+
+# 30 Webbutveckling 1 - ämnesplan
+
+[Webbutveckling 1 - ämnesplan - syfte - betygskriterier](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEBB%26courseCode%3DWEBB1000X%26date%3D2025-07-01%26lang%3D%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_WEBB1000X)
