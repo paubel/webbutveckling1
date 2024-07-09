@@ -560,6 +560,16 @@ Andra saker som jag visar i filmerna ovan är
 
 [pseudo-klass (ZIP-fil)](./pseudo-klass.zip)
 
+# 12.4 line-height
+
+[line-height.html](./line-height.html){:download="line-height.html} Högerklicka välj "ladda ner länk"
+
+ÖVNING 12.1 Astronomiska föreningen Orionalliansen.
+
+[webbplats kap11 - grid (ZIP-fil)](./webbplats%20kap11%20-%20grid.zip)
+
+[webbplats kap12 - enheter pseudoklasser line-height (ZIP-fil)](./webbplats%20kap12%20-%20enheter%20pseudoklasser%20line-height.zip)
+
 # 13 Mer om CSS
 
 ## 13.1 Kaskad och specificitet
@@ -572,13 +582,31 @@ Andra saker som jag visar i filmerna ovan är
 
 [2019.wattenberger.com/blog/css-cascade](2019.wattenberger.com/blog/css-cascade)
 
+## 13.2 Arv av egenskaper
+
+[arv-egenskaper.html](./arv-egenskaper.html){:download="arv-egenskaper.html} Högerklicka välj "ladda ner länk"
+
+ÖVNING 13.1 Astronomiska föreningen Orionalliansen
+
+[webbplats kap12 - enheter pseudoklasser line-height (ZIP-fil)](./webbplats%20kap12%20-%20enheter%20pseudoklasser%20line-height.zip)
+
+[webbplats kap13 - mer om CSS (ZIP-fil)](./webbplats%20kap13%20-%20mer%20om%20CSS.zip)
+
 # 14 Responsiv design - mobilanpassning
 
 [Statscounter](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/worldwide/#monthly-200901-202306)
 
-### 14.2.1 CSS referenser
+## 14.2 Media Queries
 
-[flukeout.github.io](https://flukeout.github.io/)
+[media-queries.html](./media-queries.html){:download="media-queries.html} Högerklicka välj "ladda ner länk"
+
+ÖVNING 14.1 [flukeout.github.io](https://flukeout.github.io/)
+
+ÖVNING 14.2 Astronomiska föreningen Orionalliansen
+
+[webbplats kap13 - mer om CSS (ZIP-fil)](./webbplats%20kap13%20-%20mer%20om%20CSS.zip)
+
+[webbplats kap14 - responsiv design - mobilanpassning (ZIP-fil)](./webbplats%20kap14%20-%20responsiv%20design%20-%20mobilanpassning.zip)
 
 # 15 JavaScript - Orientering om javascript och DOM (dokumentobjektsmodellen)
 
@@ -587,6 +615,8 @@ Andra saker som jag visar i filmerna ovan är
 [thehistoryoftheweb.com/the-10-day-programming-language-is-a-myth/](https://thehistoryoftheweb.com/the-10-day-programming-language-is-a-myth/)
 
 ## 15.2 Några orienterande exempel på JavaScript
+
+[webbplats kap15 - javascript (ZIP-fil)](./webbplats%20kap15%20-%20javascript.zip)
 
 [https://javascript.info/](javascript.info)
 [https://www.w3schools.com/js/](www.w3schools.com/js)
@@ -611,6 +641,7 @@ Andra saker som jag visar i filmerna ovan är
 
 [www.canva.com/colors/color-wheel/](https://www.canva.com/colors/color-wheel/)
 
+ÖVNING 17.1
 [http://www.realtimecolors.com](www.realtimecolors.com)
 [https://coolors.co/](coolors.co)
 [https://paletton.com/](paletton.com)
@@ -618,7 +649,7 @@ Andra saker som jag visar i filmerna ovan är
 
 # 18 Ange färger i CSS
 
-[https://www.w3schools.com/colors/colors_rgb.asp](www.w3schools.com/colors/colors_rgb.asp)
+ÖVNING 18.1 [https://www.w3schools.com/colors/colors_rgb.asp](www.w3schools.com/colors/colors_rgb.asp)
 
 ## 18.1 Fördjupning i att ange färger
 
@@ -638,7 +669,7 @@ Andra saker som jag visar i filmerna ovan är
 
 ## 19.7 Minska belastningen på korttidsminnet
 
-[world's shortest UI/UX design course](https://www.youtube.com/watch?v=wIuVvCuiJhU&ab_channel=Juxtopposed)
+ÖVINING 19.1 [world's shortest UI/UX design course](https://www.youtube.com/watch?v=wIuVvCuiJhU&ab_channel=Juxtopposed)
 
 # 21 Validering och testning
 
@@ -658,6 +689,7 @@ TODO: inspektorn
 
 [finns samma tiilägg](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived/)
 
+ÖVNING 21.1
 [stackoverflow.com](https://stackoverflow.com/)
 [code.visualstudio.com/download](https://code.visualstudio.com/download)
 
