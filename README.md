@@ -717,6 +717,17 @@ TODO: inspektorn
 
 [webaim.org](https://webaim.org/resources/contrastchecker/)
 
+ÖVNING 23.1
+[hart-zoom.svg](./hart-zoom.svg){:download="hart-zoom.svg} Högerklicka välj "ladda ner länk"
+
+[hart-zoom.png](./hart-zoom.png){:download="hart-zoom.png} Högerklicka välj "ladda ner länk"
+
+ÖVNING 13.2
+[lila och röd blomma stor bild.jpg](./lila%20och%20röd%20blomma%20stor%20bild.jpg){:download="lila och röd blomma stor bild.jpg} Högerklicka välj "ladda ner länk"
+
+ÖVNING 13.2
+[lila och röd blomma liten bild.jpg](./lila%20och%20röd%20blomma%20liten%20bild.jpg){:download="lila och röd blomma liten bild.jpg} Högerklicka välj "ladda ner länk"
+
 ## 23.2 Verktyg för bildbehandling
 
 ### 23.2.1 Squoosh
