@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Varför rekommenderas det att använda webbläsaren på engelska?",
+    "answers": [
+      { "text": "För att det ser coolare ut", "correct": false },
+      {
+        "text": "För att underlätta när man söker hjälp och använder engelska termer",
+        "correct": true
+      },
+      { "text": "För att webbsidor alltid är på engelska", "correct": false },
+      { "text": "För att svenska är ett svårt språk", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad kallas menyn som kommer fram när man högerklickar i webbläsaren?",
+    "answers": [
+      { "text": "Högermenyn", "correct": false },
+      { "text": "Snabbmenyn", "correct": false },
+      { "text": "Kontextmenyn", "correct": true },
+      { "text": "Klickmenyn", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilket språk är all kod (utom innehållet på webbsidorna) skriven på i detta läromedel?",
+    "answers": [
+      { "text": "Svenska", "correct": false },
+      { "text": "Engelska", "correct": true },
+      { "text": "Tyska", "correct": false },
+      { "text": "Blandat svenska och engelska", "correct": false }
+    ]
+  },
+  {
+    "question": "Var kan man hitta samlingar av länkar, kodexempel och förklarande filmer som kompletterar boken?",
+    "answers": [
+      { "text": "På en YouTube-kanal", "correct": false },
+      { "text": "I en separat tryckt bok", "correct": false },
+      { "text": "På en Facebook-sida", "correct": false },
+      { "text": "På en GitHub-sida", "correct": true }
+    ]
+  },
+  {
+    "question": "Vad står längst ner i kontextmenyn i webbläsaren enligt texten?",
+    "answers": [
+      { "text": "Spara som", "correct": false },
+      { "text": "Kopiera", "correct": false },
+      { "text": "Inspektera eller Inspect", "correct": true },
+      { "text": "Uppdatera", "correct": false }
+    ]
+  }
+]

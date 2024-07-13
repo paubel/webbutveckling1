@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Vilken kodeditor rekommenderas i texten för att skriva HTML, CSS och Javascript?",
+    "answers": [
+      { "text": "Sublime Text", "correct": false },
+      { "text": "Visual Studio Code", "correct": true },
+      { "text": "Atom", "correct": false },
+      { "text": "Notepad++", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilket tillägg rekommenderas att installera för att validera kod i VS Code?",
+    "answers": [
+      { "text": "HTML Validator", "correct": false },
+      { "text": "CSS Checker", "correct": false },
+      { "text": "W3C Web Validator", "correct": true },
+      { "text": "Code Linter", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad ska huvudfilen i en webbplats alltid heta enligt texten?",
+    "answers": [
+      { "text": "main.html", "correct": false },
+      { "text": "home.html", "correct": false },
+      { "text": "index.html", "correct": true },
+      { "text": "start.html", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilket tecken ska man skriva och sedan trycka på tab-tangenten för att få en HTML-mall i VS Code?",
+    "answers": [
+      { "text": "@", "correct": false },
+      { "text": "#", "correct": false },
+      { "text": "$", "correct": false },
+      { "text": "!", "correct": true }
+    ]
+  },
+  {
+    "question": "Vilken rad kod används för att länka CSS-filen till HTML-dokumentet?",
+    "answers": [
+      { "text": "<style src='styles.css'>", "correct": false },
+      { "text": "<link rel='stylesheet' href='styles.css'>", "correct": true },
+      { "text": "<css import='styles.css'>", "correct": false },
+      { "text": "<script type='text/css' src='styles.css'>", "correct": false }
+    ]
+  }
+]
