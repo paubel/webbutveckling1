@@ -2,6 +2,8 @@
 
 # 1. Om läromedlets uppbyggnad
 
+[Quiz 1](./quiz/quiz-w1-kap1/index.html){:target="\_blank"}
+
 En bra uppsättning filmer där jag gå igenom grunderna i hur man gör moderna webbsidor. Filmerna tar upp liknade saker som i boken men är inte övningar i boken. [Länk till spellistan](https://www.youtube.com/watch?v=BCqcBps5jOM&list=PLNadygDF_9TFqwOOsb3FHVsoBQkyjw6tn&ab_channel=PaulBelfrage)
 
 Spellistans innehåll
@@ -40,9 +42,9 @@ Spellistans innehåll
 
 [Länk till denna sida](https://paubel.github.io/webbutveckling1/)
 
-[Quiz 1](./quiz/quiz-w1-kap1/index.html){:target="\_blank"}
-
 # 2. Installation av Visual studio Code och Hello world med HTML och CSS
+
+[Quiz 2](./quiz/quiz-w1-kap2/index.html){:target="\_blank"}
 
 [Länk till film som visar installation av VS Code - del 1-6.](https://www.youtube.com/watch?v=BCqcBps5jOM&list=PLNadygDF_9TFqwOOsb3FHVsoBQkyjw6tn&ab_channel=PaulBelfrage) Tänk på att du inte behöver lägga till alla extentions som visas i filmerna. Det jag rekomenderar är
 
@@ -50,8 +52,6 @@ Spellistans innehåll
 - W3C Web Validator av Celian Riboulet
 
 [Länk till Visual Studio Code](https://code.visualstudio.com)
-
-[Quiz 2](./quiz/quiz-w1-kap2/index.html){:target="\_blank"}
 
 # 3. En kort historik om webben
 
