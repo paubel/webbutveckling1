@@ -1,7 +1,5 @@
 # Webbutveckling 1 av Paul Belfrage
 
-[Länk till denna sida](https://paubel.github.io/webbutveckling1/)
-
 # 1. Om läromedlets uppbyggnad
 
 En bra uppsättning filmer där jag gå igenom grunderna i hur man gör moderna webbsidor. Filmerna tar upp liknade saker som i boken men är inte övningar i boken. [Länk till spellistan](https://www.youtube.com/watch?v=BCqcBps5jOM&list=PLNadygDF_9TFqwOOsb3FHVsoBQkyjw6tn&ab_channel=PaulBelfrage)
@@ -39,6 +37,8 @@ Spellistans innehåll
 ## 1.1 Om hur engelska är ett måste för att behärska webben
 
 ## 1.2 Kompanionsida
+
+[Länk till denna sida](https://paubel.github.io/webbutveckling1/)
 
 [Quiz 1](./quiz/quiz-w1-kap1/index.html){:target="\_blank"}
 
