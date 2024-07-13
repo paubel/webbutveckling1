@@ -14,7 +14,7 @@ body {
   justify-content: center;
   align-items: center;
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   background-color: hsl(var(--hue), 100%, 20%);
 }
 
@@ -28,7 +28,7 @@ body.wrong {
 .container {
   width: 800px;
   max-width: 85%;
-  height: 60vh;
+  height: 90vh;
   min-height: 480px;
   background-color: white;
   border-radius: 5px;
@@ -47,6 +47,11 @@ body.wrong {
   .btn-grid {
     grid-template-columns: repeat(2, auto);
   }
+}
+
+#question-number,
+#score {
+  background: hsl(194, 83%, 84%);
 }
 
 .btn {
@@ -96,13 +101,20 @@ h2,
   text-align: center;
 }
 
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  font-size: 1.3rem;
+}
+
 #score {
   font-weight: bolder;
 }
 
 footer {
   font-size: 0.7rem;
-  margin-top: 10px;
+  margin-top: auto;
   box-shadow: 0 0 10px 2px;
   background-color: white;
   border-radius: 5px;
