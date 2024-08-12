@@ -600,6 +600,8 @@ Andra saker som jag visar i filmerna ovan är
 
 # 13 Mer om CSS
 
+[Quiz 13](./quiz/quiz-w1-kap13/index.html){:target="\_blank"}
+
 ## 13.1 Kaskad och specificitet
 
 [Amelia Wittenbergers blogg](https://2019.wattenberger.com/blog/css-cascade)
