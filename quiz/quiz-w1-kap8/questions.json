@@ -1,0 +1,34 @@
+{
+  "quiz": [
+    {
+      "question": "Vad är ett semantiskt element i HTML?",
+      "options": [
+        "Ett element med ett specifikt syfte",
+        "Ett element som används för att skapa stil",
+        "Ett element utan inneboende betydelse",
+        "Ett element som bara fungerar med CSS"
+      ],
+      "answer": "Ett element med ett specifikt syfte"
+    },
+    {
+      "question": "Vilket HTML-element används för att definiera den mest betydelsefulla rubriken på en sida?",
+      "options": ["<p>", "<h1>", "<nav>", "<header>"],
+      "answer": "<h1>"
+    },
+    {
+      "question": "Vilket av följande är ett exempel på ett icke-semantiskt element?",
+      "options": ["<header>", "<section>", "<div>", "<article>"],
+      "answer": "<div>"
+    },
+    {
+      "question": "Vilken version av HTML introducerade elementet <main>?",
+      "options": ["HTML 2.0", "HTML 3.2", "HTML 4", "HTML 5"],
+      "answer": "HTML 5"
+    },
+    {
+      "question": "Vilket element används för att gruppera relaterat innehåll och ge mening till strukturen i HTML5?",
+      "options": ["<span>", "<footer>", "<section>", "<i>"],
+      "answer": "<section>"
+    }
+  ]
+}
