@@ -97,6 +97,8 @@ Spellistans innehåll
 
 # 5. Lagar
 
+[Quiz 5](./quiz/quiz-w1-kap5/index.html){:target="\_blank"}
+
 ## 5.1 Dataskyddsförordningen GDPR
 
 [vad en personuppgift är](https://www.imy.se/privatperson/dataskydd/introduktion-till-gdpr/vad-ar-personuppgifter/)
@@ -127,6 +129,8 @@ Spellistans innehåll
 [www.flickr.com/creativecommons/](https://www.flickr.com/creativecommons/)
 
 # 6. HTML
+
+[Quiz 6](./quiz/quiz-w1-kap6/index.html){:target="\_blank"}
 
 [Stack Overflow Survey 2023](https://survey.stackoverflow.co/2023/)
 
@@ -194,6 +198,10 @@ Andra saker som jag visar i filmerna ovan är
 ÖVNING 6.9 Astronomiska föreningen Orionalliansen - formulär
 
 [webbplats kap6 - html lösningsförslag (ZIP-fil)](./webbplats%20kap6%20-%20html%20lösningsförslag.zip)
+
+# 7 Formulär i HTML
+
+[Quiz 7](./quiz/quiz-w1-kap7/index.html){:target="\_blank"}
 
 ## 7.1 `<form>`, action och method
 
@@ -279,12 +287,18 @@ Andra saker som jag visar i filmerna ovan är
 
 # 8 Semantisk HTML
 
+[Quiz 8](./quiz/quiz-w1-kap8/index.html){:target="\_blank"}
+
 ÖVNING 8.1 [/ÖVNINGAR/ovn-layout-icke-semantiska-element.html](./ÖVNINGAR/ovn-layout-icke-semantiska-element.html){:download="ovn-layout-icke-semantiska-element.html"} Högerklicka välj "ladda ner länk"
 
 ÖVNING 8.2 Astronomiska föreningen Orionalliansen
 [webbplats kap7 - formulär (ZIP-fil)](./webbplats%20kap7%20-%20formulär.zip)
 
 [webbplats kap8 - sementiska elemen (ZIP-fil)](./webbplats%20kap8%20-%20sementiska%20element.zip)
+
+# 9 Semantisk HTML
+
+[Quiz 9](./quiz/quiz-w1-kap9/index.html){:target="\_blank"}
 
 ## 9.1 HTML referenser
 
@@ -301,6 +315,8 @@ Andra saker som jag visar i filmerna ovan är
 [stackoverflow.com/ ](https://stackoverflow.com/)
 
 # 10 CSS
+
+[Quiz 10](./quiz/quiz-w1-kap10/index.html){:target="\_blank"}
 
 [Amelia Wittenberger](https://2019.wattenberger.com/blog/css-cascade)
 
@@ -461,6 +477,8 @@ Andra saker som jag visar i filmerna ovan är
 
 # 11 Flexbox och grid
 
+[Quiz 11](./quiz/quiz-w1-kap11/index.html){:target="\_blank"}
+
 [Flexbox kunde användas i många webbläsare 2014 och Grid 2017](https://apptitude.ch/en/development/web-layout-part-2-flexbox-and-grid/#:~:text=Two%20of%20them%20have%20radically,started%20to%20support%20in%202017.)
 
 ## 11.1 Flex
@@ -543,6 +561,8 @@ Andra saker som jag visar i filmerna ovan är
 [webbplats kap11 - grid (ZIP-fil)](./webbplats%20kap11%20-%20grid.zip)
 
 # 12 CSS Enheter
+
+[Quiz 12](./quiz/quiz-w1-kap12/index.html){:target="\_blank"}
 
 ## 12.1 Absoluta enheter
 
