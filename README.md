@@ -55,6 +55,8 @@ Spellistans innehåll
 
 # 3. En kort historik om webben
 
+[Quiz 2](./quiz/quiz-w1-kap3/index.html){:target="\_blank"}
+
 [W3C](https://www.w3.org/about/history/)
 
 [ADSL](https://en.wikipedia.org/wiki/ADSL)
