@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Vad står förkortningen GDPR för på engelska?",
+    "answers": [
+      { "text": "Global Data Protection Regulation", "correct": false },
+      { "text": "General Data Protection Regulation", "correct": true },
+      { "text": "Governmental Data Privacy Rules", "correct": false },
+      { "text": "General Digital Privacy Regulations", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken av följande är INTE ett exempel på en personuppgift enligt GDPR?",
+    "answers": [
+      { "text": "Namn", "correct": false },
+      { "text": "E-postadress", "correct": false },
+      { "text": "Organisationsnummer (för företag)", "correct": true },
+      { "text": "Foto av en person", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken av följande är INTE en giltig grund för att behandla personuppgifter enligt GDPR?",
+    "answers": [
+      { "text": "Samtycke", "correct": false },
+      { "text": "Avtal med den registrerade", "correct": false },
+      { "text": "Ekonomisk vinning", "correct": true },
+      { "text": "Rättslig förpliktelse", "correct": false }
+    ]
+  },
+  {
+    "question": "Varför måste vissa företag sluta använda Google Analytics enligt ett beslut från 3 juli 2023?",
+    "answers": [
+      { "text": "Google Analytics är för dyrt", "correct": false },
+      { "text": "Google Analytics samlar in för lite data", "correct": false },
+      {
+        "text": "USA anses inte ha adekvat skyddsnivå för personuppgifter",
+        "correct": true
+      },
+      { "text": "Google Analytics är föråldrat", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad är en viktig skillnad mellan europeisk och amerikansk syn på personuppgifter?",
+    "answers": [
+      { "text": "USA har striktare regler", "correct": false },
+      { "text": "Europa ser information som mer kontextuell", "correct": true },
+      { "text": "USA inkluderar fler typer av data", "correct": false },
+      { "text": "Det finns inga skillnader", "correct": false }
+    ]
+  }
+]
