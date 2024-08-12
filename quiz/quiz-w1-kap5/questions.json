@@ -1,65 +1,47 @@
 [
   {
-    "question": "Hur många bytes motsvarar 1 kilobyte (kB)?",
+    "question": "Vad heter tillsynsmyndigheten för GDPR i Sverige?",
     "answers": [
-      { "text": "100 bytes", "correct": false },
-      { "text": "1000 bytes", "correct": true },
-      { "text": "1024 bytes", "correct": false },
-      { "text": "10000 bytes", "correct": false }
+      { "text": "Datainspektionen", "correct": false },
+      { "text": "Integritetsskyddsmyndigheten (IMY)", "correct": true },
+      { "text": "Dataskyddsmyndigheten", "correct": false },
+      { "text": "Personuppgiftsinspektionen", "correct": false }
     ]
   },
   {
-    "question": "Vilken lagringskapacitet motsvarar en timmes digital video i 1280 x 720 format?",
+    "question": "Vilken av följande är INTE en personuppgift enligt GDPR?",
     "answers": [
-      { "text": "Megabyte", "correct": false },
-      { "text": "Gigabyte", "correct": true },
-      { "text": "Terabyte", "correct": false },
-      { "text": "Kilobyte", "correct": false }
+      { "text": "Din IP-adress när du surfar på nätet", "correct": false },
+      { "text": "Ett foto av dig", "correct": false },
+      { "text": "E-postadress som info@företag.se", "correct": true },
+      { "text": "Ljudfil med en persons röst", "correct": false }
     ]
   },
   {
-    "question": "Vilket protokoll används mest idag för säker överföring av data i webbläsare?",
+    "question": "Hur länge gäller upphovsrätten efter upphovsrättspersonens död?",
     "answers": [
-      { "text": "HTTP", "correct": false },
-      { "text": "FTP", "correct": false },
-      { "text": "HTTPS", "correct": true },
-      { "text": "SSH", "correct": false }
+      { "text": "50 år", "correct": false },
+      { "text": "70 år", "correct": true },
+      { "text": "100 år", "correct": false },
+      { "text": "För alltid", "correct": false }
     ]
   },
   {
-    "question": "Vad står TLS för?",
+    "question": "Vilken Creative Commons-licens tillåter användning utan att ange upphovsrättspersonen?",
     "answers": [
-      { "text": "Transfer Layer Security", "correct": false },
-      { "text": "Transport Layer Security", "correct": true },
-      { "text": "Transmission Layer System", "correct": false },
-      { "text": "Transfer Link Security", "correct": false }
+      { "text": "CC BY", "correct": false },
+      { "text": "CC SA", "correct": false },
+      { "text": "CC0", "correct": true },
+      { "text": "CC ND", "correct": false }
     ]
   },
   {
-    "question": "Vilken HTTP-statuskod indikerar en lyckad respons?",
+    "question": "Vad är INTE en del av den ideella upphovsrätten?",
     "answers": [
-      { "text": "100", "correct": false },
-      { "text": "200", "correct": true },
-      { "text": "404", "correct": false },
-      { "text": "500", "correct": false }
-    ]
-  },
-  {
-    "question": "Vad består en IP-adress av?",
-    "answers": [
-      { "text": "Tre grupper av siffror", "correct": false },
-      { "text": "Fyra grupper av siffror", "correct": true },
-      { "text": "Fem grupper av siffror", "correct": false },
-      { "text": "Sex grupper av siffror", "correct": false }
-    ]
-  },
-  {
-    "question": "Vilken HTTP-metod används för att uppdatera en befintlig resurs på servern?",
-    "answers": [
-      { "text": "GET", "correct": false },
-      { "text": "POST", "correct": false },
-      { "text": "PUT", "correct": true },
-      { "text": "DELETE", "correct": false }
+      { "text": "Rätt att bli namngiven", "correct": false },
+      { "text": "Rätt att förhindra kränkande användning", "correct": false },
+      { "text": "Rätt att sälja verket", "correct": true },
+      { "text": "Rätt att bestämma hur verket presenteras", "correct": false }
     ]
   }
 ]

@@ -1,0 +1,194 @@
+{
+  "quiz": [
+    {
+      "question": "Vad står CSS för?",
+      "options": [
+        "Cascading Style Sheets",
+        "Colorful Style Sheets",
+        "Creative Style Sheets",
+        "Computer Style Sheets"
+      ],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "question": "Vilket sätt att lägga till CSS är att föredra för att separera innehåll från design?",
+      "options": [
+        "I en extern fil",
+        "I <head>-elementet",
+        "Direkt i ett HTML-element",
+        "Det spelar ingen roll"
+      ],
+      "answer": "I en extern fil"
+    },
+    {
+      "question": "Vad gör CSS-regeln `h1 { color: green; }`?",
+      "options": [
+        "Den ändrar textfärgen för alla <h1>-element till grön",
+        "Den gör bakgrunden för alla <h1>-element grön",
+        "Den gör textfärgen för alla <p>-element grön",
+        "Den tar bort alla <h1>-element"
+      ],
+      "answer": "Den ändrar textfärgen för alla <h1>-element till grön"
+    },
+    {
+      "question": "Vilken egenskap används för att ändra bakgrundsfärgen i ett element?",
+      "options": ["background-color", "color", "font-family", "border-color"],
+      "answer": "background-color"
+    },
+    {
+      "question": "Vilken CSS-egenskap används för att justera texten till höger?",
+      "options": [
+        "text-align: right;",
+        "text-align: left;",
+        "text-align: center;",
+        "text-align: justify;"
+      ],
+      "answer": "text-align: right;"
+    },
+    {
+      "question": "Vad innebär `object-fit: cover;` för en bild?",
+      "options": [
+        "Bilden fyller ut sitt föräldraselement och kan klippas",
+        "Bilden sträcks för att passa in i sitt element utan att klippas",
+        "Bilden skalar ner för att passa elementet exakt",
+        "Bilden förblir i sin ursprungliga storlek"
+      ],
+      "answer": "Bilden fyller ut sitt föräldraselement och kan klippas"
+    },
+    {
+      "question": "Vilken prioritet har en CSS-stil som anges direkt i ett HTML-element?",
+      "options": [
+        "Högsta prioritet",
+        "Lägsta prioritet",
+        "Samma prioritet som en extern fil",
+        "Prioritet beroende på ordningen i HTML"
+      ],
+      "answer": "Högsta prioritet"
+    },
+    {
+      "question": "Vilken CSS-egenskap används för att ändra typsnittet?",
+      "options": ["font-family", "font-size", "font-style", "font-weight"],
+      "answer": "font-family"
+    },
+    {
+      "question": "Vad innebär `max-width: 300px;` för en bild i CSS?",
+      "options": [
+        "Bilden kan inte bli bredare än 300 pixlar",
+        "Bilden blir exakt 300 pixlar bred",
+        "Bilden kan bli mindre men inte större än 300 pixlar",
+        "Bilden blir alltid mindre än 300 pixlar bred"
+      ],
+      "answer": "Bilden kan inte bli bredare än 300 pixlar"
+    },
+    {
+      "question": "Vad händer om du använder `width: 100vw;` för en bild i CSS?",
+      "options": [
+        "Bilden fyller hela bredden av viewporten",
+        "Bilden fyller hela höjden av viewporten",
+        "Bilden blir 100 pixlar bred",
+        "Bilden påverkas inte"
+      ],
+      "answer": "Bilden fyller hela bredden av viewporten"
+    },
+    {
+      "question": "Vilken CSS-selektor används för att sätta marginalen till 0 för alla element?",
+      "options": [
+        "Universalselektor",
+        "Typselektor",
+        "Klasselektor",
+        "ID-selektor"
+      ],
+      "answer": "Universalselektor"
+    },
+    {
+      "question": "Vilken CSS-regel gör att bilder och andra element visas som blockelement?",
+      "options": [
+        "display: inline;",
+        "display: block;",
+        "max-width: 100%;",
+        "margin: 0;"
+      ],
+      "answer": "display: block;"
+    },
+    {
+      "question": "Vad är en universalselektor i CSS?",
+      "options": [
+        "En selektor som påverkar ett specifikt element",
+        "En selektor som påverkar alla element i ett HTML-dokument",
+        "En selektor som endast påverkar klasser",
+        "En selektor som används för att identifiera unika element"
+      ],
+      "answer": "En selektor som påverkar alla element i ett HTML-dokument"
+    },
+    {
+      "question": "Vilken egenskap används för att ta hänsyn till bredden på border och padding i CSS?",
+      "options": [
+        "box-sizing: content-box;",
+        "box-sizing: border-box;",
+        "margin: auto;",
+        "padding: 10px;"
+      ],
+      "answer": "box-sizing: border-box;"
+    },
+    {
+      "question": "Vilket CSS-attribut används för att referera till en klass i HTML?",
+      "options": [
+        "id=\"class-name\"",
+        "class=\"class-name\"",
+        ".class-name",
+        "#class-name"
+      ],
+      "answer": "class=\"class-name\""
+    },
+    {
+      "question": "Vad är skillnaden mellan en id-selektor och en klass-selektor i CSS?",
+      "options": [
+        "En id-selektor används för att identifiera flera element medan en klass-selektor används för unika element.",
+        "En klass-selektor används för att identifiera flera element medan en id-selektor används för unika element.",
+        "En id-selektor används för att identifiera klasser medan en klass-selektor används för attribut.",
+        "En klass-selektor används för att identifiera id:n medan en id-selektor används för klasser."
+      ],
+      "answer": "En klass-selektor används för att identifiera flera element medan en id-selektor används för unika element."
+    },
+    {
+      "question": "Vad är syftet med att använda gruppselektorer i CSS?",
+      "options": [
+        "För att gruppera liknande HTML-element",
+        "För att undvika upprepning av CSS-kod",
+        "För att identifiera unika element",
+        "För att tillämpa flera stilar på ett element"
+      ],
+      "answer": "För att undvika upprepning av CSS-kod"
+    },
+    {
+      "question": "Vilken typ av selektor används för att påverka ett element som har två olika klasser?",
+      "options": [
+        "ID-selektor",
+        "Typselektor",
+        "Kedjeselektor",
+        "Härstammande selektor"
+      ],
+      "answer": "Kedjeselektor"
+    },
+    {
+      "question": "Vad innebär härstammande kombinator i CSS?",
+      "options": [
+        "Det påverkar alla element i ett HTML-dokument",
+        "Det påverkar endast föräldraelement",
+        "Det påverkar element som härstammar från ett specifikt föräldraelement",
+        "Det påverkar endast element med specifika ID:n"
+      ],
+      "answer": "Det påverkar element som härstammar från ett specifikt föräldraelement"
+    },
+    {
+      "question": "Vad händer om två CSS-deklarationer har samma prioritet?",
+      "options": [
+        "Den första deklarationen gäller",
+        "Den sista deklarationen gäller",
+        "Ingen av deklarationerna gäller",
+        "Båda deklarationerna gäller"
+      ],
+      "answer": "Den sista deklarationen gäller"
+    }
+  ]
+}

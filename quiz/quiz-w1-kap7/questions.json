@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Vilket attribut i <form> används för att ange vilken URL data ska skickas till?",
+    "answers": [
+      { "text": "method", "correct": false },
+      { "text": "action", "correct": true },
+      { "text": "input", "correct": false },
+      { "text": "placeholder", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken metod används för att skicka data från ett formulär till en server?",
+    "answers": [
+      { "text": "GET", "correct": false },
+      { "text": "POST", "correct": true },
+      { "text": "HEAD", "correct": false },
+      { "text": "PUT", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad är syftet med attributet 'for' i ett <label>-element?",
+    "answers": [
+      { "text": "Att ange en URL för data", "correct": false },
+      {
+        "text": "Att binda en label till ett specifikt input-element",
+        "correct": true
+      },
+      { "text": "Att ändra textens utseende", "correct": false },
+      { "text": "Att ange vilken metod som ska användas", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilket attribut används i <input> för att ge ett inmatningsfält en platshållartext?",
+    "answers": [
+      { "text": "name", "correct": false },
+      { "text": "placeholder", "correct": true },
+      { "text": "id", "correct": false },
+      { "text": "for", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilket element används för att skapa en flerradig textruta i ett formulär?",
+    "answers": [
+      { "text": "<textarea>", "correct": true },
+      { "text": "<input type='text'>", "correct": false },
+      { "text": "<label>", "correct": false },
+      { "text": "<form>", "correct": false }
+    ]
+  }
+]

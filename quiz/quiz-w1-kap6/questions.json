@@ -1,65 +1,107 @@
 [
   {
-    "question": "Hur många bytes motsvarar 1 kilobyte (kB)?",
+    "question": "Vad gör <!DOCTYPE html> deklarationen?",
     "answers": [
-      { "text": "100 bytes", "correct": false },
-      { "text": "1000 bytes", "correct": true },
-      { "text": "1024 bytes", "correct": false },
-      { "text": "10000 bytes", "correct": false }
+      { "text": "Den definierar CSS-stilar", "correct": false },
+      {
+        "text": "Den talar om för webbläsaren vilken version av HTML som ska användas",
+        "correct": true
+      },
+      { "text": "Den skapar huvudrubriken", "correct": false },
+      { "text": "Den länkar till externa JavaScript-filer", "correct": false }
     ]
   },
   {
-    "question": "Vilken lagringskapacitet motsvarar en timmes digital video i 1280 x 720 format?",
+    "question": "Vad är syftet med lang-attributet i <html>-taggen?",
     "answers": [
-      { "text": "Megabyte", "correct": false },
-      { "text": "Gigabyte", "correct": true },
-      { "text": "Terabyte", "correct": false },
-      { "text": "Kilobyte", "correct": false }
+      { "text": "Att specificera sidlayouten", "correct": false },
+      { "text": "Att definiera teckenkodningen", "correct": false },
+      { "text": "Att ange språket för skärmläsare", "correct": true },
+      { "text": "Att bestämma textens riktning", "correct": false }
     ]
   },
   {
-    "question": "Vilket protokoll används mest idag för säker överföring av data i webbläsare?",
+    "question": "Vilken meta-tagg används för att säkerställa korrekt rendering på mobila enheter?",
     "answers": [
-      { "text": "HTTP", "correct": false },
-      { "text": "FTP", "correct": false },
-      { "text": "HTTPS", "correct": true },
-      { "text": "SSH", "correct": false }
+      { "text": "<meta charset='UTF-8'>", "correct": false },
+      { "text": "<meta name='description'>", "correct": false },
+      { "text": "<meta name='keywords'>", "correct": false },
+      { "text": "<meta name='viewport'>", "correct": true }
     ]
   },
   {
-    "question": "Vad står TLS för?",
+    "question": "Vad är syftet med alt-attributet i en <img>-tagg?",
     "answers": [
-      { "text": "Transfer Layer Security", "correct": false },
-      { "text": "Transport Layer Security", "correct": true },
-      { "text": "Transmission Layer System", "correct": false },
-      { "text": "Transfer Link Security", "correct": false }
+      { "text": "Att ange bildens källa", "correct": false },
+      { "text": "Att ställa in bildens dimensioner", "correct": false },
+      { "text": "Att ge ett textalternativ till bilden", "correct": true },
+      { "text": "Att lägga till en ram runt bilden", "correct": false }
     ]
   },
   {
-    "question": "Vilken HTTP-statuskod indikerar en lyckad respons?",
+    "question": "Vad är skillnaden mellan <strong> och <b> elementen?",
     "answers": [
-      { "text": "100", "correct": false },
-      { "text": "200", "correct": true },
-      { "text": "404", "correct": false },
-      { "text": "500", "correct": false }
+      { "text": "Det finns ingen skillnad", "correct": false },
+      {
+        "text": "<strong> är för större betydelse, <b> är för uppmärksamhet utan ökad betydelse",
+        "correct": true
+      },
+      { "text": "<strong> är kursiv, <b> är fet", "correct": false },
+      {
+        "text": "<strong> är för rubriker, <b> är för brödtext",
+        "correct": false
+      }
     ]
   },
   {
-    "question": "Vad består en IP-adress av?",
+    "question": "Vad är en relativ filväg?",
     "answers": [
-      { "text": "Tre grupper av siffror", "correct": false },
-      { "text": "Fyra grupper av siffror", "correct": true },
-      { "text": "Fem grupper av siffror", "correct": false },
-      { "text": "Sex grupper av siffror", "correct": false }
+      { "text": "En länk till en extern webbplats", "correct": false },
+      { "text": "En filväg som utgår från aktuell fil", "correct": true },
+      {
+        "text": "En länk till en specifik del av samma sida",
+        "correct": false
+      },
+      { "text": "En filväg som alltid börjar med http://", "correct": false }
     ]
   },
   {
-    "question": "Vilken HTTP-metod används för att uppdatera en befintlig resurs på servern?",
+    "question": "Vilken typ av lista bör användas när ordningen har betydelse?",
     "answers": [
-      { "text": "GET", "correct": false },
-      { "text": "POST", "correct": false },
-      { "text": "PUT", "correct": true },
-      { "text": "DELETE", "correct": false }
+      { "text": "Oordnad lista (<ul>)", "correct": false },
+      { "text": "Ordnad lista (<ol>)", "correct": true },
+      { "text": "Definitionslista (<dl>)", "correct": false },
+      { "text": "Menylista (<menu>)", "correct": false }
+    ]
+  },
+  {
+    "question": "Hur skapar man en kommentar i HTML?",
+    "answers": [
+      { "text": "// Detta är en kommentar", "correct": false },
+      { "text": "# Detta är en kommentar", "correct": false },
+      { "text": "<!-- Detta är en kommentar -->", "correct": true },
+      { "text": "/* Detta är en kommentar */", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad är syftet med att validera HTML-kod?",
+    "answers": [
+      { "text": "Att göra webbsidan snabbare", "correct": false },
+      {
+        "text": "Att kontrollera att koden uppfyller W3C:s standarder",
+        "correct": true
+      },
+      { "text": "Att automatiskt rätta stavfel i texten", "correct": false },
+      { "text": "Att optimera bilder för webben", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad betyder förkortningen 'DOM' i webbutvecklingssammanhang?",
+    "answers": [
+      { "text": "Document Object Model", "correct": true },
+      { "text": "Data Object Management", "correct": false },
+      { "text": "Digital Output Method", "correct": false },
+      { "text": "Dynamic Orientation Module", "correct": false }
     ]
   }
 ]

@@ -1,0 +1,41 @@
+{
+  "quiz": [
+    {
+      "question": "Vad betyder 'Importance' i CSS-sammanhang?",
+      "options": [
+        "Det avgör vilken stil som ska gälla om det finns konflikter",
+        "Det beskriver källan till CSS-koden",
+        "Det bestämmer vilken ordning CSS-koden laddas"
+      ],
+      "answer": "Det avgör vilken stil som ska gälla om det finns konflikter"
+    },
+    {
+      "question": "Vilken av följande metoder har högst specificitet?",
+      "options": ["class", "id", "type"],
+      "answer": "id"
+    },
+    {
+      "question": "Vad innebär arv av egenskaper i CSS?",
+      "options": [
+        "En egenskap som ärvs från ett föräldraelement till dess barn",
+        "Att egenskaper bestäms av användarens webbläsarinställningar",
+        "Att CSS-koden ärver från tidigare deklarationer"
+      ],
+      "answer": "En egenskap som ärvs från ett föräldraelement till dess barn"
+    },
+    {
+      "question": "Vilken egenskap är INTE ärvd i CSS?",
+      "options": ["color", "font-size", "background-color"],
+      "answer": "background-color"
+    },
+    {
+      "question": "Hur påverkar 'font-size: 1.2rem' i <body> elementets storlek på texten i <h1>?",
+      "options": [
+        "Texten i <h1> blir 38.4px",
+        "Texten i <h1> blir 32px",
+        "Texten i <h1> påverkas inte av body"
+      ],
+      "answer": "Texten i <h1> blir 38.4px"
+    }
+  ]
+}
