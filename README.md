@@ -55,7 +55,7 @@ Spellistans innehåll
 
 # 3. En kort historik om webben
 
-[Quiz 2](./quiz/quiz-w1-kap3/index.html){:target="\_blank"}
+[Quiz 3](./quiz/quiz-w1-kap3/index.html){:target="\_blank"}
 
 [W3C](https://www.w3.org/about/history/)
 
@@ -66,6 +66,8 @@ Spellistans innehåll
 [Uppkoppling till internet 1969 - 2003](https://docs.google.com/spreadsheets/d/1fgWcUDBK9RMW_CsseeGX5QM30r9RBjWctUvfnvhnwZo/edit?usp=sharing)
 
 # 4. Tekniken bakom webben
+
+[Quiz 4](./quiz/quiz-w1-kap4/index.html){:target="\_blank"}
 
 ## 4.1 Bit, byte, kilobyte, megabyte, gigabyte, terabyte, megabit/sekund, gigabit/sekund
 
