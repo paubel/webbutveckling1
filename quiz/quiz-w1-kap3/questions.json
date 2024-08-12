@@ -1,0 +1,65 @@
+[
+  {
+    "question": "När uppfanns webben?",
+    "answers": [
+      { "text": "1985", "correct": false },
+      { "text": "1989", "correct": true },
+      { "text": "1991", "correct": false },
+      { "text": "1994", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad är hastigheten på dagens internet jämfört med 90-talet?",
+    "answers": [
+      { "text": "Ungefär 500 gånger snabbare", "correct": false },
+      { "text": "Ungefär 1000 gånger snabbare", "correct": false },
+      { "text": "Nästan 2000 gånger snabbare", "correct": true },
+      { "text": "Över 5000 gånger snabbare", "correct": false }
+    ]
+  },
+  {
+    "question": "Hur många bitar behövs för att representera ett tecken i en dator?",
+    "answers": [
+      { "text": "4 bitar", "correct": false },
+      { "text": "8 bitar", "correct": true },
+      { "text": "16 bitar", "correct": false },
+      { "text": "32 bitar", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken lagringskapacitet motsvarar texten till 'Harry Potter and the Goblet of Fire' lagrad i en textfil?",
+    "answers": [
+      { "text": "Kilobyte", "correct": false },
+      { "text": "Megabyte", "correct": true },
+      { "text": "Gigabyte", "correct": false },
+      { "text": "Terabyte", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilket protokoll används mest idag för säker överföring av data i webbläsare?",
+    "answers": [
+      { "text": "HTTP", "correct": false },
+      { "text": "FTP", "correct": false },
+      { "text": "HTTPS", "correct": true },
+      { "text": "SSH", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad står SSL för?",
+    "answers": [
+      { "text": "Secure Socket Layer", "correct": true },
+      { "text": "System Security Lock", "correct": false },
+      { "text": "Safe Server Link", "correct": false },
+      { "text": "Standard Safety License", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken HTTP-metod används för att hämta information från servern?",
+    "answers": [
+      { "text": "POST", "correct": false },
+      { "text": "PUT", "correct": false },
+      { "text": "DELETE", "correct": false },
+      { "text": "GET", "correct": true }
+    ]
+  }
+]
