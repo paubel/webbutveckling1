@@ -164,6 +164,10 @@ Andra saker som jag visar i filmerna ovan är
 
 [recension utan CSS (ZIP-fil)](./recension%20utan%20CSS.zip)
 
+## 6.7 Genomgång av en komplett HTML-kod
+
+[recension med CSS (ZIP-fil)](./recension%20med%20CSS.zip)
+
 ### 6.7.1 `<!DOCTYPE html>`
 
 [quirks-läge](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)
