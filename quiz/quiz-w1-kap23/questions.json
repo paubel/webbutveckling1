@@ -1,0 +1,61 @@
+[
+  {
+    "question": "Vad är en rasterbild och vad är dess huvudegenskaper?",
+    "answers": [
+      {
+        "text": "En bild som är uppbyggd av pixlar, där varje pixel kan ha över 16 miljoner färger, och den kan inte förstoras utan att pixlarna blir synliga.",
+        "correct": true
+      },
+      {
+        "text": "En bild som är uppbyggd av vektorer och kan förstoras utan att förlora kvalitet.",
+        "correct": false
+      },
+      {
+        "text": "En bild som använder matematiska algoritmer för att skapa linjer och kan enkelt komprimeras utan kvalitetsförlust.",
+        "correct": false
+      },
+      {
+        "text": "En bild som är skapad med hjälp av olika bildredigeringsprogram och kan enkelt förstoras utan att kvalitén påverkas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket är ett kännetecken för vektorbildformat?",
+    "answers": [
+      {
+        "text": "Vektorbildformat kan förstoras utan att förlora kvalitet.",
+        "correct": true
+      },
+      {
+        "text": "Vektorbildformat består av pixlar och kan inte förstoras utan att kvaliteten försämras.",
+        "correct": false
+      },
+      {
+        "text": "Vektorbildformat har ofta stora filstorlekar och många färger.",
+        "correct": false
+      },
+      {
+        "text": "Vektorbildformat används främst för fotografier och realistiska bilder.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilken av följande verktyg kan du använda för att ändra storlek på bilder online?",
+    "answers": [
+      {
+        "text": "Squoosh",
+        "correct": true
+      },
+      {
+        "text": "Gimp",
+        "correct": false
+      },
+      {
+        "text": "Photoshop",
+        "correct": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Vilket syfte har att göra en webbplats tillgänglig enligt texten?",
+    "answers": [
+      {
+        "text": "Att alla användare, oavsett funktionshinder, ska kunna ta del av innehållet.",
+        "correct": true
+      },
+      {
+        "text": "Att säkerställa att webbplatsen följer lagstiftningen för offentliga myndigheter.",
+        "correct": false
+      },
+      {
+        "text": "Att webbplatsen ser visuellt attraktiv ut för alla användare.",
+        "correct": false
+      },
+      {
+        "text": "Att webbplatsen automatiskt anpassar sig till olika skärmstorlekar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilken lag i Sverige relaterar till tillgänglighet till digital offentlig service?",
+    "answers": [
+      {
+        "text": "Lagen om tillgänglighet till digital offentlig service 2018",
+        "correct": true
+      },
+      {
+        "text": "Lagen om webbsäkerhet 2020",
+        "correct": false
+      },
+      {
+        "text": "Lagen om användarvänlighet 2019",
+        "correct": false
+      },
+      {
+        "text": "Lagen om digital information 2017",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilken av följande färgkombinationer bör undvikas för att förhindra problem med färgblindhet?",
+    "answers": [
+      {
+        "text": "Röd-grön",
+        "correct": true
+      },
+      {
+        "text": "Blå-gul",
+        "correct": false
+      },
+      {
+        "text": "Grön-blå",
+        "correct": false
+      },
+      {
+        "text": "Lila-orange",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vad är en viktig fördel med vektorbildformat jämfört med rasterbilder?",
+    "answers": [
+      {
+        "text": "Vektorbilder kan förstoras utan att förlora kvalitet.",
+        "correct": true
+      },
+      {
+        "text": "Vektorbilder har alltid fler färger än rasterbilder.",
+        "correct": false
+      },
+      {
+        "text": "Vektorbilder är alltid mindre i filstorlek än rasterbilder.",
+        "correct": false
+      },
+      {
+        "text": "Vektorbilder kan inte användas för komplexa fotografier.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vad händer med en bilds filstorlek när du minskar dess bredd och höjd?",
+    "answers": [
+      {
+        "text": "Filstorleken minskar proportionellt med minskningen av bildens dimensioner.",
+        "correct": true
+      },
+      {
+        "text": "Filstorleken förblir konstant oavsett bildens dimensioner.",
+        "correct": false
+      },
+      {
+        "text": "Filstorleken ökar när bilden minskas.",
+        "correct": false
+      },
+      {
+        "text": "Filstorleken minskar bara om bilden komprimeras efter minskning.",
+        "correct": false
+      }
+    ]
+  }
+]

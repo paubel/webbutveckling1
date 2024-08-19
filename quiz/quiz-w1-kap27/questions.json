@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Vad är syftet med att definiera mål och innehåll innan du börjar skapa en webbplats?",
+    "answers": [
+      {
+        "text": "För att skapa en klar plan som motsvarar företagets mål och vision.",
+        "correct": true
+      },
+      {
+        "text": "För att bestämma vilka verktyg som ska användas för att bygga webbplatsen.",
+        "correct": false
+      },
+      {
+        "text": "För att säkerställa att webbplatsen kommer att ha högsta möjliga grafikstandard.",
+        "correct": false
+      },
+      {
+        "text": "För att snabbt kunna börja koda webbplatsen utan planering.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket verktyg kan användas för att skapa en visuell representation av en webbplats sidor och deras kopplingar?",
+    "answers": [
+      {
+        "text": "Figma",
+        "correct": true
+      },
+      {
+        "text": "Sublime Text",
+        "correct": false
+      },
+      {
+        "text": "Adobe Photoshop",
+        "correct": false
+      },
+      {
+        "text": "Notepad++",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vad är syftet med att skapa wireframes för en webbplats?",
+    "answers": [
+      {
+        "text": "Att visa layouten och strukturen för varje sida på webbplatsen.",
+        "correct": true
+      },
+      {
+        "text": "Att skapa en slutlig design som inte behöver ändras.",
+        "correct": false
+      },
+      {
+        "text": "Att testa webbplatsens funktioner på olika webbläsare.",
+        "correct": false
+      },
+      {
+        "text": "Att välja färger och typsnitt för den färdiga webbplatsen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vad bör du göra efter att ha byggt och testat startsidan i HTML och CSS?",
+    "answers": [
+      {
+        "text": "Lägga till stil med CSS och publicera på GitHub för ytterligare testning.",
+        "correct": true
+      },
+      {
+        "text": "Börja om från början med en ny design för startsidan.",
+        "correct": false
+      },
+      {
+        "text": "Gå direkt till att skapa övriga sidor utan att testa startsidan.",
+        "correct": false
+      },
+      {
+        "text": "Publicera webbplatsen på ett webbhotell utan ytterligare tester.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vad är viktigt att tänka på när du infogar media på din webbplats?",
+    "answers": [
+      {
+        "text": "Att optimera bilder och media för att säkerställa snabb laddning och bra prestanda.",
+        "correct": true
+      },
+      {
+        "text": "Att använda så många bilder och videor som möjligt för att fylla utrymmet.",
+        "correct": false
+      },
+      {
+        "text": "Att använda stora högupplösta bilder oavsett filstorlek.",
+        "correct": false
+      },
+      {
+        "text": "Att säkerställa att alla media är av samma typ och format.",
+        "correct": false
+      }
+    ]
+  }
+]

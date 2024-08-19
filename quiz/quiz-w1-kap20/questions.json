@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Vad är huvudmålet med progressiv förbättring i webbdesign?",
+    "answers": [
+      {
+        "text": "Att skapa avancerad grafik och animationer.",
+        "correct": false
+      },
+      {
+        "text": "Att säkerställa att innehållet är tillgängligt för alla, oavsett enhet eller internetuppkoppling.",
+        "correct": true
+      },
+      {
+        "text": "Att prioritera användarens webbläsares preferenser.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket steg i progressiv förbättring innebär användning av externt länkad CSS?",
+    "answers": [
+      { "text": "Att tillhandahålla grundläggande innehåll", "correct": false },
+      { "text": "Att skapa en förbättrad layout", "correct": true },
+      {
+        "text": "Att säkerställa grundläggande funktionalitet",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket av följande är en viktig aspekt av progressiv förbättring enligt texten?",
+    "answers": [
+      { "text": "Att använda tunga animationer", "correct": false },
+      {
+        "text": "Att respektera användarens webbläsares preferenser",
+        "correct": true
+      },
+      { "text": "Att prioritera JavaScript över innehåll", "correct": false }
+    ]
+  }
+]

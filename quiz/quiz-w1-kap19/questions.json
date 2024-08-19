@@ -1,0 +1,59 @@
+[
+  {
+    "question": "Vad menas med uttrycket 'Användaren har alltid rätt' inom webbutveckling?",
+    "answers": [
+      {
+        "text": "Användarna förväntas alltid följa reglerna på en webbplats.",
+        "correct": false
+      },
+      {
+        "text": "Webbutvecklare måste anpassa webbplatsen om användarna har svårt att använda den.",
+        "correct": true
+      },
+      {
+        "text": "Användarna har alltid rätt att begära ändringar i designen.",
+        "correct": false
+      },
+      {
+        "text": "Webbutvecklare bör alltid prioritera regler och lagar framför användarens upplevelse.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilken princip inom UI/UX-design handlar om att skapa ett lättanvänt gränssnitt som är lätt att förstå och navigera?",
+    "answers": [
+      { "text": "Användbarhet", "correct": true },
+      { "text": "Flexibilitet", "correct": false },
+      { "text": "Tydlighet", "correct": false },
+      { "text": "Enhetlighet", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken princip inom UI/UX-design handlar om att gränssnittet ska anpassa sig till olika skärmstorlekar och upplösningar?",
+    "answers": [
+      { "text": "Enhetlighet", "correct": false },
+      { "text": "Feedback", "correct": false },
+      { "text": "Flexibilitet", "correct": true },
+      { "text": "Tydlighet", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilket av följande är INTE ett exempel på hur användaren kan interagera med en webbsida enligt texten?",
+    "answers": [
+      { "text": "Skrolla", "correct": false },
+      { "text": "Dubbelklicka", "correct": false },
+      { "text": "Klicka på bilder", "correct": false },
+      { "text": "Ändra HTML-koden", "correct": true }
+    ]
+  },
+  {
+    "question": "Vilken UI/UX-princip fokuserar på att ge användaren feedback om deras handlingar på en webbplats?",
+    "answers": [
+      { "text": "Tydlighet", "correct": false },
+      { "text": "Flexibilitet", "correct": false },
+      { "text": "Enhetlighet", "correct": false },
+      { "text": "Återkoppling", "correct": true }
+    ]
+  }
+]

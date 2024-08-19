@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Vad är skillnaden mellan lossy och lossless komprimering?",
+    "answers": [
+      {
+        "text": "Lossy komprimering minskar filstorleken genom att permanent ta bort data, medan lossless komprimering bevarar all originaldata och endast tar bort onödig metadata.",
+        "correct": true
+      },
+      {
+        "text": "Lossy komprimering bevarar all originaldata men minskar filstorleken genom att ta bort onödig metadata, medan lossless komprimering tar bort en del av originaldata.",
+        "correct": false
+      },
+      {
+        "text": "Lossy komprimering gör att bilder kan förstoras utan att förlora kvalitet, medan lossless komprimering gör bilder mindre utan att påverka kvaliteten.",
+        "correct": false
+      },
+      {
+        "text": "Lossy komprimering använder matematiska algoritmer för att bevara bildens kvalitet, medan lossless komprimering använder en enkel metod för att minska filstorleken.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket bildformat är känt för att vara bäst på att komprimera stora bilder?",
+    "answers": [
+      {
+        "text": "JPEG",
+        "correct": true
+      },
+      {
+        "text": "PNG",
+        "correct": false
+      },
+      {
+        "text": "GIF",
+        "correct": false
+      },
+      {
+        "text": "SVG",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vad är en fördel med WebP jämfört med äldre bildformat som JPEG och PNG?",
+    "answers": [
+      {
+        "text": "WebP erbjuder bättre komprimering och stödjer både lossy och lossless komprimering, vilket ger mindre filstorlekar utan att förlora kvalitet.",
+        "correct": true
+      },
+      {
+        "text": "WebP är endast kompatibelt med en handfull webbläsare och ger inte bättre komprimering än JPEG.",
+        "correct": false
+      },
+      {
+        "text": "WebP kan inte användas för fotografier och är endast lämpligt för enkla animationer.",
+        "correct": false
+      },
+      {
+        "text": "WebP har större filstorlekar än JPEG och PNG och är därför mindre effektivt för webben.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket bildformat är bäst för att skapa vektorbaserade bilder?",
+    "answers": [
+      {
+        "text": "SVG",
+        "correct": true
+      },
+      {
+        "text": "JPEG",
+        "correct": false
+      },
+      {
+        "text": "PNG",
+        "correct": false
+      },
+      {
+        "text": "WebP",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket bildformat är mest lämpligt för att visa små logotyper och UI-element?",
+    "answers": [
+      {
+        "text": "PNG",
+        "correct": true
+      },
+      {
+        "text": "JPEG",
+        "correct": false
+      },
+      {
+        "text": "GIF",
+        "correct": false
+      },
+      {
+        "text": "AVIF",
+        "correct": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "question": "Vilka tre grundfärger används i en RGB-skärm?",
+    "answers": [
+      { "text": "Röd, Grön och Blå", "correct": true },
+      { "text": "Gul, Lila och Rosa", "correct": false },
+      { "text": "Svart, Vit och Grå", "correct": false },
+      { "text": "Röd, Gul och Blå", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken enhet har den högsta upplösningen enligt texten?",
+    "answers": [
+      { "text": "HP-skärm", "correct": false },
+      { "text": "Apple Watch", "correct": false },
+      { "text": "MacBook Pro", "correct": true },
+      { "text": "iPhone", "correct": false }
+    ]
+  },
+  {
+    "question": "Hur många färger kan en pixel på en RGB-skärm skapa genom att ändra ljusstyrkan på de tre LED-lamporna?",
+    "answers": [
+      { "text": "Cirka 10 miljoner", "correct": true },
+      { "text": "Cirka 1 000", "correct": false },
+      { "text": "Cirka 16 miljoner", "correct": false },
+      { "text": "Cirka 100 000", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilka två färgreceptorer i näthinnan bidrar till att skapa intrycket av gult på en skärm?",
+    "answers": [
+      { "text": "S- och L-receptorerna", "correct": false },
+      { "text": "M- och L-receptorerna", "correct": true },
+      { "text": "S- och M-receptorerna", "correct": false },
+      { "text": "Alla tre receptorerna", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad är RGB för något?",
+    "answers": [
+      {
+        "text": "Ett system som använder rött, grönt och blått för att skapa färger på en skärm",
+        "correct": true
+      },
+      {
+        "text": "En teknik för att mäta kontrasten mellan olika färger",
+        "correct": false
+      },
+      {
+        "text": "Ett färgschema som endast används för tryckta medier",
+        "correct": false
+      },
+      {
+        "text": "En metod för att justera upplösningen på en skärm",
+        "correct": false
+      }
+    ]
+  }
+]

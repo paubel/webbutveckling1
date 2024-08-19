@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Vilket ljudformat är lossy och minskar filstorleken genom att ta bort delar av frekvenser som är svåra att uppfatta av människor?",
+    "answers": [
+      {
+        "text": "MP3",
+        "correct": true
+      },
+      {
+        "text": "WAV",
+        "correct": false
+      },
+      {
+        "text": "FLAC",
+        "correct": false
+      },
+      {
+        "text": "OGG",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vad är en fördel med att använda MP4 jämfört med WebM?",
+    "answers": [
+      {
+        "text": "MP4 har lite bättre kvalitet och något bättre stöd på olika plattformar.",
+        "correct": true
+      },
+      {
+        "text": "MP4 har lägre kvalitet men mindre filstorlek jämfört med WebM.",
+        "correct": false
+      },
+      {
+        "text": "MP4 har nyare teknologier och är mer kompatibelt med äldre webbläsare än WebM.",
+        "correct": false
+      },
+      {
+        "text": "MP4 stöds endast av en begränsad mängd webbläsare jämfört med WebM.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket format är känt för att vara okomprimerat och kan användas för korta effektljud?",
+    "answers": [
+      {
+        "text": "WAV",
+        "correct": true
+      },
+      {
+        "text": "MP3",
+        "correct": false
+      },
+      {
+        "text": "FLAC",
+        "correct": false
+      },
+      {
+        "text": "OGG",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket element används för att bädda in ljud på en webbsida?",
+    "answers": [
+      {
+        "text": "<audio>",
+        "correct": true
+      },
+      {
+        "text": "<video>",
+        "correct": false
+      },
+      {
+        "text": "<iframe>",
+        "correct": false
+      },
+      {
+        "text": "<source>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket videoformat är systerformatet till WebP och har stöd av 97% av webbläsare?",
+    "answers": [
+      {
+        "text": "WebM",
+        "correct": true
+      },
+      {
+        "text": "MP4",
+        "correct": false
+      },
+      {
+        "text": "HEVC/H.265",
+        "correct": false
+      },
+      {
+        "text": "AV1",
+        "correct": false
+      }
+    ]
+  }
+]
