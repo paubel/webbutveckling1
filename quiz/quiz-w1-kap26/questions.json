@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Vilket verktyg kan användas för att kontrollera hur många användare som kan se en viss funktion i HTML eller CSS beroende på webbläsare?",
+    "answers": [
+      {
+        "text": "caniuse.com",
+        "correct": true
+      },
+      {
+        "text": "w3schools.com",
+        "correct": false
+      },
+      {
+        "text": "mdn.com",
+        "correct": false
+      },
+      {
+        "text": "stackoverflow.com",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vad är ett exempel på hur du kan följa principen om progressiv förbättring när du använder bildformat på din webbplats?",
+    "answers": [
+      {
+        "text": "Använd AVIF för webbläsare som stödjer det och erbjuda JPEG som alternativ för webbläsare som inte gör det.",
+        "correct": true
+      },
+      {
+        "text": "Använd alltid det mest moderna formatet och ignorera användare med äldre webbläsare.",
+        "correct": false
+      },
+      {
+        "text": "Optimera bilder för alla webbläsare oavsett deras stöd för moderna format.",
+        "correct": false
+      },
+      {
+        "text": "Använd endast JPEG-formatet för att säkerställa att alla användare får samma bild.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vad bör du tänka på när du samlar in personlig information via formulär på din webbplats?",
+    "answers": [
+      {
+        "text": "Hur du hanterar och skyddar dessa data enligt Dataskyddsförordningen GDPR.",
+        "correct": true
+      },
+      {
+        "text": "Hur du optimerar formulären för snabbare laddningstider.",
+        "correct": false
+      },
+      {
+        "text": "Hur du presenterar formulären på ett visuellt attraktivt sätt.",
+        "correct": false
+      },
+      {
+        "text": "Hur du säkerställer att formulären är kompatibla med alla webbläsare.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket etiskt övervägande bör du ha när du publicerar bilder som kan identifiera personer i bakgrunden?",
+    "answers": [
+      {
+        "text": "Välj bilder utan identifierbara personer eller använd bildbehandling för att blurra dem.",
+        "correct": true
+      },
+      {
+        "text": "Publicera bilderna som de är och ignorerar personernas identitet.",
+        "correct": false
+      },
+      {
+        "text": "Kontakta alla personer i bakgrunden och få deras tillstånd innan publicering.",
+        "correct": false
+      },
+      {
+        "text": "Undvik att använda bilder med personer i bakgrunden för att undvika problem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vad är ett exempel på en etisk övervägning när du designar en webbplats för användare med olika typer av internetuppkoppling?",
+    "answers": [
+      {
+        "text": "Optimera bilder och filmer för att fungera bra även med långsamma uppkopplingar.",
+        "correct": true
+      },
+      {
+        "text": "Designa webbplatsen för att utnyttja så mycket bandbredd som möjligt för bästa kvalitet.",
+        "correct": false
+      },
+      {
+        "text": "Anta att alla användare har en snabb internetuppkoppling och ignorera långsammare anslutningar.",
+        "correct": false
+      },
+      {
+        "text": "Fokusera endast på högupplösta bilder och filmer för att uppfylla moderna krav.",
+        "correct": false
+      }
+    ]
+  }
+]

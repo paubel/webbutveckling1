@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Vilket år skapades JavaScript?",
+    "answers": [
+      { "text": "1990", "correct": false },
+      { "text": "1995", "correct": true },
+      { "text": "2000", "correct": false },
+      { "text": "2005", "correct": false }
+    ]
+  },
+  {
+    "question": "Vem skapade JavaScript?",
+    "answers": [
+      { "text": "Tim Berners-Lee", "correct": false },
+      { "text": "Brendan Eich", "correct": true },
+      { "text": "Steve Jobs", "correct": false },
+      { "text": "Bill Gates", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken metod används för att skriva ut information i webbläsarens konsol?",
+    "answers": [
+      { "text": "console.log()", "correct": true },
+      { "text": "alert()", "correct": false },
+      { "text": "document.write()", "correct": false },
+      { "text": "print()", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad gör 'event.preventDefault()' i en formulärhanterare?",
+    "answers": [
+      {
+        "text": "Förhindrar formuläret från att skickas normalt",
+        "correct": true
+      },
+      { "text": "Rensar formulärets innehåll", "correct": false },
+      { "text": "Validerar formulärets input", "correct": false },
+      { "text": "Skickar formuläret automatiskt", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken metod används för att hitta ett element med ett specifikt id i DOM-trädet?",
+    "answers": [
+      { "text": "document.querySelector()", "correct": false },
+      { "text": "document.getElementsByClassName()", "correct": false },
+      { "text": "document.getElementById()", "correct": true },
+      { "text": "document.getElementsByTagName()", "correct": false }
+    ]
+  }
+]

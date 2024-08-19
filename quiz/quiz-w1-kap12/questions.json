@@ -1,104 +1,107 @@
 [
   {
-    "question": "Vilket år blev Flexbox allmänt tillgängligt i webbläsare?",
-    "answers": [
-      { "text": "2012", "correct": false },
-      { "text": "2014", "correct": true },
-      { "text": "2016", "correct": false },
-      { "text": "2017", "correct": false }
-    ]
-  },
-  {
-    "question": "Vad gör CSS-egenskapen `display: flex`?",
-    "answers": [
-      { "text": "Sätter elementen i en kolumn", "correct": false },
-      { "text": "Gör elementen flexibla", "correct": false },
-      {
-        "text": "Arrangerar elementen horisontellt om standardvärden används",
-        "correct": true
-      },
-      { "text": "Gör elementen större", "correct": false }
-    ]
-  },
-  {
-    "question": "Vad heter föräldraelementet i en flexbox-layout?",
-    "answers": [
-      { "text": "Flex child", "correct": false },
-      { "text": "Flex item", "correct": false },
-      { "text": "Flex container", "correct": true },
-      { "text": "Flex parent", "correct": false }
-    ]
-  },
-  {
-    "question": "Vilken av följande egenskaper styr hur mycket ett flex-item ska växa?",
-    "answers": [
-      { "text": "flex-grow", "correct": true },
-      { "text": "flex-shrink", "correct": false },
-      { "text": "flex-basis", "correct": false },
-      { "text": "flex-size", "correct": false }
-    ]
-  },
-  {
-    "question": "Vilken CSS-egenskap måste du ändra för att flex-items ska arrangeras vertikalt istället för horisontellt?",
-    "answers": [
-      { "text": "flex-direction: row", "correct": false },
-      { "text": "flex-direction: column", "correct": true },
-      { "text": "flex-wrap: wrap", "correct": false },
-      { "text": "align-items: center", "correct": false }
-    ]
-  },
-  {
-    "question": "Vad är skillnaden mellan `flex-direction: row` och `flex-direction: row-reverse`?",
-    "answers": [
-      { "text": "De påverkar inte flex-itemens ordning", "correct": false },
-      {
-        "text": "De byter ordning på flex-items horisontellt",
-        "correct": true
-      },
-      { "text": "De byter ordning på flex-items vertikalt", "correct": false },
-      { "text": "De ändrar gapet mellan flex-items", "correct": false }
-    ]
-  },
-  {
-    "question": "Vilket kortare sätt kan användas istället för `grid-template-columns: 100px 100px 100px;` och `grid-template-rows: 100px 100px;`?",
+    "question": "Vad kännetecknar absoluta enheter inom CSS, som px?",
     "answers": [
       {
-        "text": "grid-template: 100px 100px / 100px 100px 100px",
+        "text": "De förändras inte och är oberoende av andra element.",
         "correct": true
       },
       {
-        "text": "grid-auto-rows: 100px; grid-auto-columns: 100px;",
+        "text": "De förändras beroende på föräldraelementets storlek.",
         "correct": false
       },
-      { "text": "grid: auto / auto;", "correct": false },
-      { "text": "grid-gap: 100px 100px;", "correct": false }
+      {
+        "text": "De är beroende av webbläsarens zoomnivå.",
+        "correct": false
+      },
+      {
+        "text": "De ändras automatiskt beroende på enhetens upplösning.",
+        "correct": false
+      }
     ]
   },
   {
-    "question": "Vilket värde används för att sätta avståndet mellan kolumner i en grid-layout?",
+    "question": "Vilken enhet bör du använda för att säkerställa att fontstorleken är konsekvent över hela dokumentet?",
     "answers": [
-      { "text": "column-gap", "correct": true },
-      { "text": "row-gap", "correct": false },
-      { "text": "grid-gap", "correct": false },
-      { "text": "gap", "correct": false }
+      {
+        "text": "rem",
+        "correct": true
+      },
+      {
+        "text": "em",
+        "correct": false
+      },
+      {
+        "text": "px",
+        "correct": false
+      },
+      {
+        "text": "vh",
+        "correct": false
+      }
     ]
   },
   {
-    "question": "Vad kallas linjerna runt cellerna i en grid?",
+    "question": "Vad är skillnaden mellan em och rem i CSS?",
     "answers": [
-      { "text": "Grid tracks", "correct": false },
-      { "text": "Grid cells", "correct": false },
-      { "text": "Grid lines", "correct": true },
-      { "text": "Grid areas", "correct": false }
+      {
+        "text": "em baseras på fontstorleken hos föräldraelementet, medan rem baseras på fontstorleken på html-elementet.",
+        "correct": true
+      },
+      {
+        "text": "em och rem är samma och kan användas omväxlande.",
+        "correct": false
+      },
+      {
+        "text": "em baseras på viewportens storlek, medan rem baseras på skärmens upplösning.",
+        "correct": false
+      },
+      {
+        "text": "em är en absolut enhet, medan rem är relativ.",
+        "correct": false
+      }
     ]
   },
   {
-    "question": "Vilken av följande egenskaper används för att positionera ett grid-item över flera kolumner?",
+    "question": "Hur påverkas en box med 30vw och 10vh om viewportens bredd och höjd ändras?",
     "answers": [
-      { "text": "grid-row-start", "correct": false },
-      { "text": "grid-column-start", "correct": false },
-      { "text": "grid-column-end", "correct": true },
-      { "text": "grid-area", "correct": false }
+      {
+        "text": "Boxens bredd och höjd kommer att justeras procentuellt baserat på den nya viewportstorleken.",
+        "correct": true
+      },
+      {
+        "text": "Boxens bredd och höjd förblir oförändrade oavsett viewportstorleken.",
+        "correct": false
+      },
+      {
+        "text": "Boxens bredd och höjd ändras inte eftersom vw och vh är absoluta enheter.",
+        "correct": false
+      },
+      {
+        "text": "Boxen blir osynlig om viewportstorleken ändras.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vad händer med elementets storlek när du använder % i CSS?",
+    "answers": [
+      {
+        "text": "Elementets storlek beräknas som en procentandel av storleken på föräldraelementet.",
+        "correct": true
+      },
+      {
+        "text": "Elementets storlek beräknas som en procentandel av viewportens storlek.",
+        "correct": false
+      },
+      {
+        "text": "Elementets storlek är konstant och oberoende av föräldraelementet.",
+        "correct": false
+      },
+      {
+        "text": "Elementets storlek är automatisk och baseras på skärmens upplösning.",
+        "correct": false
+      }
     ]
   }
 ]

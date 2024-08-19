@@ -1,0 +1,87 @@
+[
+  {
+    "question": "Vad är en av de största fördelarna med att använda ett webbpubliceringssystem (WCMS) som WordPress?",
+    "answers": [
+      {
+        "text": "Det underlättar för användare med begränsad kunskap om webbprogrammering att skapa och hantera webbinnehåll.",
+        "correct": true
+      },
+      {
+        "text": "Det kräver ingen kodning och erbjuder total flexibilitet i designen.",
+        "correct": false
+      },
+      {
+        "text": "Det ger omedelbar tillgång till avancerade programmeringsramverk.",
+        "correct": false
+      },
+      {
+        "text": "Det är det mest flexibla verktyget för att bygga webbplatser utan begränsningar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket av följande är ett grafiskt redigeringsverktyg enligt texten?",
+    "answers": [
+      {
+        "text": "Dreamweaver",
+        "correct": true
+      },
+      {
+        "text": "React",
+        "correct": false
+      },
+      {
+        "text": "Tailwind",
+        "correct": false
+      },
+      {
+        "text": "Angular",
+        "correct": false
+      }
+    ]
+  },
+
+  {
+    "question": "Vilket verktyg erbjuder mest flexibilitet enligt tabellen?",
+    "answers": [
+      {
+        "text": "Tailwind",
+        "correct": true
+      },
+      {
+        "text": "WordPress.com",
+        "correct": false
+      },
+      {
+        "text": "Wix",
+        "correct": false
+      },
+      {
+        "text": "Bootstrap",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilken metod är mest eftertraktad på arbetsmarknaden enligt texten?",
+    "answers": [
+      {
+        "text": "Att lära sig ett avancerat ramverk som React eller Angular.",
+        "correct": true
+      },
+      {
+        "text": "Att använda ett enkelt webbpubliceringssystem som Wix.",
+        "correct": false
+      },
+      {
+        "text": "Att enbart använda grafiska redigeringsverktyg som Pinegrow.",
+        "correct": false
+      },
+      {
+        "text": "Att endast använda grundläggande HTML och CSS.",
+        "correct": false
+      }
+    ]
+  }
+]

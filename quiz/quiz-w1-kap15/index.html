@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/modern-css-reset/dist/reset.min.css" />
+    <link rel="stylesheet" href="./../styles.css">
+    <script defer src="./../script.js"></script>
+    <title>Quiz App</title>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Webbutveckling 1 - Quiz</h1>
+        <h2>Kapitel 16 - JavaScript - Orientering om javascript och DOM</h2>
+        <div id="question-number"></div>
+        <div id="score"></div>
+        <div id="question-container" class="hide">
+
+            <div id="question">Fråga</div>
+            <div id="answer-buttons" class="btn-grid">
+                <button class="btn">Answer 1</button>
+                <button class="btn">Answer 2</button>
+                <button class="btn">Answer 3</button>
+                <button class="btn">Answer 4</button>
+            </div>
+        </div>
+        <div class="controls">
+            <button id="start-btn" class="start-btn btn">Start</button>
+            <button id="next-btn" class="next-btn btn hide">Nästa</button>
+        </div>
+
+
+    </div>
+    <footer>Baserad på <a href="https://www.youtube.com/watch?v=riDzcEQbX6k&ab_channel=WebDevSimplified"
+            target="_blank">Build A Quiz App With JavaScript from Web Dev Simplified
+        </a></footer>
+</body>
+
+</html>

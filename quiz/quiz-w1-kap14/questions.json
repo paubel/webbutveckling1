@@ -1,0 +1,110 @@
+[
+  {
+    "question": "Enligt Statscounter, hur stor procentandel av tiden används mobiler för att surfa på webben?",
+    "answers": [
+      { "text": "40%", "correct": false },
+      { "text": "58%", "correct": true },
+      { "text": "2%", "correct": false },
+      { "text": "100%", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken meta-tagg används för att ställa in sidans bredd och initial zoomnivå?",
+    "answers": [
+      { "text": "<meta name='viewport'>", "correct": true },
+      { "text": "<meta name='dimensions'>", "correct": false },
+      { "text": "<meta name='zoom'>", "correct": false },
+      { "text": "<meta name='screen'>", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad bör man undvika att sätta för bilder i en responsiv design?",
+    "answers": [
+      { "text": "Flexibla bredder", "correct": false },
+      { "text": "Procentuella storlekar", "correct": false },
+      { "text": "Fasta bredder och höjder", "correct": true },
+      { "text": "Max-bredder", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken CSS-egenskap används för att göra bilder responsiva och behålla sitt ursprungliga bildförhållande?",
+    "answers": [
+      { "text": "width: 100%", "correct": false },
+      { "text": "max-width: 100%; height: auto;", "correct": true },
+      { "text": "min-width: 100%", "correct": false },
+      { "text": "object-fit: cover", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad kallas det när en bild behåller sitt korrekta förhållande mellan bredd och höjd?",
+    "answers": [
+      { "text": "Responsive ratio", "correct": false },
+      { "text": "Image scaling", "correct": false },
+      { "text": "Aspect ratio", "correct": true },
+      { "text": "Pixel perfect", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad är en 'media query' i CSS?",
+    "answers": [
+      { "text": "En metod för att hämta mediafiler", "correct": false },
+      {
+        "text": "En teknik för att tillämpa CSS-stilar beroende på enhetens egenskaper",
+        "correct": true
+      },
+      {
+        "text": "Ett sätt att fråga användaren om mediapreferenser",
+        "correct": false
+      },
+      { "text": "En funktion för att spela upp media", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken syntax används för att definiera en media query i CSS?",
+    "answers": [
+      { "text": "@mediaquery", "correct": false },
+      { "text": "@screen", "correct": false },
+      { "text": "@responsive", "correct": false },
+      { "text": "@media", "correct": true }
+    ]
+  },
+  {
+    "question": "Vad betyder 'max-width: 600px' i en media query?",
+    "answers": [
+      {
+        "text": "Stilen appliceras när skärmbredden är exakt 600px",
+        "correct": false
+      },
+      {
+        "text": "Stilen appliceras när skärmbredden är större än 600px",
+        "correct": false
+      },
+      {
+        "text": "Stilen appliceras när skärmbredden är 600px eller mindre",
+        "correct": true
+      },
+      {
+        "text": "Stilen appliceras alltid oavsett skärmbredd",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Var i CSS-filen rekommenderas det att placera media queries?",
+    "answers": [
+      { "text": "I början av filen", "correct": false },
+      { "text": "I mitten av filen", "correct": false },
+      { "text": "I slutet av filen", "correct": true },
+      { "text": "Det spelar ingen roll", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilka två tekniker nämns som viktiga för att skapa responsiva layouter?",
+    "answers": [
+      { "text": "Flexbox och Grid", "correct": true },
+      { "text": "Tables och Floats", "correct": false },
+      { "text": "Inline-block och Positioning", "correct": false },
+      { "text": "Margins och Padding", "correct": false }
+    ]
+  }
+]

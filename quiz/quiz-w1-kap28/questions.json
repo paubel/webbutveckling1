@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Vad bör du tänka på när du väljer webbhotell?",
+    "answers": [
+      {
+        "text": "Kontrollera om kostnaden ändras efter en viss tid och vilket lagringsutrymme samt max trafik du får.",
+        "correct": true
+      },
+      {
+        "text": "Välj det dyraste alternativet för att säkerställa bästa prestanda.",
+        "correct": false
+      },
+      {
+        "text": "Välj ett webbhotell som erbjuder obegränsad lagring och trafik.",
+        "correct": false
+      },
+      {
+        "text": "Endast välj webbhotell som erbjuder gratis domännamn.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket verktyg rekommenderas i texten för att publicera en webbplats för testning?",
+    "answers": [
+      {
+        "text": "GitHub",
+        "correct": true
+      },
+      {
+        "text": "WordPress",
+        "correct": false
+      },
+      {
+        "text": "FTP-server",
+        "correct": false
+      },
+      {
+        "text": "Dropbox",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vad är ett CMS, som nämns i texten, och vilket verktyg är det vanligaste för att publicera ett sådant system?",
+    "answers": [
+      {
+        "text": "Ett Content Management System (CMS) och WordPress är det vanligaste verktyget.",
+        "correct": true
+      },
+      {
+        "text": "En webbserver och GitHub är det vanligaste verktyget.",
+        "correct": false
+      },
+      {
+        "text": "En databas och MySQL är det vanligaste verktyget.",
+        "correct": false
+      },
+      {
+        "text": "En webbapplikation och FTP är det vanligaste verktyget.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vad indikerar HTTPS i en webbadress?",
+    "answers": [
+      {
+        "text": "Att webbplatsen använder en säker anslutning.",
+        "correct": true
+      },
+      {
+        "text": "Att webbplatsen är en del av ett affiliate-program.",
+        "correct": false
+      },
+      {
+        "text": "Att webbplatsen är gratis att använda.",
+        "correct": false
+      },
+      {
+        "text": "Att webbplatsen har låg nedladdningshastighet.",
+        "correct": false
+      }
+    ]
+  }
+]

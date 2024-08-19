@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Vad är huvudfokus för progressiv förbättring inom webbdesign?",
+    "answers": [
+      {
+        "text": "Att se till att innehållet kan ses av alla, oavsett enhet eller internetuppkoppling.",
+        "correct": true
+      },
+      {
+        "text": "Att skapa avancerade animationer och grafik för alla användare.",
+        "correct": false
+      },
+      {
+        "text": "Att se till att webbplatsen fungerar bäst på moderna enheter.",
+        "correct": false
+      },
+      {
+        "text": "Att optimera webbplatsen för snabbast möjliga prestanda på nya enheter.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilken del av en webbplats bör alltid vara tillgänglig för alla webbläsare enligt principen om progressiv förbättring?",
+    "answers": [
+      {
+        "text": "Grundläggande innehåll",
+        "correct": true
+      },
+      {
+        "text": "Animationer",
+        "correct": false
+      },
+      {
+        "text": "Externt länkad CSS",
+        "correct": false
+      },
+      {
+        "text": "Förbättrat beteende med JavaScript",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilken teknik används för att tillhandahålla en förbättrad layout enligt progressiv förbättring?",
+    "answers": [
+      {
+        "text": "Externt länkad CSS",
+        "correct": true
+      },
+      {
+        "text": "Grundläggande HTML",
+        "correct": false
+      },
+      {
+        "text": "Externt länkad JavaScript",
+        "correct": false
+      },
+      {
+        "text": "Användarens webbläsarinställningar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket av följande tillhandahåller förbättrat beteende på en webbplats enligt principen om progressiv förbättring?",
+    "answers": [
+      {
+        "text": "Externt länkad JavaScript",
+        "correct": true
+      },
+      {
+        "text": "Grundläggande innehåll",
+        "correct": false
+      },
+      {
+        "text": "Grundläggande HTML",
+        "correct": false
+      },
+      {
+        "text": "Externt länkad CSS",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vilket av följande är en metafor som används för att beskriva progressiv förbättring i texten?",
+    "answers": [
+      {
+        "text": "Att bygga ett hus",
+        "correct": true
+      },
+      {
+        "text": "Att laga mat",
+        "correct": false
+      },
+      {
+        "text": "Att köra bil",
+        "correct": false
+      },
+      {
+        "text": "Att skriva en bok",
+        "correct": false
+      }
+    ]
+  }
+]

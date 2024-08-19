@@ -1,0 +1,59 @@
+[
+  {
+    "question": "Vad menas med 'webbsäkra fonter'?",
+    "answers": [
+      {
+        "text": "Fonter som är säkra att använda på mobilen",
+        "correct": false
+      },
+      {
+        "text": "Fonter som finns förinstallerade på de flesta datorer",
+        "correct": true
+      },
+      { "text": "Fonter som är krypterade", "correct": false },
+      { "text": "Fonter som är gratis att använda", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken av följande är INTE en kategori av fonter enligt Google Fonts?",
+    "answers": [
+      { "text": "serif", "correct": false },
+      { "text": "sans-serif", "correct": false },
+      { "text": "cursive", "correct": true },
+      { "text": "display", "correct": false }
+    ]
+  },
+  {
+    "question": "Vad betyder 'sans serif'?",
+    "answers": [
+      { "text": "Med serifer", "correct": false },
+      { "text": "Utan serifer", "correct": true },
+      { "text": "Handskriven", "correct": false },
+      { "text": "Dekorativ", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilka två fontkategorier anses vara lättast att läsa i längre texter?",
+    "answers": [
+      { "text": "serif och sans-serif", "correct": true },
+      { "text": "monospace och display", "correct": false },
+      { "text": "handwriting och serif", "correct": false },
+      { "text": "display och sans-serif", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilket påstående om serifer är korrekt?",
+    "answers": [
+      { "text": "De gör text svårare att läsa på skärmar", "correct": false },
+      {
+        "text": "De har sitt ursprung i modern digital design",
+        "correct": false
+      },
+      {
+        "text": "De är små streck eller linjer på vissa tecken i en font",
+        "correct": true
+      },
+      { "text": "De används endast i handskrivna fonter", "correct": false }
+    ]
+  }
+]

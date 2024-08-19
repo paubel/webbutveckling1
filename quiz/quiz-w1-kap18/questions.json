@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Vilket av följande färgformat kan användas för att ange genomskinlighet i CSS?",
+    "answers": [
+      { "text": "hexkod, rgba och hsla", "correct": true },
+      { "text": "rgb, hsl och hexkod", "correct": false },
+      { "text": "rgb, rgba och hexkod", "correct": false },
+      { "text": "rgba, hsl och hsla", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken andel av alla färger som människan kan se täcker färgsystemet sRGB?",
+    "answers": [
+      { "text": "Cirka 35%", "correct": true },
+      { "text": "Cirka 50%", "correct": false },
+      { "text": "Cirka 16,7 miljoner färger", "correct": false },
+      { "text": "Cirka 30%", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilket färgformat rekommenderas i texten för att få tillgång till fler och mer mättade färger på nyare skärmar?",
+    "answers": [
+      { "text": "oklch", "correct": true },
+      { "text": "hsl", "correct": false },
+      { "text": "rgb", "correct": false },
+      { "text": "hexkod", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilket färgformat kunde äldre skärmar innan 2016 visa?",
+    "answers": [
+      { "text": "sRGB", "correct": true },
+      { "text": "P3", "correct": false },
+      { "text": "oklch", "correct": false },
+      { "text": "hsl", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken av följande färger får du om du använder 100% rött och 100% grönt i RGB-formatet?",
+    "answers": [
+      { "text": "Gul", "correct": true },
+      { "text": "Magenta", "correct": false },
+      { "text": "Cyan", "correct": false },
+      { "text": "Orange", "correct": false }
+    ]
+  }
+]
