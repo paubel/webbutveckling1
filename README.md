@@ -628,6 +628,8 @@ Andra saker som jag visar i filmerna ovan är
 
 # 14 Responsiv design - mobilanpassning
 
+[Quiz 14](./quiz/quiz-w1-kap14/index.html){:target="\_blank"}
+
 [Statscounter](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/worldwide/#monthly-200901-202306)
 
 ## 14.2 Media Queries
@@ -643,6 +645,8 @@ Andra saker som jag visar i filmerna ovan är
 [webbplats kap14 - responsiv design - mobilanpassning (ZIP-fil)](./webbplats%20kap14%20-%20responsiv%20design%20-%20mobilanpassning.zip)
 
 # 15 JavaScript - Orientering om javascript och DOM (dokumentobjektsmodellen)
+
+[Quiz 15](./quiz/quiz-w1-kap15/index.html){:target="\_blank"}
 
 ## 15.1 En kort historik om JavaScript
 
@@ -661,11 +665,15 @@ Andra saker som jag visar i filmerna ovan är
 
 # 16 Fonter
 
+[Quiz 16](./quiz/quiz-w1-kap16/index.html){:target="\_blank"}
+
 ## 16.1 Web safe fonts
 
 [Google Fonts](https://fonts.google.com/)
 
 # 17 Färglära, färgschema, RGB och kontraster
+
+[Quiz 17](./quiz/quiz-w1-kap17/index.html){:target="\_blank"}
 
 [Wikipedia: BenRG](https://en.wikipedia.org/wiki/Cone_cell#/media/File:Cone-fundamentals-with-srgb-spectrum.svg)
 
@@ -683,6 +691,8 @@ Andra saker som jag visar i filmerna ovan är
 
 # 18 Ange färger i CSS
 
+[Quiz 18](./quiz/quiz-w1-kap18/index.html){:target="\_blank"}
+
 ÖVNING 18.1 [https://www.w3schools.com/colors/colors_rgb.asp](www.w3schools.com/colors/colors_rgb.asp)
 
 ## 18.1 Fördjupning i att ange färger
@@ -697,15 +707,23 @@ Andra saker som jag visar i filmerna ovan är
 
 # 19 Planering och specifikation av struktur och design
 
+[Quiz 19](./quiz/quiz-w1-kap19/index.html){:target="\_blank"}
+
 ## 19.1 Usability (Användbarhet)
 
 [The State Of Usability In 2023](https://www.smashingmagazine.com/2023/01/usability-2023/)
 
 ## 19.7 Minska belastningen på korttidsminnet
 
+## 20 Progressiv förbättring
+
+[Quiz 20](./quiz/quiz-w1-kap20/index.html){:target="\_blank"}
+
 ÖVINING 19.1 [world's shortest UI/UX design course](https://www.youtube.com/watch?v=wIuVvCuiJhU&ab_channel=Juxtopposed)
 
 # 21 Validering och testning
+
+[Quiz 21](./quiz/quiz-w1-kap21/index.html){:target="\_blank"}
 
 TODO: inspektorn
 
@@ -728,6 +746,8 @@ TODO: inspektorn
 [code.visualstudio.com/download](https://code.visualstudio.com/download)
 
 # 22 Tillgänglighet
+
+[Quiz 22](./quiz/quiz-w1-kap22/index.html){:target="\_blank"}
 
 [lagen om tillgänglighet till digital offentlig service](https://webbriktlinjer.se/lagkrav/webbdirektivet/)
 
@@ -759,6 +779,10 @@ TODO: inspektorn
 
 [lila och röd blomma stor bild.jpg](./lila%20och%20röd%20blomma%20stor%20bild.jpg){:download="lila och röd blomma stor bild.jpg} Högerklicka välj "ladda ner länk"
 [lila och röd blomma liten bild.jpg](./lila%20och%20röd%20blomma%20liten%20bild.jpg){:download="lila och röd blomma liten bild.jpg} Högerklicka välj "ladda ner länk"
+
+# 23 Användning av bilder och media i lämpliga format för webben
+
+[Quiz 23](./quiz/quiz-w1-kap23/index.html){:target="\_blank"}
 
 ## 23.2 Verktyg för bildbehandling
 
@@ -801,6 +825,8 @@ TODO: inspektorn
 
 # 24 Komprimera bildfilen
 
+[Quiz 24](./quiz/quiz-w1-kap24/index.html){:target="\_blank"}
+
 ## 24.1 Bildformat
 
 [https://w3techs.com/technologies/history_overview/image_format/all/y](w3techs.com/technologies/history_overview/image_format/all/y)
@@ -835,6 +861,8 @@ TODO: inspektorn
 
 # 25 Ljud, video och kartor på webben
 
+[Quiz 25](./quiz/quiz-w1-kap25/index.html){:target="\_blank"}
+
 [pixabay.com/music/](pixabay.com/music/)
 
 [Audacity](https://www.audacityteam.org/download/)
@@ -857,6 +885,8 @@ TODO: inspektorn
 
 # 26 Etiska överväganden
 
+[Quiz 26](./quiz/quiz-w1-kap26/index.html){:target="\_blank"}
+
 ## 26.1 Nya HTML och CSS funktioner
 
 [caniuse.com](https://caniuse.com/)
@@ -871,13 +901,21 @@ TODO: inspektorn
 
 [www.smashingmagazine.com/2018/03/using-ethics-in-web-design/ ](https://www.smashingmagazine.com/2018/03/using-ethics-in-web-design/)
 
+# 27 PPlanering av webbplats
+
+[Quiz 27](./quiz/quiz-w1-kap27/index.html){:target="\_blank"}
+
 # 28 Publicera webbplatser
+
+[Quiz 28](./quiz/quiz-w1-kap28/index.html){:target="\_blank"}
 
 ## 28.1 GitHub
 
 YouTube [Hur man läger upp en webbplats på GitHub och publicerar den på internet](https://www.youtube.com/watch?v=0q5jhjU4QJU&ab_channel=PaulBelfrage)
 
 # 29 Översikt av alternativa metoder för att skapa och redigera webbsidor.
+
+[Quiz 29](./quiz/quiz-w1-kap29/index.html){:target="\_blank"}
 
 ## 29.3 Ramverk
 
@@ -897,5 +935,7 @@ YouTube [Hur man läger upp en webbplats på GitHub och publicerar den på inter
 [vuejs.org](https://vuejs.org/)
 
 # 30 Webbutveckling 1 - ämnesplan
+
+[Quiz 30](./quiz/quiz-w1-kap30/index.html){:target="\_blank"}
 
 [Webbutveckling 1 - ämnesplan - syfte - betygskriterier](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEBB%26courseCode%3DWEBB1000X%26date%3D2025-07-01%26lang%3D%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_WEBB1000X)
