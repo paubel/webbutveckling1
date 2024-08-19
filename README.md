@@ -936,6 +936,4 @@ YouTube [Hur man läger upp en webbplats på GitHub och publicerar den på inter
 
 # 30 Webbutveckling 1 - ämnesplan
 
-[Quiz 30](./quiz/quiz-w1-kap30/index.html){:target="\_blank"}
-
 [Webbutveckling 1 - ämnesplan - syfte - betygskriterier](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEBB%26courseCode%3DWEBB1000X%26date%3D2025-07-01%26lang%3D%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_WEBB1000X)
