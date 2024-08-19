@@ -1,77 +1,104 @@
 [
   {
     "question": "Vilket år blev Flexbox allmänt tillgängligt i webbläsare?",
-    "options": ["2012", "2014", "2016", "2017"],
-    "answer": "2014"
+    "answers": [
+      { "text": "2012", "correct": false },
+      { "text": "2014", "correct": true },
+      { "text": "2016", "correct": false },
+      { "text": "2017", "correct": false }
+    ]
   },
   {
     "question": "Vad gör CSS-egenskapen `display: flex`?",
-    "options": [
-      "Sätter elementen i en kolumn",
-      "Gör elementen flexibla",
-      "Arrangerar elementen horisontellt om standardvärden används",
-      "Gör elementen större"
-    ],
-    "answer": "Arrangerar elementen horisontellt om standardvärden används"
+    "answers": [
+      { "text": "Sätter elementen i en kolumn", "correct": false },
+      { "text": "Gör elementen flexibla", "correct": false },
+      {
+        "text": "Arrangerar elementen horisontellt om standardvärden används",
+        "correct": true
+      },
+      { "text": "Gör elementen större", "correct": false }
+    ]
   },
   {
     "question": "Vad heter föräldraelementet i en flexbox-layout?",
-    "options": ["Flex child", "Flex item", "Flex container", "Flex parent"],
-    "answer": "Flex container"
+    "answers": [
+      { "text": "Flex child", "correct": false },
+      { "text": "Flex item", "correct": false },
+      { "text": "Flex container", "correct": true },
+      { "text": "Flex parent", "correct": false }
+    ]
   },
   {
     "question": "Vilken av följande egenskaper styr hur mycket ett flex-item ska växa?",
-    "options": ["flex-grow", "flex-shrink", "flex-basis", "flex-size"],
-    "answer": "flex-grow"
+    "answers": [
+      { "text": "flex-grow", "correct": true },
+      { "text": "flex-shrink", "correct": false },
+      { "text": "flex-basis", "correct": false },
+      { "text": "flex-size", "correct": false }
+    ]
   },
   {
     "question": "Vilken CSS-egenskap måste du ändra för att flex-items ska arrangeras vertikalt istället för horisontellt?",
-    "options": [
-      "flex-direction: row",
-      "flex-direction: column",
-      "flex-wrap: wrap",
-      "align-items: center"
-    ],
-    "answer": "flex-direction: column"
+    "answers": [
+      { "text": "flex-direction: row", "correct": false },
+      { "text": "flex-direction: column", "correct": true },
+      { "text": "flex-wrap: wrap", "correct": false },
+      { "text": "align-items: center", "correct": false }
+    ]
   },
   {
     "question": "Vad är skillnaden mellan `flex-direction: row` och `flex-direction: row-reverse`?",
-    "options": [
-      "De påverkar inte flex-itemens ordning",
-      "De byter ordning på flex-items horisontellt",
-      "De byter ordning på flex-items vertikalt",
-      "De ändrar gapet mellan flex-items"
-    ],
-    "answer": "De byter ordning på flex-items horisontellt"
+    "answers": [
+      { "text": "De påverkar inte flex-itemens ordning", "correct": false },
+      {
+        "text": "De byter ordning på flex-items horisontellt",
+        "correct": true
+      },
+      { "text": "De byter ordning på flex-items vertikalt", "correct": false },
+      { "text": "De ändrar gapet mellan flex-items", "correct": false }
+    ]
   },
   {
     "question": "Vilket kortare sätt kan användas istället för `grid-template-columns: 100px 100px 100px;` och `grid-template-rows: 100px 100px;`?",
-    "options": [
-      "grid-template: 100px 100px / 100px 100px 100px",
-      "grid-auto-rows: 100px; grid-auto-columns: 100px;",
-      "grid: auto / auto;",
-      "grid-gap: 100px 100px;"
-    ],
-    "answer": "grid-template: 100px 100px / 100px 100px 100px"
+    "answers": [
+      {
+        "text": "grid-template: 100px 100px / 100px 100px 100px",
+        "correct": true
+      },
+      {
+        "text": "grid-auto-rows: 100px; grid-auto-columns: 100px;",
+        "correct": false
+      },
+      { "text": "grid: auto / auto;", "correct": false },
+      { "text": "grid-gap: 100px 100px;", "correct": false }
+    ]
   },
   {
     "question": "Vilket värde används för att sätta avståndet mellan kolumner i en grid-layout?",
-    "options": ["column-gap", "row-gap", "grid-gap", "gap"],
-    "answer": "column-gap"
+    "answers": [
+      { "text": "column-gap", "correct": true },
+      { "text": "row-gap", "correct": false },
+      { "text": "grid-gap", "correct": false },
+      { "text": "gap", "correct": false }
+    ]
   },
   {
     "question": "Vad kallas linjerna runt cellerna i en grid?",
-    "options": ["Grid tracks", "Grid cells", "Grid lines", "Grid areas"],
-    "answer": "Grid lines"
+    "answers": [
+      { "text": "Grid tracks", "correct": false },
+      { "text": "Grid cells", "correct": false },
+      { "text": "Grid lines", "correct": true },
+      { "text": "Grid areas", "correct": false }
+    ]
   },
   {
     "question": "Vilken av följande egenskaper används för att positionera ett grid-item över flera kolumner?",
-    "options": [
-      "grid-row-start",
-      "grid-column-start",
-      "grid-column-end",
-      "grid-area"
-    ],
-    "answer": "grid-column-end"
+    "answers": [
+      { "text": "grid-row-start", "correct": false },
+      { "text": "grid-column-start", "correct": false },
+      { "text": "grid-column-end", "correct": true },
+      { "text": "grid-area", "correct": false }
+    ]
   }
 ]
