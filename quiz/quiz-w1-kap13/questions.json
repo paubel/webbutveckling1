@@ -1,39 +1,57 @@
 [
   {
     "question": "Vad betyder 'Importance' i CSS-sammanhang?",
-    "options": [
-      "Det avgör vilken stil som ska gälla om det finns konflikter",
-      "Det beskriver källan till CSS-koden",
-      "Det bestämmer vilken ordning CSS-koden laddas"
-    ],
-    "answer": "Det avgör vilken stil som ska gälla om det finns konflikter"
+    "answers": [
+      {
+        "text": "Det avgör vilken stil som ska gälla om det finns konflikter",
+        "correct": true
+      },
+      { "text": "Det beskriver källan till CSS-koden", "correct": false },
+      {
+        "text": "Det bestämmer vilken ordning CSS-koden laddas",
+        "correct": false
+      }
+    ]
   },
   {
     "question": "Vilken av följande metoder har högst specificitet?",
-    "options": ["class", "id", "type"],
-    "answer": "id"
+    "answers": [
+      { "text": "class", "correct": false },
+      { "text": "id", "correct": true },
+      { "text": "type", "correct": false }
+    ]
   },
   {
     "question": "Vad innebär arv av egenskaper i CSS?",
-    "options": [
-      "En egenskap som ärvs från ett föräldraelement till dess barn",
-      "Att egenskaper bestäms av användarens webbläsarinställningar",
-      "Att CSS-koden ärver från tidigare deklarationer"
-    ],
-    "answer": "En egenskap som ärvs från ett föräldraelement till dess barn"
+    "answers": [
+      {
+        "text": "En egenskap som ärvs från ett föräldraelement till dess barn",
+        "correct": true
+      },
+      {
+        "text": "Att egenskaper bestäms av användarens webbläsarinställningar",
+        "correct": false
+      },
+      {
+        "text": "Att CSS-koden ärver från tidigare deklarationer",
+        "correct": false
+      }
+    ]
   },
   {
     "question": "Vilken egenskap är INTE ärvd i CSS?",
-    "options": ["color", "font-size", "background-color"],
-    "answer": "background-color"
+    "answers": [
+      { "text": "color", "correct": false },
+      { "text": "font-size", "correct": false },
+      { "text": "background-color", "correct": true }
+    ]
   },
   {
     "question": "Hur påverkar 'font-size: 1.2rem' i <body> elementets storlek på texten i <h1>?",
-    "options": [
-      "Texten i <h1> blir 38.4px",
-      "Texten i <h1> blir 32px",
-      "Texten i <h1> påverkas inte av body"
-    ],
-    "answer": "Texten i <h1> blir 38.4px"
+    "answers": [
+      { "text": "Texten i <h1> blir 38.4px", "correct": true },
+      { "text": "Texten i <h1> blir 32px", "correct": false },
+      { "text": "Texten i <h1> påverkas inte av body", "correct": false }
+    ]
   }
 ]

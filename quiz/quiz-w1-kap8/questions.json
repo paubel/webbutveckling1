@@ -1,32 +1,50 @@
 [
   {
     "question": "Vad är ett semantiskt element i HTML?",
-    "options": [
-      "Ett element med ett specifikt syfte",
-      "Ett element som används för att skapa stil",
-      "Ett element utan inneboende betydelse",
-      "Ett element som bara fungerar med CSS"
-    ],
-    "answer": "Ett element med ett specifikt syfte"
+    "answers": [
+      { "text": "Ett element med ett specifikt syfte", "correct": true },
+      {
+        "text": "Ett element som används för att skapa stil",
+        "correct": false
+      },
+      { "text": "Ett element utan inneboende betydelse", "correct": false },
+      { "text": "Ett element som bara fungerar med CSS", "correct": false }
+    ]
   },
   {
     "question": "Vilket HTML-element används för att definiera den mest betydelsefulla rubriken på en sida?",
-    "options": ["<p>", "<h1>", "<nav>", "<header>"],
-    "answer": "<h1>"
+    "answers": [
+      { "text": "<p>", "correct": false },
+      { "text": "<h1>", "correct": true },
+      { "text": "<nav>", "correct": false },
+      { "text": "<header>", "correct": false }
+    ]
   },
   {
     "question": "Vilket av följande är ett exempel på ett icke-semantiskt element?",
-    "options": ["<header>", "<section>", "<div>", "<article>"],
-    "answer": "<div>"
+    "answers": [
+      { "text": "<header>", "correct": false },
+      { "text": "<section>", "correct": false },
+      { "text": "<div>", "correct": true },
+      { "text": "<article>", "correct": false }
+    ]
   },
   {
     "question": "Vilken version av HTML introducerade elementet <main>?",
-    "options": ["HTML 2.0", "HTML 3.2", "HTML 4", "HTML 5"],
-    "answer": "HTML 5"
+    "answers": [
+      { "text": "HTML 2.0", "correct": false },
+      { "text": "HTML 3.2", "correct": false },
+      { "text": "HTML 4", "correct": false },
+      { "text": "HTML 5", "correct": true }
+    ]
   },
   {
     "question": "Vilket element används för att gruppera relaterat innehåll och ge mening till strukturen i HTML5?",
-    "options": ["<span>", "<footer>", "<section>", "<i>"],
-    "answer": "<section>"
+    "answers": [
+      { "text": "<span>", "correct": false },
+      { "text": "<footer>", "correct": false },
+      { "text": "<section>", "correct": true },
+      { "text": "<i>", "correct": false }
+    ]
   }
 ]
