@@ -115,6 +115,8 @@ Spellistans innehåll
 
 [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)
 
+[ÖVNING 5.2 QUIZ - Personuppgifter](./quiz/quiz-w1-kap5-personuppg){:target="\_blank"}
+
 ## 5.2 Upphovsrätt
 
 ### 5.2.1 Creative Commons
