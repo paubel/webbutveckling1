@@ -1,0 +1,63 @@
+[
+  {
+    "question": "Är ditt namn en personuppgift?",
+    "answers": [
+      { "text": "Ja", "correct": true },
+      { "text": "Nej", "correct": false },
+      { "text": "Beror på sammanhanget", "correct": false },
+      { "text": "Endast om det är ovanligt", "correct": false }
+    ]
+  },
+  {
+    "question": "Är en IP-adress en personuppgift?",
+    "answers": [
+      { "text": "Ja", "correct": true },
+      { "text": "Nej", "correct": false },
+      { "text": "Endast när du surfar på nätet", "correct": false },
+      { "text": "Endast i arbetsrelaterade sammanhang", "correct": false }
+    ]
+  },
+  {
+    "question": "Är ett organisationsnummer (inte enskild firma) en personuppgift?",
+    "answers": [
+      { "text": "Ja", "correct": false },
+      { "text": "Nej", "correct": true },
+      { "text": "Beror på storleken på företaget", "correct": false },
+      { "text": "Endast om det används i fakturering", "correct": false }
+    ]
+  },
+  {
+    "question": "Är en e-postadress som info@foretag.se en personuppgift?",
+    "answers": [
+      { "text": "Ja", "correct": false },
+      { "text": "Nej", "correct": true },
+      {
+        "text": "Endast om endast en alltid person svarar på eposten",
+        "correct": false
+      },
+      { "text": "Endast om det används för marknadsföring", "correct": false }
+    ]
+  },
+  {
+    "question": "Är ett foto av dig en personuppgift?",
+    "answers": [
+      { "text": "Ja", "correct": true },
+      { "text": "Nej", "correct": false },
+      { "text": "Endast om det finns online", "correct": false },
+      { "text": "Endast bild är av bra kvalitet", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Är en ljudfil med en persons röst en personuppgift?",
+    "answers": [
+      { "text": "Ja", "correct": true },
+      { "text": "Nej", "correct": false },
+      { "text": "Bara om du försår vad personern säger", "correct": false },
+      {
+        "text": "Endast om den är inspelad i ett offentligt sammanhang",
+        "correct": false
+      }
+    ]
+  }
+]
