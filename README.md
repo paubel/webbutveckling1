@@ -93,6 +93,8 @@ Spellistans innehåll
 
 ÖVNING 4.3 [www.nslookup.io](https://www.nslookup.io/)
 
+[ÖVNING 4.4 QUIZ - Para ihop GET, POST, PUT, DELETE med rätt svar](./quiz/quiz-w1-kap4-http){:target="\_blank"}
+
 ## 4.5 Klient server
 
 # 5. Lagar

@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Vilken HTTP-metod används för att hämta information från en server?",
+    "answers": [
+      { "text": "GET", "correct": true },
+      { "text": "POST", "correct": false },
+      { "text": "PUT", "correct": false },
+      { "text": "DELETE", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken HTTP-metod används för att skicka information till en server?",
+    "answers": [
+      { "text": "GET", "correct": false },
+      { "text": "POST", "correct": true },
+      { "text": "PUT", "correct": false },
+      { "text": "DELETE", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken HTTP-metod används för att uppdatera en befintlig resurs på en server?",
+    "answers": [
+      { "text": "GET", "correct": false },
+      { "text": "POST", "correct": false },
+      { "text": "PUT", "correct": true },
+      { "text": "DELETE", "correct": false }
+    ]
+  },
+  {
+    "question": "Vilken HTTP-metod används för att ta bort en befintlig resurs från en server?",
+    "answers": [
+      { "text": "GET", "correct": false },
+      { "text": "POST", "correct": false },
+      { "text": "PUT", "correct": false },
+      { "text": "DELETE", "correct": true }
+    ]
+  }
+]
