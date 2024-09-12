@@ -193,6 +193,8 @@ Andra saker som jag visar i filmerna ovan är
 [validator.w3.org - Validering av HTML-kod](https://validator.w3.org/)
 [jigsaw.w3.org/css-validator/ - Validering av CSS-kod](https://jigsaw.w3.org/css-validator/)
 
+ÖVNING 6.5 Hitta fel i HTML och CSS [/ÖVNINGAR/fel-i-koden.zip](./ÖVNINGAR/fel-i-koden.zip){:download="fel-i-koden.zip"} Högerklicka välj "ladda ner länk"
+
 ÖVNING 6.7 - Astronomiska föreningen Orionalliansen
 
 [webbplats kap6 - html startfiler (ZIP-fil)](./webbplats%20kap6%20-%20html%20startfiler.zip)
