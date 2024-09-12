@@ -1,0 +1,24 @@
+body {
+  background-color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+
+img {
+    width: 200px;
+
+    /* Glömt } för att avsluta img-selektorn */
+
+h1 {    
+    color: blue
+    /* Glömt semikolon på raden innan;  */
+    font-size: 2.1rem;
+}
+
+p {
+    color: blue;
+    font-size: 1.5;
+    /* Glömt enhet på raden innan; */
+    
+}
+
+
