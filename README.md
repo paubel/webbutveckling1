@@ -195,7 +195,7 @@ Andra saker som jag visar i filmerna ovan är
 
 ÖVNING 6.5 Hitta fel i HTML och CSS [/ÖVNINGAR/fel-i-koden.zip](./ÖVNINGAR/fel-i-koden.zip){:download="fel-i-koden.zip"}.
 
-I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fel-i-koden-facit.zip](./ÖVNINGAR/fel-i-facit.zip){:download="fel-i-koden-facit.zip"}
+I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fel-i-koden-facit.zip](./ÖVNINGAR/fel-i-koden-facit.zip){:download="fel-i-koden-facit.zip"}
 
 ÖVNING 6.7 - Astronomiska föreningen Orionalliansen
 
