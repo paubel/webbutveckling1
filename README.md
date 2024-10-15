@@ -173,6 +173,10 @@ Andra saker som jag visar i filmerna ovan är
 
 [strong elementet på MDN Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
 
+## 6.6.14 <em>
+
+[strong elementet på MDN Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong#em_vs._strong)
+
 ## 6.7 Genomgång av en komplett HTML-kod
 
 [recension med CSS (ZIP-fil)](./recension%20med%20CSS.zip)
