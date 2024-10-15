@@ -159,15 +159,31 @@ Andra saker som jag visar i filmerna ovan är
 - Kugghjul -> Settings (cmd,) -> sök "format" -> klicka i "Editor: Format On Save"
 - Cmd/Ctrl + shift + P
 
-## 6.3 Lorem ipsum
+## 6.2 Lorem ipsum
 
 [Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)
 
-## 6.5 HTML element
+## 6.4 HTML element
 
 [MDN Mozillas webbplats](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 [recension utan CSS (ZIP-fil)](./recension%20utan%20CSS.zip)
+
+## 6.6 Genomgång av en komplett HTML-kod
+
+[recension med CSS (ZIP-fil)](./recension%20med%20CSS.zip)
+
+### 6.6.1 `<!DOCTYPE html>`
+
+[quirks-läge](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)
+
+### 6.6.2 `<html lang="sv"> … </html>`
+
+[Här kan du se en lista på olika språk som går att använda](https://www.w3schools.com/tags/ref_language_codes.asp)
+
+### 6.6.4 `<meta>`
+
+[om UTF-8 på W3Cs webbplats](https://www.w3.org/International/questions/qa-what-is-encoding)
 
 ## 6.6.12 <strong>
 
@@ -175,30 +191,11 @@ Andra saker som jag visar i filmerna ovan är
 
 ## 6.6.14 <em>
 
-[strong elementet på MDN Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong#em_vs._strong)
+[<em> vs. <strong>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong#em_vs._strong)
 
-## 6.7 Genomgång av en komplett HTML-kod
+## 6.6.17 Validera kod
 
-[recension med CSS (ZIP-fil)](./recension%20med%20CSS.zip)
-
-### 6.7.1 `<!DOCTYPE html>`
-
-[quirks-läge](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)
-
-### 6.7.2 `<html lang="sv"> … </html>`
-
-[Här kan du se en lista på olika språk som går att använda](https://www.w3schools.com/tags/ref_language_codes.asp)
-
-### 6.7.4 `<meta>`
-
-[om UTF-8 på W3Cs webbplats](https://www.w3.org/International/questions/qa-what-is-encoding)
-
-### 6.7.11 <strong>
-
-[elementet på MDN Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
-
-### 6.7.16 Validera kod
-
+[intellisensen](https://code.visualstudio.com/docs/editor/intellisense)
 [validator.w3.org - Validering av HTML-kod](https://validator.w3.org/)
 [jigsaw.w3.org/css-validator/ - Validering av CSS-kod](https://jigsaw.w3.org/css-validator/)
 
