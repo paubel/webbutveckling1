@@ -122,6 +122,7 @@ Spellistans innehåll
 ### 5.2.1 Creative Commons
 
 [Creative Commons ](https://en.wikipedia.org/wiki/Creative_Commons_license)
+
 [Här kan du läsa om de olika nivåerna](https://creativecommons.org/about/cclicenses/)
 
 [Public Domain Mark](https://creativecommons.org/share-your-work/public-domain/pdm/)
@@ -167,6 +168,10 @@ Andra saker som jag visar i filmerna ovan är
 [MDN Mozillas webbplats](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 [recension utan CSS (ZIP-fil)](./recension%20utan%20CSS.zip)
+
+## 6.6.12 <strong>
+
+[strong elementet på MDN Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
 
 ## 6.7 Genomgång av en komplett HTML-kod
 
