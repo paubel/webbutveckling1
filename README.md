@@ -191,7 +191,7 @@ Andra saker som jag visar i filmerna ovan är
 
 ## 6.6.14 <em>
 
-[<em> vs. <strong>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong#em_vs._strong)
+['\<em\> vs. \<strong\>'](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong#em_vs._strong)
 
 ## 6.6.17 Validera kod
 
