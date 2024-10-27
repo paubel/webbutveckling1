@@ -1,6 +1,6 @@
 # Webbutveckling 1 av Paul Belfrage
 
-Du kan ladda ner alla koderna och filerna [som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip)
+Du kan ladda ner alla koderna och filerna i detta dokument [som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip)
 
 # 1. Om läromedlets uppbyggnad
 
@@ -252,6 +252,7 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 [httpbin](http://httpbin.org/)
 
 [Formulär med och utan id och for](https://codepen.io/paubel/pen/YzRmLmN)
+
 [codepen.io](https://codepen.io/)
 
 ## 7.8 `<input type="number"> och <button type="submit">`
