@@ -257,6 +257,8 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 
 ## 7.8 `<input type="number"> och <button type="submit">`
 
+[formular-number.html](./formular-number.html){:download="formular-number.html"} Högerklicka välj "ladda ner länk"
+
 [CodePen: Skicka data från formulär med JS till klienten](https://codepen.io/paubel/pen/OJrLmVO)
 
 ## 7.9 `<input type=”email”>`
