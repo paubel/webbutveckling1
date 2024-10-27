@@ -1,5 +1,7 @@
 # Webbutveckling 1 av Paul Belfrage
 
+Du kan ladda ner alla koderna och filerna [som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip)
+
 # 1. Om läromedlets uppbyggnad
 
 [Quiz 1](./quiz/quiz-w1-kap1/index.html){:target="\_blank"}
