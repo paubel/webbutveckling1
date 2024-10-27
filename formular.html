@@ -8,18 +8,23 @@
 
     </title>
     <style>
-
+        span {
+            font-family: sans-serif;
+            color: blue;
+        }
     </style>
 </head>
 
 <body>
 
     <!-- Med id...for -->
+    <span>Med id...for</span>
     <form action="exempel.se/mapp" method="post">
         <label for="first-name">Förnamn:</label>
         <input type="text" id="first-name" placeholder="Adam" name="first-name">
     </form>
-
+    <hr>
+    <span>Utan id...for. label nästlas i label</span>
     <!--  Utan id...for. label nästlas i label -->
     <form action="exempel.se/mapp" method="post">
         <label>Förnamn:<input type="text" placeholder="Adam" name="first-name"></label>
