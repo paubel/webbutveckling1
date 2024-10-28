@@ -414,15 +414,11 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 
 ### 10.2.6 Justerad text
 
-ÖVNING 10.5
-
-[/ÖVNINGAR/ovn-justerad-text.html](./ÖVNINGAR/ovn-justerad-text.html){:download="ovn-justerad-text.html"} Högerklicka välj "ladda ner länk"
+ÖVNING 10.5 [/ÖVNINGAR/ovn-justerad-text.html](./ÖVNINGAR/ovn-justerad-text.html){:download="ovn-justerad-text.html"} Högerklicka välj "ladda ner länk"
 
 ### 10.2.7 Bildbredd och bildhöjd
 
 [bild-bredd-hojd.html](./bild-bredd-hojd.html){:download="bild-bredd-hojd.html"} Högerklicka välj "ladda ner länk"
-
-[modern-font-stacks.html](./modern-font-stacks.html){:download="modern-font-stacks.html"} Högerklicka välj "ladda ner länk"
 
 ### 10.2.8 object-fit
 
