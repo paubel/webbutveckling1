@@ -323,7 +323,7 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 
 [webbplats kap8 - semantiska element (ZIP-fil)](./webbplats%20kap8%20-%20sementiska%20element.zip)
 
-# 9 Semantisk HTML
+# 9 Söka hjälp med när man kodar i HTML och CSS
 
 [Quiz 9](./quiz/quiz-w1-kap9/index.html){:target="\_blank"}
 
