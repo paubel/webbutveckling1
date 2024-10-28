@@ -375,6 +375,7 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 ## 10.2 Egenskaper du kommer använda ofta i CSS
 
 [css-tricks.com/almanac](https://css-tricks.com/almanac/)
+
 [developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ### 10.2.1 Color och background-color
@@ -384,6 +385,7 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 [namngivna färger](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
 
 [CSS Legal Color Values ](https://www.w3schools.com/cssref/css_colors_legal.php)
+
 [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 
 ÖVNING 10.3 [/ÖVNINGAR/ovn-color-och-background-color.html](./ÖVNINGAR/ovn-color-och-background-color.htmll){:download="ovn-color-och-background-color.html"} Högerklicka välj "ladda ner länk"
@@ -395,6 +397,7 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 ### 10.2.3 Google fonts
 
 [Google Fonts](https://fonts.google.com/)
+
 [några exempel som på hur GDPR har påverkat](https://docs.google.com/document/d/1-cd8Pz6rN5zWkN8U08wpzmiRgwi494pqwqzpsCeBck0/edit#heading=h.rzpwh8v17s6p)
 
 [typografi.html](./typografi.html){:download="typografi.html"} Högerklicka välj "ladda ner länk"
