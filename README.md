@@ -419,6 +419,7 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 ### 10.2.7 Bildbredd och bildhöjd
 
 [bild-bredd-hojd.html](./bild-bredd-hojd.html){:download="bild-bredd-hojd.html"} Högerklicka välj "ladda ner länk"
+Se till att bilden lion.jpg ligger i samma mapp som bild-bredd-hojd.html, annars syns inte bilden.
 
 ### 10.2.8 object-fit
 
