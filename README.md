@@ -408,6 +408,10 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 
 [modern-font-stacks.html](./modern-font-stacks.html){:download="modern-font-stacks.html"} Högerklicka välj "ladda ner länk"
 
+### 10.2.5 text-align
+
+[text-align.html](./text-align.html){:download="text-align.html"} Högerklicka välj "ladda ner länk"
+
 ### 10.2.6 Justerad text
 
 ÖVNING 10.5
