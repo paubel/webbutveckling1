@@ -323,7 +323,7 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 
 [webbplats kap8 - semantiska element (ZIP-fil)](./webbplats%20kap8%20-%20sementiska%20element.zip)
 
-# 9 Söka hjälp med när man kodar i HTML och CSS
+# 9 Hjälp med med kodningen
 
 [Quiz 9](./quiz/quiz-w1-kap9/index.html){:target="\_blank"}
 
@@ -342,6 +342,14 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 ## 9.2 HTML forum
 
 [stackoverflow.com/ ](https://stackoverflow.com/)
+
+## 9.3 AI och LLM
+
+[https://chatgpt.com/](https://chatgpt.com/)
+
+[https://claude.ai/new](https://claude.ai/new)
+
+[https://gemini.google.com/app](https://gemini.google.com/app)
 
 # 10 CSS
 
