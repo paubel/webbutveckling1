@@ -314,12 +314,14 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 
 [Quiz 8](./quiz/quiz-w1-kap8/index.html){:target="\_blank"}
 
+[w3cschools - HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
 ÖVNING 8.1 [/ÖVNINGAR/ovn-layout-icke-semantiska-element.html](./ÖVNINGAR/ovn-layout-icke-semantiska-element.html){:download="ovn-layout-icke-semantiska-element.html"} Högerklicka välj "ladda ner länk"
 
 ÖVNING 8.2 Astronomiska föreningen Orionalliansen
 [webbplats kap7 - formulär (ZIP-fil)](./webbplats%20kap7%20-%20formulär.zip)
 
-[webbplats kap8 - sementiska elemen (ZIP-fil)](./webbplats%20kap8%20-%20sementiska%20element.zip)
+[webbplats kap8 - semantiska element (ZIP-fil)](./webbplats%20kap8%20-%20sementiska%20element.zip)
 
 # 9 Semantisk HTML
 

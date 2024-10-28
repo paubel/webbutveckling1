@@ -13,19 +13,16 @@
 </head>
 
 <body>
-
+    <form action="https://httpbin.org/post" method="post">
+        <label>Födelsedag: <input type="date" name="birth-day"></label>
+        <button type="submit">Skicka</button>
+    </form>
 
     <form action="https://httpbin.org/post" method="post">
         <label for="birth-day">Födelsedag: </label>
         <input type="date" id="birth-day" name="birth-day">
         <button type="submit">Skicka</button>
     </form>
-
-    <form action="https://httpbin.org/post" method="post">
-        <label>Födelsedag: <input type="date" name="birth-day"></label>
-        <button type="submit">Skicka</button>
-    </form>
-
 </body>
 
 </html>
