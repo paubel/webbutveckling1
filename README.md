@@ -423,7 +423,7 @@ Se till att bilden lion.jpg ligger i samma mapp som bild-bredd-hojd.html, annars
 
 ### 10.2.8 object-fit
 
-ÖVNING 10.6 [/ÖVNINGAR/ovn-bildbredd-bildhojd.html](./ÖVNINGAR/ovn-bildbredd-bildhojd.html){:download="ovn-bildbredd-bildhojd.html"} Högerklicka välj "ladda ner länk"
+ÖVNING 10.6 [/ÖVNINGAR/ovn-bildbredd-bildhojd.html](./ÖVNINGAR/ovn-bildbredd-bildhojd.html){:download="ovn-bildbredd-bildhojd.html"} Högerklicka välj "ladda ner länk". Se till att bilden lion.jpg ligger i samma mapp som bild-bredd-hojd.html, annars syns inte bilden.
 
 ## 10.3 Boxmodellen
 
