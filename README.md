@@ -1,6 +1,6 @@
 # Webbutveckling 1 av Paul Belfrage
 
-Du kan ladda ner alla koderna och filerna i detta dokument [som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip)
+Jag rekomenderar att du laddar ner alla exemplen och övningsfilerna istället för att ladda ner dem en och en. Du kan ladda ner alla filer[som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip)
 
 # 1. Om läromedlets uppbyggnad
 
@@ -418,18 +418,18 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 
 ### 10.2.7 Bildbredd och bildhöjd
 
-[bild-bredd-hojd.html](./bild-bredd-hojd.html){:download="bild-bredd-hojd.html"} Högerklicka välj "ladda ner länk"
-Se till att bilden lion.jpg ligger i samma mapp som bild-bredd-hojd.html, annars syns inte bilden.
+[bild-bredd-hojd.html](./bild-bredd-hojd.html){:download="bild-bredd-hojd.html"}. Högerklicka välj "ladda ner länk"
+Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ### 10.2.8 object-fit
 
-ÖVNING 10.6 [/ÖVNINGAR/ovn-bildbredd-bildhojd.html](./ÖVNINGAR/ovn-bildbredd-bildhojd.html){:download="ovn-bildbredd-bildhojd.html"} Högerklicka välj "ladda ner länk". Se till att bilden lion.jpg ligger i samma mapp som bild-bredd-hojd.html, annars syns inte bilden.
+ÖVNING 10.6 [/ÖVNINGAR/ovn-bildbredd-bildhojd.html](./ÖVNINGAR/ovn-bildbredd-bildhojd.html){:download="ovn-bildbredd-bildhojd.html"} Högerklicka välj "ladda ner länk". Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ## 10.3 Boxmodellen
 
 [boxmodellen.html](./boxmodellen.html){:download="boxmodellen.html"} Högerklicka välj "ladda ner länk"
 
-ÖVNING 10.7 [/ÖVNINGAR/ovn-boxmodellen.html](./ÖVNINGAR/ovn-boxmodellen.html){:download="ovn-boxmodellen.html"} Högerklicka välj "ladda ner länk"
+ÖVNING 10.7 [/ÖVNINGAR/ovn-boxmodellen.html](./ÖVNINGAR/ovn-boxmodellen.html){:download="ovn-boxmodellen.html"} Högerklicka välj "ladda ner länk". Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ## 10.4 Block och inline
 
@@ -514,6 +514,8 @@ Se till att bilden lion.jpg ligger i samma mapp som bild-bredd-hojd.html, annars
 
 [webbplats kap8 - sementiska element (ZIP-fil)](./webbplats%20kap8%20-%20sementiska%20element.zip)
 
+[webbplats kap10 - css (ZIP-fil)](./webbplats%20kap10%20-%20css.zip)
+
 ÖVNING [modernfontstacks.com](https://modernfontstacks.com/)
 
 # 11 Flexbox och grid
@@ -522,7 +524,7 @@ Se till att bilden lion.jpg ligger i samma mapp som bild-bredd-hojd.html, annars
 
 [Flexbox kunde användas i många webbläsare 2014 och Grid 2017](https://apptitude.ch/en/development/web-layout-part-2-flexbox-and-grid/#:~:text=Two%20of%20them%20have%20radically,started%20to%20support%20in%202017.)
 
-## 11.1 Flex
+## 11.1 Flexbox
 
 [flexbox.html](./flexbox.html){:download="flexbox.html"} Högerklicka välj "ladda ner länk"
 
@@ -530,7 +532,7 @@ Se till att bilden lion.jpg ligger i samma mapp som bild-bredd-hojd.html, annars
 
 [flexbox-flex-i-flex-i-flex.html](./flexbox-flex-i-flex-i-flex.html){:download="flexbox-flex-i-flex-i-flex.html"} Högerklicka välj "ladda ner länk"
 
-### 11.1.1 Flex
+### 11.1.1 flex
 
 [flexbox-flex.html](./flexbox-flex.html){:download=" flexbox-flex.html"} Högerklicka välj "ladda ner länk"
 
@@ -540,7 +542,7 @@ Se till att bilden lion.jpg ligger i samma mapp som bild-bredd-hojd.html, annars
 
 ### 11.1.3 Gap och flex-wrap: wrap
 
-[lex-gap.html](./flex-gap.html){:download=" lex-gap.html"} Högerklicka välj "ladda ner länk"
+[flex-gap.html](./flex-gap.html){:download=" lex-gap.html"} Högerklicka välj "ladda ner länk"
 
 [An Interactive Guide to Flexbox av Josh W Comeau](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 
