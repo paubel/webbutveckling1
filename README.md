@@ -744,7 +744,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ## 18.1 Fördjupning i att ange färger
 
-[odepen.io/paubel/full/jOQRyRe](https://codepen.io/paubel/full/jOQRyRe)
+[codepen.io/paubel/full/jOQRyRe](https://codepen.io/paubel/full/jOQRyRe)
 
 [evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 
@@ -819,6 +819,8 @@ TODO: inspektorn
 [Wikipedia](https://en.wikipedia.org/wiki/Chromostereopsis)
 
 [webaim.org](https://webaim.org/resources/contrastchecker/)
+
+# 23 Användning av bilder och media i lämpliga format för webben
 
 ÖVNING 23.1
 [hart-zoom.svg](./hart-zoom.svg){:download="hart-zoom.svg} Högerklicka välj "ladda ner länk"
