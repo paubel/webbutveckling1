@@ -691,7 +691,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 [webbplats kap14 - responsiv design - mobilanpassning (ZIP-fil)](./webbplats%20kap14%20-%20responsiv%20design%20-%20mobilanpassning.zip)
 
-# 15 JavaScript - Orientering om javascript och DOM (dokumentobjektsmodellen)
+# 15 JavaScript
 
 [Quiz 15](./quiz/quiz-w1-kap15/index.html){:target="\_blank"}
 
@@ -718,7 +718,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 [Google Fonts](https://fonts.google.com/)
 
-# 17 Färglära, färgschema, RGB och kontraster
+# 17 Färglära, färgschema och RGB
 
 [Quiz 17](./quiz/quiz-w1-kap17/index.html){:target="\_blank"}
 
@@ -759,6 +759,8 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 ## 19.1 Usability (Användbarhet)
 
 [The State Of Usability In 2023](https://www.smashingmagazine.com/2023/01/usability-2023/)
+
+ÖVINING 19.1 [world's shortest UI/UX design course](https://www.youtube.com/watch?v=wIuVvCuiJhU&ab_channel=Juxtopposed)
 
 ## 19.7 Minska belastningen på korttidsminnet
 
