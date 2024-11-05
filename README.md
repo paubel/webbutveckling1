@@ -952,7 +952,7 @@ TODO: inspektorn
 
 [www.smashingmagazine.com/2018/03/using-ethics-in-web-design/ ](https://www.smashingmagazine.com/2018/03/using-ethics-in-web-design/)
 
-# 27 PPlanering av webbplats
+# 27 Planering av webbplats
 
 [Quiz 27](./quiz/quiz-w1-kap27/index.html){:target="\_blank"}
 
