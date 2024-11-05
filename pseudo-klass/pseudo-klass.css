@@ -1,0 +1,96 @@
+/* Dessa exempel är mycket förenklade för att bara titta på en sak i taget. Endast color: används för att jämföra olika pseudo-element */
+
+/* icke besökta länkar */
+
+.simple {
+  border: 1px solid black;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+.simple a {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-right: 0.5em;
+}
+
+.no-pseudo-class {
+  color: blue;
+}
+
+.link:link {
+  color: green;
+}
+
+/* för att få grönt på alla länkar som är besökta */
+/* a:visited {
+  color: green;
+}
+ */
+/* OBS i Chrome gå till history cmd + y och ta bort denna sida länkar */
+/*  besökta länkar */
+.visited:visited {
+  color: darkgoldenrod;
+}
+
+/*  håller markören över länken */
+.hover:hover {
+  color: turquoise;
+}
+
+/* om du använder tab för att hoppa fram till bla länkar
+        ELLER klickar på länken   */
+.focus:focus {
+  color: red;
+}
+
+/* när du klickar på länken och håller ner. Detta för att veta när man klickat */
+.active:active {
+  color: yellow;
+}
+
+/* real START */
+
+.real {
+  border: 1px solid black;
+  padding: 1em;
+}
+
+/* “Lord Vader Hates Fluffy Animals” */
+.real a {
+  background-color: green;
+  color: white;
+  padding: 0.4em;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+/*.real a:link  är ofta inte nödvändigt*/
+
+.real a:link {
+  background-color: green;
+}
+
+.real a:visited {
+  background-color: darkgoldenrod;
+}
+
+.real a:hover {
+  background-color: turquoise;
+}
+
+.real a:focus {
+  background-color: red;
+}
+
+.real a:active {
+  background-color: yellow;
+  color: black;
+}
+
+a[href="pseudo-klass.html"],
+a[href="pseudo-klass-visited.html"] {
+  color: lightgreen;
+}
+
+/* real END */

@@ -548,7 +548,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 [Flexbox kod till filmerna (ZIP-fil)](./flexbox-kod-till-filmer.zip)
 
-[filmer om flexbox](https://youtube.com/playlist?list=PLNadygDF_9TE5Z_tMI78D2Y9Ogm6Ft68l&si=qZmuznftP_frx7B9)
+[filmer om flexbox (YouTube)](https://youtube.com/playlist?list=PLNadygDF_9TE5Z_tMI78D2Y9Ogm6Ft68l&si=qZmuznftP_frx7B9)
 
 [An Interactive Guide to Flexbox av Josh W Comeau](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 
@@ -636,6 +636,8 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 ## 12.3 Pseudoklasser
 
 [pseudo-klass (ZIP-fil)](./pseudo-klass.zip)
+
+[pseudo-klasser förklarade (YouTube)](https://youtu.be/YYAVHLbG6As?si=0Q-X0_VUegEmea2Y)
 
 # 12.4 line-height
 
