@@ -58,6 +58,8 @@ Spellistans innehåll
 
 [Länk till Visual Studio Code](https://code.visualstudio.com)
 
+[webbplats kap2 - grunder (ZIP-fil)](./webbplats%20kap2%20-%20html%20grunder.zip)
+
 # 3. En kort historik om webben
 
 [Quiz 3](./quiz/quiz-w1-kap3/index.html){:target="\_blank"}
