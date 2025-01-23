@@ -978,16 +978,27 @@ YouTube [Hur man läger upp en webbplats på GitHub och publicerar den på inter
 [survey.stackoverflow.co](https://survey.stackoverflow.co/)
 
 [wordpress.com](https://wordpress.com/)
+
 [wordpress.org](https://wordpress.org/)
+
 [www.wix.com](https://www.wix.com/)
+
 [www.squarespace.com](https://www.squarespace.com/)
+
 [www.adobe.com/products/dreamweaver.html](https://www.adobe.com/products/dreamweaver.html)
+
 [pinegrow.com](https://pinegrow.com/)
+
 [getbootstrap.com](https://getbootstrap.com/)
+
 [tailwindcss.com](https://tailwindcss.com/)
+
 [astro.build](https://astro.build/)
+
 [react.dev](https://react.dev/)
+
 [angular.io](https://angular.io/)
+
 [vuejs.org](https://vuejs.org/)
 
 # 30 Webbutveckling 1 - ämnesplan
