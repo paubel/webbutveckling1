@@ -959,6 +959,12 @@ TODO: inspektorn
 
 # 27 Planering av webbplats
 
+## 27.1 Kom igång med Figma
+
+[Filmer som visar hur man jobbar med Figma](https://youtu.be/skDixiQdNSE?si=TtRwoccdhPscS9V9)
+
+[Figma.com](https://figma.com)
+
 [Quiz 27](./quiz/quiz-w1-kap27/index.html){:target="\_blank"}
 
 # 28 Publicera webbplatser
