@@ -3,7 +3,7 @@
 Jag rekomenderar att du laddar ner alla exemplen och övningsfilerna istället för att ladda ner dem en och en. Du kan ladda ner alla filer[som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip)
 
 Till läraren: Förslag på hur uppgifter kan se ut hittar du på http://paulbelfrage.se/
-[paulbelfrage.se](https://sites.google.com/view/belfrage/home). Jag rekomenderar starkt att du hittar på egna exempel på uppgifter.
+[paulbelfrage.se](https://sites.google.com/view/belfrage/home). Jag rekomenderar starkt att du hittar på egna exempel på uppgifter
 
 # 1. Om läromedlets uppbyggnad
 
@@ -781,6 +781,10 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 TODO: inspektorn
 
+## 21.2 Lighthouse
+
+[Introduction to Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)
+
 ## 21.3 Interoperabilitet genom standarder och testning på olika användaragenter
 
 [Usage share of web browsers](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#Summary_tables)
@@ -958,6 +962,12 @@ TODO: inspektorn
 [www.smashingmagazine.com/2018/03/using-ethics-in-web-design/ ](https://www.smashingmagazine.com/2018/03/using-ethics-in-web-design/)
 
 # 27 Planering av webbplats
+
+## 27.1 Kom igång med Figma
+
+[Filmer som visar hur man jobbar med Figma](https://youtu.be/skDixiQdNSE?si=TtRwoccdhPscS9V9)
+
+[Figma.com](https://figma.com)
 
 [Quiz 27](./quiz/quiz-w1-kap27/index.html){:target="\_blank"}
 
