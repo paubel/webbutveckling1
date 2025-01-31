@@ -3,7 +3,7 @@
 Jag rekomenderar att du laddar ner alla exemplen och övningsfilerna istället för att ladda ner dem en och en. Du kan ladda ner alla filer[som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip)
 
 Till läraren: Förslag på hur uppgifter kan se ut hittar du på http://paulbelfrage.se/
-[paulbelfrage.se](https://sites.google.com/view/belfrage/home). Jag rekomenderar starkt att du hittar på egna exempel på uppgifter.
+[paulbelfrage.se](https://sites.google.com/view/belfrage/home). Jag rekomenderar starkt att du hittar på egna exempel på uppgifter
 
 # 1. Om läromedlets uppbyggnad
 
@@ -780,6 +780,10 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 [Quiz 21](./quiz/quiz-w1-kap21/index.html){:target="\_blank"}
 
 TODO: inspektorn
+
+## 21.2 Lighthouse
+
+[Introduction to Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)
 
 ## 21.3 Interoperabilitet genom standarder och testning på olika användaragenter
 
