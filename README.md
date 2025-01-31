@@ -784,6 +784,7 @@ TODO: inspektorn
 ## 21.2 Lighthouse
 
 [Introduction to Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)
+[Författaren visar hur denne använder Lighthouse](https://youtu.be/fNJ1KoaMmP8?list=PLNadygDF_9THE8vAVU6RKSXKp93MJZ211&t=472)
 
 ## 21.3 Interoperabilitet genom standarder och testning på olika användaragenter
 
