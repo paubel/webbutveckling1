@@ -715,6 +715,11 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 [https://www.w3schools.com](www.w3schools.com)
 [scrimba.com/learn/learnjavascript](https://scrimba.com/learn/learnjavascript)
 
+ÖVNING 15.1
+[How TO - Slideshow](https://www.w3schools.com/howto/howto_js_slideshow.asp)
+
+[How TO - Responsive Top Navigation](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
+
 # 16 Fonter
 
 [Quiz 16](./quiz/quiz-w1-kap16/index.html){:target="\_blank"}
@@ -749,7 +754,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ## 18.1 Fördjupning i att ange färger
 
-[codepen.io/paubel/full/jOQRyRe](https://codepen.io/paubel/full/jOQRyRe)
+[**codepen.io/paubel/full/jOQRyRe**](https://codepen.io/paubel/full/jOQRyRe)
 
 [evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 
