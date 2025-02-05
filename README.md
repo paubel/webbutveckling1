@@ -684,6 +684,10 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 [Statscounter](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/worldwide/#monthly-200901-202306)
 
+## 14.1 Responsiva bilder
+
+[responsiva-bilder.html](./responsiva-bilder.html){:download="responsiva-bilder.html} Högerklicka välj "ladda ner länk"
+
 ## 14.2 Media Queries
 
 [media-queries.html](./media-queries.html){:download="media-queries.html} Högerklicka välj "ladda ner länk"
