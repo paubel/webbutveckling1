@@ -3,7 +3,7 @@
 Jag rekomenderar att du laddar ner alla exemplen och övningsfilerna istället för att ladda ner dem en och en. Du kan ladda ner alla filer[som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip)
 
 Till läraren: Förslag på hur uppgifter kan se ut hittar du på http://paulbelfrage.se/
-[paulbelfrage.se](https://sites.google.com/view/belfrage/home). Jag rekomenderar starkt att du hittar på egna exempel på uppgifter
+[paulbelfrage.se](https://sites.google.com/view/belfrage/home). Jag rekommenderar att du hittar på egna exempel på uppgifter, men använd gärna mina som inspiration. 
 
 # 1. Om läromedlets uppbyggnad
 
