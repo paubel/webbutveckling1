@@ -1,6 +1,9 @@
 # Webbutveckling 1 av Paul Belfrage
 
-Jag rekommenderar att du laddar ner alla exemplen och övningsfilerna istället för att ladda ner dem en och en. Du kan ladda ner alla filer [som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip) Läs redan README.md filen.
+Jag rekommenderar att du laddar ner alla exemplen och övningsfilerna istället för att ladda ner dem en och en. Du kan ladda ner alla filer [som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip) Läs sedan README.md filen.
+
+Om du vill kunna se md-filen lokalat som en webbsida med klick bara länkar laddar du ner [Markdown Viewer](https://chromewebstore.google.com/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk). Titta på [denna film](https://www.youtube.com/watch?v=mlB-SQVq_oU) för att få igång Markdown Viewer. Detta behöver du inte göra om du tittar direkt på md-filen på github.
+För Firefox finns [Markdown Viewer Webext](https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-webext/). Dra och släpp .md-filen i webbläsaren.
 
 Till läraren: Förslag på hur uppgifter kan se ut hittar du på http://paulbelfrage.se/
 [paulbelfrage.se](https://sites.google.com/view/belfrage/home). Jag rekommenderar att du hittar på egna exempel på uppgifter, men använd gärna mina som inspiration.
