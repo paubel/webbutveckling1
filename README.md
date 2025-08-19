@@ -333,7 +333,7 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 
 # 9 Hjälp med med kodningen
 
-[Quiz 9](./quiz/quiz-w1-kap9/index.html){:target="\_blank"}
+Quiz finns ej
 
 ## 9.1 HTML referenser
 
