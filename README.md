@@ -81,6 +81,8 @@ Spellistans innehåll
 
 ## 4.1 Bit, byte, kilobyte, megabyte, gigabyte, terabyte, megabit/sekund, gigabit/sekund
 
+FEL på sidan 16 - 4.1 Bit och byte. Se tabellen. Det finns en nolla för mycket 1 000 000 000 000 bytes = 1 TB (terabyte) är korrekt
+
 ## 4.2 Webbens betydelse och funktion - Webben som plattform och dess samhällspåverkan.
 
 [Tom Scotts genomgång om varför val på webben är en dålig idé på YouTube.](https://www.youtube.com/watch?v=LkH2r-sNjQs&ab_channel=TomScott)
