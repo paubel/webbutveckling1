@@ -408,8 +408,6 @@ Quiz finns ej
 
 [Google Fonts](https://fonts.google.com/)
 
-[några exempel som på hur GDPR har påverkat](https://docs.google.com/document/d/1-cd8Pz6rN5zWkN8U08wpzmiRgwi494pqwqzpsCeBck0/edit#heading=h.rzpwh8v17s6p)
-
 [typografi.html](./typografi.html){:download="typografi.html"} Högerklicka välj "ladda ner länk"
 
 ### 10.2.4 Modern Font Stacks
