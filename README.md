@@ -1,6 +1,6 @@
 # Webbutveckling 1 av Paul Belfrage
 
-Länkar kontrollerade 240401
+Länkar kontrollerade 240401 10:33
 
 Jag rekommenderar att du laddar ner alla exemplen och övningsfilerna istället för att ladda ner dem en och en. Du kan ladda ner alla filer [som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip) Läs sedan README.md filen.
 
