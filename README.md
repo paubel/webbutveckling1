@@ -712,9 +712,9 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 [webbplats kap15 - javascript (ZIP-fil)](./webbplats%20kap15%20-%20javascript.zip)
 
-[https://javascript.info/](javascript.info)
-[https://www.w3schools.com/js/](www.w3schools.com/js)
-[https://developer.mozilla.org/en-US/docs/Learn/JavaScript](developer.mozilla.org/en-US/docs/Learn/JavaScript)
+[https://javascript.info/](https://javascript.info)
+[https://www.w3schools.com/js/](https://www.w3schools.com/js)
+[https://developer.mozilla.org/en-US/docs/Learn/JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 [https://www.w3schools.com](www.w3schools.com)
 [scrimba.com/learn/learnjavascript](https://scrimba.com/learn/learnjavascript)
@@ -745,16 +745,16 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 [www.canva.com/colors/color-wheel/](https://www.canva.com/colors/color-wheel/)
 
 ÖVNING 17.1
-[http://www.realtimecolors.com](www.realtimecolors.com)
-[https://coolors.co/](coolors.co)
-[https://paletton.com/](paletton.com)
-[https://www.canva.com/colors/color-palette-generator/](www.canva.com/colors/color-palette-generator/)
+[http://www.realtimecolors.com](https://www.realtimecolors.com)
+[https://coolors.co/](https://coolors.co)
+[https://paletton.com/](https://paletton.com)
+[https://www.canva.com/colors/color-palette-generator/](https://www.canva.com/colors/color-palette-generator/)
 
 # 18 Ange färger i CSS
 
 [Quiz 18](./quiz/quiz-w1-kap18/index.html){:target="\_blank"}
 
-ÖVNING 18.1 [https://www.w3schools.com/colors/colors_rgb.asp](www.w3schools.com/colors/colors_rgb.asp)
+ÖVNING 18.1 [https://www.w3schools.com/colors/colors_rgb.asp](https://www.w3schools.com/colors/colors_rgb.asp)
 
 ## 18.1 Fördjupning i att ange färger
 
@@ -899,7 +899,7 @@ TODO: inspektorn
 
 ## 24.1 Bildformat
 
-[https://w3techs.com/technologies/history_overview/image_format/all/y](w3techs.com/technologies/history_overview/image_format/all/y)
+[https://w3techs.com/technologies/history_overview/image_format/all/y](https://w3techs.com/technologies/history_overview/image_format/all/y)
 
 ### 24.1.4 WebP
 
@@ -933,7 +933,7 @@ TODO: inspektorn
 
 [Quiz 25](./quiz/quiz-w1-kap25/index.html){:target="\_blank"}
 
-[pixabay.com/music/](pixabay.com/music/)
+[pixabay.com/music/](https://pixabay.com/music/)
 
 [Audacity](https://www.audacityteam.org/download/)
 
@@ -1021,6 +1021,4 @@ YouTube [Hur man läger upp en webbplats på GitHub och publicerar den på inter
 
 [vuejs.org](https://vuejs.org/)
 
-# 30 Webbutveckling 1 - ämnesplan
 
-[Webbutveckling 1 - ämnesplan - syfte - betygskriterier](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEBB%26courseCode%3DWEBB1000X%26date%3D2025-07-01%26lang%3D%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_WEBB1000X)
