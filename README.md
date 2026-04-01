@@ -716,7 +716,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 [https://www.w3schools.com/js/](https://www.w3schools.com/js)
 [https://developer.mozilla.org/en-US/docs/Learn/JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
-[https://www.w3schools.com](www.w3schools.com)
+[https://www.w3schools.com](https://www.w3schools.com)
 [scrimba.com/learn/learnjavascript](https://scrimba.com/learn/learnjavascript)
 
 ÖVNING 15.1
