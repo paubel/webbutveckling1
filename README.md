@@ -490,6 +490,8 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 [klassselektorer.html](./klassselektorer.html){:download="klassselektorer.html"} Högerklicka välj "ladda ner länk"
 
+[klassselektorer.html](https://github.com/paubel/webbutveckling1/blob/main/klasselektorer.html){:download="klassselektorer.html"} Högerklicka välj "ladda ner länk"
+
 [BEM](https://getbem.com/introduction/)
 
 ### 10.7.4 ID-selektorer och lite JavaScript
