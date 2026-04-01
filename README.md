@@ -2,7 +2,7 @@
 
 Jag rekommenderar att du laddar ner alla exemplen och övningsfilerna istället för att ladda ner dem en och en. Du kan ladda ner alla filer [som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip) Läs sedan README.md filen.
 
-Om du vill kunna se md-filen lokalat som en webbsida med klick bara länkar laddar du ner [Markdown Viewer](https://chromewebstore.google.com/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk). Titta på [denna film](https://www.youtube.com/watch?v=mlB-SQVq_oU) för att få igång Markdown Viewer. Detta behöver du inte göra om du tittar direkt på md-filen på github.
+Titta på [denna film](https://www.youtube.com/watch?v=mlB-SQVq_oU) för att få igång Markdown Viewer. Detta behöver du inte göra om du tittar direkt på md-filen på github.
 För Firefox finns [Markdown Viewer Webext](https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-webext/). Dra och släpp .md-filen i webbläsaren.
 
 Till läraren: Förslag på hur uppgifter kan se ut hittar du på
@@ -71,8 +71,6 @@ Spellistans innehåll
 
 [ADSL](https://en.wikipedia.org/wiki/ADSL)
 
-[surfa på webben](https://it-ord.idg.se/ord/surfning/)
-
 [Uppkoppling till internet 1969 - 2003](https://docs.google.com/spreadsheets/d/1fgWcUDBK9RMW_CsseeGX5QM30r9RBjWctUvfnvhnwZo/edit?usp=sharing)
 
 # 4. Tekniken bakom webben
@@ -139,9 +137,9 @@ FEL på sidan 16 - 4.1 Bit och byte. Se tabellen. Det finns en nolla för mycket
 
 [Public Domain Mark](https://creativecommons.org/share-your-work/public-domain/pdm/)
 
-[https://openverse.org/](openverse.org/)
+[https://openverse.org/]([https://openverse.org/))
 
-[http://google.com](google.com)
+[http://google.com](https://google.com)
 
 [www.flickr.com/creativecommons/](https://www.flickr.com/creativecommons/)
 
