@@ -265,7 +265,7 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 
 ## 7.8 `<input type="number"> och <button type="submit">`
 
-[formular-number.html](./formular-number.html){:download="formular-number.html"} Högerklicka välj "ladda ner länk"
+[formular-number.html](./formular-number.html){:download="fomular-number.html"} Högerklicka välj "ladda ner länk"
 
 [CodePen: Skicka data från formulär med JS till klienten](https://codepen.io/paubel/pen/OJrLmVO)
 
@@ -396,7 +396,7 @@ Quiz finns ej
 
 [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 
-ÖVNING 10.3 [/ÖVNINGAR/ovn-color-och-background-color.html](./ÖVNINGAR/ovn-color-och-background-color.htmll){:download="ovn-color-och-background-color.html"} Högerklicka välj "ladda ner länk"
+ÖVNING 10.3 [/ÖVNINGAR/ovn-color-och-background-color.html](./ÖVNINGAR/ovn-color-och-background-color.html){:download="ovn-color-och-background-color.html"} Högerklicka välj "ladda ner länk"
 
 ### 10.2.2 Typografi och fonter
 
