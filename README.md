@@ -506,7 +506,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ### 10.7.6 Kedjeselektorer
 
-[kedjeselektorer.html](./kedjeselektorer.html){:download="kedjeselektorer.html"} Högerklicka välj "ladda ner länk"
+[klasselektorer.html](./klasselektorer.html){:download="kedjeselektorer.html"} Högerklicka välj "ladda ner länk"
 
 ### 10.7.7 Härstammande kombinator
 
