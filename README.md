@@ -137,7 +137,7 @@ FEL på sidan 16 - 4.1 Bit och byte. Se tabellen. Det finns en nolla för mycket
 
 [Public Domain Mark](https://creativecommons.org/share-your-work/public-domain/pdm/)
 
-[https://openverse.org/]([https://openverse.org/))
+[Openverse](https://openverse.org/)
 
 [http://google.com](https://google.com)
 
@@ -265,7 +265,8 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 
 ## 7.8 `<input type="number"> och <button type="submit">`
 
-[formular-number.html](./formular-number.html){:download="fomular-number.html"} Högerklicka välj "ladda ner länk"
+
+[formular-number.html](https://github.com/paubel/webbutveckling1/blob/main/fomular-number.html)
 
 [CodePen: Skicka data från formulär med JS till klienten](https://codepen.io/paubel/pen/OJrLmVO)
 
