@@ -615,7 +615,6 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 [webbplats kap11 - flexbox och meny (ZIP-fil)](./webbplats%20kap11%20-%20flexbox%20och%20meny.zip)
 
-[webbplats kap11 - grid (ZIP-fil)](./webbplats%20kap11%20-%20grid.zip)
 
 # 12 CSS Enheter
 
@@ -625,7 +624,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ### 12.1.1 px
 
-[www.w3.org/Style/Examples/007/units.en.html](www.w3.org/Style/Examples/007/units.en.html)
+[www.w3.org/Style/Examples/007/units.en.html](https://www.w3.org/Style/Examples/007/units.en.html)
 
 ## 12.2 Relativa enheter
 
