@@ -1,5 +1,7 @@
 # Webbutveckling 1 av Paul Belfrage
 
+Länkar kontrollerade 240401
+
 Jag rekommenderar att du laddar ner alla exemplen och övningsfilerna istället för att ladda ner dem en och en. Du kan ladda ner alla filer [som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip) Läs sedan README.md filen.
 
 Titta på [denna film](https://www.youtube.com/watch?v=mlB-SQVq_oU) för att få igång Markdown Viewer. Detta behöver du inte göra om du tittar direkt på md-filen på github.
