@@ -652,8 +652,6 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ÖVNING 12.1 Astronomiska föreningen Orionalliansen.
 
-[webbplats kap11 - grid (ZIP-fil)](./webbplats%20kap11%20-%20grid.zip)
-
 [webbplats kap12 - enheter pseudoklasser line-height (ZIP-fil)](./webbplats%20kap12%20-%20enheter%20pseudoklasser%20line-height.zip)
 
 # 13 Mer om CSS
@@ -664,11 +662,11 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 [Amelia Wittenbergers blogg](https://2019.wattenberger.com/blog/css-cascade)
 
-[Mer om layers på MDN](developer.mozilla.org/en-US/docs/Web/CSS/@layer)
+[Mer om layers på MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@layer)
 
 [specificity.keegan.st](https://specificity.keegan.st/)
 
-[2019.wattenberger.com/blog/css-cascade](2019.wattenberger.com/blog/css-cascade)
+[2019.wattenberger.com/blog/css-cascade](https://2019.wattenberger.com/blog/css-cascade)
 
 ## 13.2 Arv av egenskaper
 
