@@ -396,9 +396,7 @@ Quiz finns ej
 
 [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 
-OLD ÖVNING 10.3 [/ÖVNINGAR/ovn-color-och-background-color.html](./ÖVNINGAR/ovn-color-och-background-color.html){:download="ovn-color-och-background-color.html"} Högerklicka välj "ladda ner länk"
-
-ÖVNING 10.3 [/ÖVNINGAR/ovn-color-och-background-color.html](https://github.com/paubel/webbutveckling1/blob/main/%C3%96VNINGAR/ovn-color-och-background-color.html){:download="ovn-color-och-background-color.html"} Högerklicka välj "ladda ner länk"
+ÖVNING 10.3 [/ÖVNINGAR/ovn-color-och-background-color.html](./ÖVNINGAR/ovn-color-och-background-color.html){:download="ovn-color-och-background-color.html"} Högerklicka välj "ladda ner länk"
 
 ### 10.2.2 Typografi och fonter
 
