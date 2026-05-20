@@ -1,6 +1,6 @@
 # Webbutveckling 1 av Paul Belfrage
 
-Länkar kontrollerade 260520 10:30
+Länkar kontrollerade 260520 10:34
 
 Jag rekommenderar att du laddar ner alla exemplen och övningsfilerna istället för att ladda ner dem en och en. Du kan ladda ner alla filer [som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip) Läs sedan README.md filen.
 
@@ -506,7 +506,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ### 10.7.6 Kedjeselektorer
 
-[klasselektorer.html](./klasselektorer.html){:download="kedjeselektorer.html"} Högerklicka välj "ladda ner länk"
+[kedjeselektorer.html](./kedjeselektorer.html){:download="kedjeselektorer.html"} Högerklicka välj "ladda ner länk"
 
 ### 10.7.7 Härstammande kombinator
 
