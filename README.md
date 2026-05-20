@@ -1,10 +1,8 @@
 # Webbutveckling 1 av Paul Belfrage
 
-Länkar kontrollerade 240401 10:45
-
 Jag rekommenderar att du laddar ner alla exemplen och övningsfilerna istället för att ladda ner dem en och en. Du kan ladda ner alla filer [som en ZIP här](https://github.com/paubel/webbutveckling1/archive/refs/heads/main.zip) Läs sedan README.md filen.
 
-Titta på [denna film](https://www.youtube.com/watch?v=mlB-SQVq_oU) för att få igång Markdown Viewer. Detta behöver du inte göra om du tittar direkt på md-filen på github.
+Om du vill kunna se md-filen lokalat som en webbsida med klick bara länkar laddar du ner [Markdown Viewer](https://chromewebstore.google.com/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk). Titta på [denna film](https://www.youtube.com/watch?v=mlB-SQVq_oU) för att få igång Markdown Viewer. Detta behöver du inte göra om du tittar direkt på md-filen på github.
 För Firefox finns [Markdown Viewer Webext](https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-webext/). Dra och släpp .md-filen i webbläsaren.
 
 Till läraren: Förslag på hur uppgifter kan se ut hittar du på
@@ -73,6 +71,8 @@ Spellistans innehåll
 
 [ADSL](https://en.wikipedia.org/wiki/ADSL)
 
+[surfa på webben](https://it-ord.idg.se/ord/surfning/)
+
 [Uppkoppling till internet 1969 - 2003](https://docs.google.com/spreadsheets/d/1fgWcUDBK9RMW_CsseeGX5QM30r9RBjWctUvfnvhnwZo/edit?usp=sharing)
 
 # 4. Tekniken bakom webben
@@ -139,9 +139,9 @@ FEL på sidan 16 - 4.1 Bit och byte. Se tabellen. Det finns en nolla för mycket
 
 [Public Domain Mark](https://creativecommons.org/share-your-work/public-domain/pdm/)
 
-[Openverse](https://openverse.org/)
+[https://openverse.org/](openverse.org/)
 
-[http://google.com](https://google.com)
+[http://google.com](google.com)
 
 [www.flickr.com/creativecommons/](https://www.flickr.com/creativecommons/)
 
@@ -267,7 +267,7 @@ I filen fel-i-koden-facit.zip finns facit i form av kommentrarer. [/ÖVNINGAR/fe
 
 ## 7.8 `<input type="number"> och <button type="submit">`
 
-[formular-number.html](https://github.com/paubel/webbutveckling1/blob/main/fomular-number.html){:download="fomular-number.html"} Högerklicka välj "ladda ner länk"
+[formular-number.html](./formular-number.html){:download="formular-number.html"} Högerklicka välj "ladda ner länk"
 
 [CodePen: Skicka data från formulär med JS till klienten](https://codepen.io/paubel/pen/OJrLmVO)
 
@@ -398,7 +398,7 @@ Quiz finns ej
 
 [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 
-ÖVNING 10.3 [/ÖVNINGAR/ovn-color-och-background-color.html](./ÖVNINGAR/ovn-color-och-background-color.html){:download="ovn-color-och-background-color.html"} Högerklicka välj "ladda ner länk"
+ÖVNING 10.3 [/ÖVNINGAR/ovn-color-och-background-color.html](./ÖVNINGAR/ovn-color-och-background-color.htmll){:download="ovn-color-och-background-color.html"} Högerklicka välj "ladda ner länk"
 
 ### 10.2.2 Typografi och fonter
 
@@ -407,6 +407,8 @@ Quiz finns ej
 ### 10.2.3 Google fonts
 
 [Google Fonts](https://fonts.google.com/)
+
+[några exempel som på hur GDPR har påverkat](https://docs.google.com/document/d/1-cd8Pz6rN5zWkN8U08wpzmiRgwi494pqwqzpsCeBck0/edit#heading=h.rzpwh8v17s6p)
 
 [typografi.html](./typografi.html){:download="typografi.html"} Högerklicka välj "ladda ner länk"
 
@@ -488,7 +490,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ### 10.7.3 Klasselektorer
 
-[klasselektorer.html](./klassselektorer.html){:download="klasselektorer.html"} Högerklicka välj "ladda ner länk"
+[klassselektorer.html](./klasselektorer.html){:download="klassselektorer.html"} Högerklicka välj "ladda ner länk"
 
 [BEM](https://getbem.com/introduction/)
 
@@ -506,7 +508,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ### 10.7.6 Kedjeselektorer
 
-[klasselektorer.html](./klasselektorer.html){:download="kedjeselektorer.html"} Högerklicka välj "ladda ner länk"
+[kedjeselektorer.html](./kedjeselektorer.html){:download="kedjeselektorer.html"} Högerklicka välj "ladda ner länk"
 
 ### 10.7.7 Härstammande kombinator
 
@@ -615,6 +617,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 [webbplats kap11 - flexbox och meny (ZIP-fil)](./webbplats%20kap11%20-%20flexbox%20och%20meny.zip)
 
+[webbplats kap11 - grid (ZIP-fil)](./webbplats%20kap11%20-%20grid.zip)
 
 # 12 CSS Enheter
 
@@ -624,7 +627,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ### 12.1.1 px
 
-[www.w3.org/Style/Examples/007/units.en.html](https://www.w3.org/Style/Examples/007/units.en.html)
+[www.w3.org/Style/Examples/007/units.en.html](www.w3.org/Style/Examples/007/units.en.html)
 
 ## 12.2 Relativa enheter
 
@@ -652,6 +655,8 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ÖVNING 12.1 Astronomiska föreningen Orionalliansen.
 
+[webbplats kap11 - grid (ZIP-fil)](./webbplats%20kap11%20-%20grid.zip)
+
 [webbplats kap12 - enheter pseudoklasser line-height (ZIP-fil)](./webbplats%20kap12%20-%20enheter%20pseudoklasser%20line-height.zip)
 
 # 13 Mer om CSS
@@ -662,11 +667,11 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 [Amelia Wittenbergers blogg](https://2019.wattenberger.com/blog/css-cascade)
 
-[Mer om layers på MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@layer)
+[Mer om layers på MDN](developer.mozilla.org/en-US/docs/Web/CSS/@layer)
 
 [specificity.keegan.st](https://specificity.keegan.st/)
 
-[2019.wattenberger.com/blog/css-cascade](https://2019.wattenberger.com/blog/css-cascade)
+[2019.wattenberger.com/blog/css-cascade](2019.wattenberger.com/blog/css-cascade)
 
 ## 13.2 Arv av egenskaper
 
@@ -712,11 +717,11 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 [webbplats kap15 - javascript (ZIP-fil)](./webbplats%20kap15%20-%20javascript.zip)
 
-[https://javascript.info/](https://javascript.info)
-[https://www.w3schools.com/js/](https://www.w3schools.com/js)
-[https://developer.mozilla.org/en-US/docs/Learn/JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+[https://javascript.info/](javascript.info)
+[https://www.w3schools.com/js/](www.w3schools.com/js)
+[https://developer.mozilla.org/en-US/docs/Learn/JavaScript](developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
-[https://www.w3schools.com](https://www.w3schools.com)
+[https://www.w3schools.com](www.w3schools.com)
 [scrimba.com/learn/learnjavascript](https://scrimba.com/learn/learnjavascript)
 
 ÖVNING 15.1
@@ -745,16 +750,16 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 [www.canva.com/colors/color-wheel/](https://www.canva.com/colors/color-wheel/)
 
 ÖVNING 17.1
-[http://www.realtimecolors.com](https://www.realtimecolors.com)
-[https://coolors.co/](https://coolors.co)
-[https://paletton.com/](https://paletton.com)
-[https://www.canva.com/colors/color-palette-generator/](https://www.canva.com/colors/color-palette-generator/)
+[http://www.realtimecolors.com](www.realtimecolors.com)
+[https://coolors.co/](coolors.co)
+[https://paletton.com/](paletton.com)
+[https://www.canva.com/colors/color-palette-generator/](www.canva.com/colors/color-palette-generator/)
 
 # 18 Ange färger i CSS
 
 [Quiz 18](./quiz/quiz-w1-kap18/index.html){:target="\_blank"}
 
-ÖVNING 18.1 [https://www.w3schools.com/colors/colors_rgb.asp](https://www.w3schools.com/colors/colors_rgb.asp)
+ÖVNING 18.1 [https://www.w3schools.com/colors/colors_rgb.asp](www.w3schools.com/colors/colors_rgb.asp)
 
 ## 18.1 Fördjupning i att ange färger
 
@@ -899,7 +904,7 @@ TODO: inspektorn
 
 ## 24.1 Bildformat
 
-[https://w3techs.com/technologies/history_overview/image_format/all/y](https://w3techs.com/technologies/history_overview/image_format/all/y)
+[https://w3techs.com/technologies/history_overview/image_format/all/y](w3techs.com/technologies/history_overview/image_format/all/y)
 
 ### 24.1.4 WebP
 
@@ -933,7 +938,7 @@ TODO: inspektorn
 
 [Quiz 25](./quiz/quiz-w1-kap25/index.html){:target="\_blank"}
 
-[pixabay.com/music/](https://pixabay.com/music/)
+[pixabay.com/music/](pixabay.com/music/)
 
 [Audacity](https://www.audacityteam.org/download/)
 
@@ -1021,4 +1026,6 @@ YouTube [Hur man läger upp en webbplats på GitHub och publicerar den på inter
 
 [vuejs.org](https://vuejs.org/)
 
+# 30 Webbutveckling 1 - ämnesplan
 
+[Webbutveckling 1 - ämnesplan - syfte - betygskriterier](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEBB%26courseCode%3DWEBB1000X%26date%3D2025-07-01%26lang%3D%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_WEBB1000X)
